@@ -1,0 +1,6 @@
+name: Devin Reams
+description: Devin Reams's blog
+url: http://github.devin.reams.me
+pygments: true
+rdiscount:
+  extensions: [smart]
