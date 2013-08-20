@@ -1,0 +1,64 @@
+---
+layout: post
+title: Add Twitter Favorites to your site
+tags:
+- best practices
+- rss
+- simplepie
+- Social Media
+- twitter
+- WordPress
+status: publish
+type: post
+published: true
+meta:
+  aktt_notify_twitter: 'yes'
+  _edit_last: '1'
+  openid_comments: s:21:"a:1:{i:0;s:4:"1828";}";
+  btc_comment_counts: a:0:{}
+---
+<em>Hint: if you've never used <a href="http://twitter.com/devinreams">Twitter</a> the following won't make much sense to you.</em>
+
+I easily annoyed by people on Twitter who 'RT', or 're-tweet'; they simply post an update that says exactly what someone else says, plus attribution. Frankly, answering the Twitter mantra "What are you doing?" with "this is what someone else smarter, funnier, or more charming is doing" seems inane. It's poetic, though, in the sense that it's a quick litmus test for people worth "following." <a href="http://alexking.org/">Alex</a> has always been against this practice and suggested <a href="http://alexking.org/blog/2009/01/29/an-alternative-to-rts-on-twitter">an alternative to RTs:</a> favorites.
+
+<a href="http://twitter.com/devinreams/status/1461301788"><img src="http://devin.reams.me/wp/wp-content/uploads/2009/04/twitter-history-2.png" alt="Screenshot: History doesn&#039;t retweet itself" title="Screenshot: History doesn&#039;t retweet itself" width="490" height="119" class="aligncenter size-full wp-image-709" /></a>
+
+There are very few features on Twitter: updates, direct messages, replies, <em>favorites</em>, followers, followings. I charge everyone to use the favorites feature more often. In fact, there's a site dedicated to finding the real good ones: <a href="http://favrd.textism.com/">favrd</a>.
+
+Point being: I'm a huge proponent of using the little star. I've started publicizing my favorites here in the sidebar of <a href="http://mindaverse.com/">Mind/Averse</a> and it took less than 30 seconds using WordPress. It's really quite simple.
+
+<h2>Add Twitter favorites with the WordPress RSS widget</h2>
+
+<img src="http://devin.reams.me/wp/wp-content/uploads/2009/04/rss-widget.png" alt="Screenshot: WordPress RSS widget" title="Screenshot: WordPress RSS widget" width="441" height="328" class="aligncenter size-full wp-image-706" />
+
+Assuming you have a widget-friendly WordPress theme installed, simply do the following:
+
+<ol>
+	<li>From the WordPress dashbord, Browse to Appearance > Widgets</li>
+	<li>Select the 'Add' button next to the "RSS" widget</li>
+	<li>Visit your <a href="http://twitter.com/favorites">Twitter favorites</a> page and determine your personal RSS feed (view the page source if you're stuck here; find the &lt;link&gt; tag with http://twitter.com/favorites/<em>youridhere</em>.rss)</li>
+	<li>Insert the favorites feed into your RSS widget, give the widget a title, pick your options, etc.</li>
+	<li>Save the widget and save the changes to your sidebar</li>
+</ol>
+
+
+
+Now everyone who visits your site can immediately find the tweets you find useful. You'll get to be cooler, smarter, and funnier simply by association.
+
+<h2>Other ways to integrate Twitter favorites</h2>
+
+I can think of various creative ways for individuals and businesses to use Twitter favorites.
+
+For example, if I were a company with customers sending @replies to me telling me how great I was, I may favorite those. I can then use something like <a href="http://simplepie.org/">SimplePie</a> to integrate my favorites into my blog as a separate page of testimonials. I know 37signals uses 'buzz' from Twitter on their site.
+
+<a href="http://37signals.com/"><img src="http://devin.reams.me/wp/wp-content/uploads/2009/04/37signals-twitter.png" alt="Screenshot: 37signals buzz around the web" title="Screenshot: 37signals buzz around the web" width="411" height="304" class="aligncenter size-full wp-image-707" /></a>
+
+<h2>Bonus: do the same with @replies</h2>
+
+The @replies RSS feed is a bit different and uses the Twitter API and 401 authentication, not a custom RSS feed, for your replies. No worries, you can either pull the RSS feed from <a href="http://search.twitter.com/">Twitter Search</a> or you can do the same thing using the following syntax:
+
+<blockquote>http://twittername:twitterpassword@twitter.com/statuses/replies.rss</blockquote>
+
+In theory, the API will include all mentions (any time @devinreams is included in an update, not just at the beginning of an update).
+
+Ha, this is why they call me a <a href="http://twitter.com/bleikamp/statuses/1423172299">social media pro</a>.

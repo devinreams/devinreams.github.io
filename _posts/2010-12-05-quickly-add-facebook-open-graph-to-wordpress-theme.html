@@ -1,0 +1,60 @@
+---
+layout: post
+title: Quickly add Open Graph to WordPress theme
+tags:
+- Internet
+- WordPress
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _thumbnail_id: '1616'
+  _wp_old_slug: ''
+  btc_comment_counts: a:0:{}
+---
+I've found a lot of benefit adding <a href="http://opengraphprotocol.org/">Open Graph</a> properties to my blogs. Primarily: more visitors. By adding simple code to my WordPress theme headers, social plugins like the 'Like' button will make your content display more meaningful within Facebook.
+
+Which of these two articles would you be drawn to? Which would cause you to stop, read, and consider clicking through to? 
+
+Yet another easily ignorable line item:
+
+<a href="http://devin.reams.me/wp/wp-content/uploads/2010/12/without-open-graph.png"><img src="http://devin.reams.me/wp/wp-content/uploads/2010/12/without-open-graph.png" alt="" title="without-open-graph" width="555" height="25" class="aligncenter size-full wp-image-1600" /></a>
+
+Or this rich image and excerpt:
+
+<a href="http://devin.reams.me/wp/wp-content/uploads/2010/12/with-open-graph-properties.png"><img src="http://devin.reams.me/wp/wp-content/uploads/2010/12/with-open-graph-properties.png" alt="" title="with-open-graph-properties" width="555" height="187" class="aligncenter size-full wp-image-1599" /></a>
+
+With WordPress I can easily drop a few lines of code into my theme's header and make any 'Liked' content a little more compelling.
+
+<h2>The Source</h2>
+
+In the header, I've added a quick snippet to grab only the image URL of the featured image for the current post (<a href="http://wpcanyon.com/tipsandtricks/get-the-src-attribute-from-wordpress-post-thumbnail/">via wpcanyon.com</a>):
+
+<pre>
+<code>
+$thumb = get_the_post_thumbnail($post->ID);
+$pattern= "/(?<=src=['|\"])[^'|\"]*?(?=['|\"])/i";
+preg_match($pattern, $thumb, $thePath);
+$theSrc = $thePath[0];</blockquote>
+</code>
+</pre>
+
+I then add the following to define the <a href="http://developers.facebook.com/docs/opengraph">required Open Graph properties</a>:
+
+<pre>
+<code>
+&lt;meta property="fb:admins" content="<strong>FACEBOOK ID</strong>" />
+&lt;? if (is_single()) { ?>
+&lt;meta property="og:title" content="&lt;?php echo get_the_title(); ?>"/>
+&lt;meta property="og:type" content="article"/>
+&lt;meta property="og:image" content="&lt;?php echo $theSrc; ?>" />
+&lt;meta property="og:url" content="&lt;?php the_permalink() ?>" />
+&lt;meta property="og:description" content="&lt;?php the_excerpt_rss() ?>" />
+&lt;meta propert="og:site_name" content="&lt;?php bloginfo('name'); ?>" />
+&lt;? } ?></code>
+</pre>
+
+And just like that, you've added all the necessary properties to your theme to tell anything that respects Open Graph (primarily Facebook) to your blog articles.
+
+Be sure to use the <a href="http://developers.facebook.com/tools/lint/">Facebook URL Linter</a> to test this out. Here's <a href="http://developers.facebook.com/tools/lint/?url=http%3A%2F%2Fdevin.reams.me%2F2010%2Fhalloween-2010-in-colorado%2F">an example</a> of a recent post of mine.

@@ -1,0 +1,28 @@
+---
+layout: post
+title: Unfair, unethical World Series ticket sales
+tags:
+- Internet
+- Rants
+- Technology
+status: publish
+type: post
+published: true
+meta:
+  btc_comment_counts: a:0:{}
+---
+I have a huge issue with how tickets were sold here on Monday/Tuesday to the World Series games in Denver. My biggest issue is with the lying, unfair company behind the online ticket sales, Paciolan Inc.
+
+	Here's a run-down of all the issues and what I suspect really happened:
+
+	<ul><li><strong>No tickets were sold in-person:</strong> They said putting them all online would be more fair to the public. <strong>Wrong!</strong> It would've been <em>more</em> fair to put some tickets at Coors Field because Denver locals would be guaranteed fairly-priced tickets. Instead, people without internet access had to go to the local library (they still took the day off!). Someone (probably at Paciolan) convinced the Rockies to sell all their tickets online. You know, because people at work couldn't go down and wait in line.</li>
+	<li><strong>Delayed their press conference over an hour:</strong> Rockies officials said they'd talk about what would happen to ticket sales at 5:00pm yesterday. Nobody showed up until around 6:30pm. Unprofessional. Two problems, 1) it doesn't take 5 hours to fix a server issue unless your code or architecture are severely unscalable, 2) you don't leave millions of people hanging around waiting unless you really don't have a good answer. They didn't.</li>
+	<li><strong>They were <a href="http://sports.espn.go.com/mlb/playoffs2007/news/story?id=3074302">taken down</a> by a DDoS attack:</strong> I think this is a downright lie. Paciolan says the Rockies ticket sales had nothing to do with their servers suddenly crawling to a halt on Monday. Thus, causing ticket sales to be suspended until noon the next day. No, this was not an attack, it was a lot of people trying to buy a ticket all at once. How do I know? They said they had backup plans ready for Tuesday. Yet... the servers crawled to a halt again. That's how the internet works! No way was there an attack that couldn't have been prevented (by a competent service provider).</li>
+	<li><strong>Monday had many evenue web servers, Tuesday had one:</strong> On Monday we were directed to ev15.evenue.net... along with ev8, ev14 and a slew of other subdomains. On Tuesday I only saw ev3. My suspicion: they blocked certain users and sent them to a default error page that only refreshed with no intention of allowing a ticket purchase. I tried connecting to all the other evenue.net servers today with no luck. They obviously exist though, go <a href="http://www.google.com/search?q=site%3Aevenue.net&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-av">search on Google</a>. I have a strong suspicion because....</li>
+	<li><strong>IP-blocking was occurring:</strong> Paciolan outright said they had blocked 'suspicious' IP addresses (you know, because of all that attacking going on). <strong>No way!</strong> By saying that we know they blocked people, but not specifically who or what. They could go straight to the firewall and deny multiple connections from the same IP-address and send them off to some phony page (like, the ev3 server). So, then Company A has 50 employees and they all try to connect at once. Paciolan then denies all of them sending them to ev3 and an eternity of refreshing. No intention of ever selling tickets to these people. Oops, what happened to the fairness of people buying tickets at work? Rumor has it they were also trying to blocking IPs that weren't "local."</li>
+	<li><strong>Lying about refreshing a page:</strong> Paciolan put up <a href="http://www.flickr.com/photos/devdev/1716011773/">a message</a> on Tuesday saying that manually refreshing the page will put you at the 'end of the line'. Despite the obvious fact their own page was a simple countdown that then, you guessed it, <a href="http://www.flickr.com/photos/devdev/1716859600/">refreshed the page</a>. Just another way to manipulate people and try to keep them from taking down their servers (again).</li>
+	</ul>
+
+	Long story short: Paciolan gets hit hard on Monday. Blocks a lot of people from buying tickets Tuesday. Lies to users and tells them not to refresh their pages. All because they don't want to look like idiots that couldn't handle World Series sales (or DDoS attacks for that matter).
+
+	If I were the Colorado Rockies (or <a href="http://www.paciolan.com/public_clients.htm">any client</a> of theirs for that matter) I would drop this company real quick for the shady, unprofessional job they did this week.

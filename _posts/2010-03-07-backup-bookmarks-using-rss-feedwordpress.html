@@ -1,0 +1,49 @@
+---
+layout: post
+title: Archive your bookmarks with WordPress
+tags:
+- Internet
+- Social Media
+status: publish
+type: post
+published: true
+meta:
+  aktt_notify_twitter: 'yes'
+  _aktt_hash_meta: /cc @chrismessina
+  _edit_last: '1'
+  _wp_old_slug: archive-your-bookmarks-using-wordpress
+  aktt_tweeted: '1'
+---
+Many people use some sort of social bookmarking service to collect their favorite how-to guides, recipes, interesting articles, and funny cat pictures. There are a number of services available: <a href="http://delicious.com/">Delicious</a>, <a href="http://gnolia.com/">Gnolia</a>, and my personal favorite <a href="http://pinboard.in">pinboard.in</a>.
+
+I found Doug Bowman's guide to creating your own <a href="http://stopdesign.com/archive/2010/03/02/browsable-searchable-archive-of-tweets.html">browsable, searchable archive of tweets</a> to be perfect: create a self-hosted website using WordPress to archive your content in a format you prefer.
+
+I wanted to do the same for <a href="http://devin.reams.me/bookmarks/">my bookmarks</a> from pinboard but couldn't find an existing process, so I hacked together my own. Basically, I use FeedWordPress to parse the RSS feed from my bookmarking service to store all future bookmarks, and use a conversion tool to import all the old links. The following assumes a bit of existing knowledge and is mostly unsupported.
+
+<h2>Step 1: Export your bookmarks</h2>
+
+Delicious and pinboard export into terrible little format called <pre>NETSCAPE-Bookmark-file-1</pre> which is simply an HTML page with all your links and descriptions output in a list. There's not much you can do with this, but at least you are able to export your links. (apparently the delicious API is much more robust now, but no matter)
+
+<h2>Step 2: Convert bookmarks to XBEL</h2>
+
+Using <a href="http://www.linkagogo.com/go/Convert/Home">linkaGoGo's bookmark conversion tool</a> you can upload your HTML bookmark file from delicious and download it as a XML file format called XBEL. Note: this doesn't pull over your tags (let me know if you find something that does).
+
+Some people prefer <a href="http://en.wikipedia.org/wiki/OPML">OPML</a> as their XML-flavor for bookmarks. But I couldn't find a conversion tool better than this.
+
+<h2>Step 3: Convert XBEL to RSS</h2>
+
+Using this Yahoo Pipe I created, you can convert your <a href="http://pipes.yahoo.com/devinreams/xbeltorss">XBEL file to an RSS feed</a> (title, description, link, pubDate, and guid). Simply 'Run' the pipe, 'Get as RSS' and save your newly minted feed.
+
+The point is to get your file in a format that FeedWordPress can import and parse because it can rewrite your WordPress permalinks to the original bookmark URL.
+
+<h2>Step 4: Import your RSS feed using FeedWordPress</h2>
+
+Upload the feed somewhere so that it can be accessed by the plugin. Install the <a href="http://wordpress.org/extend/plugins/feedwordpress/">FeedWordPress plugin</a> and point it to your newly created RSS feed and, huzzah, all your links should import as blog posts on the date you saved the bookmark. I created a completely <a href="http://devin.reams.me/bookmarks/">separate WordPress instance</a> so that my links archive is separate from my blog.
+
+Bonus: under the Syndication menu, browse to the 'Posts and Links' section to enable the permalinks to "point to the original URL." This means that the permalink (link in the post title, link in your RSS feed) will point to the bookmarked link and not the WordPress post.
+
+<h2>Step 5: Point FeedWordPress to your bookmarking service</h2>
+
+At this point, you can automatically capture all future links by setting up FeedWordPress to syndicate your bookmarking service's private RSS feed. Some sites support tags and other niceties, your mileage may vary.
+
+Check out the final result: <a href="http://devin.reams.me/bookmarks">Devin Reams Bookmarks</a>.

@@ -1,0 +1,55 @@
+---
+layout: post
+title: Simple tweaks to your iPhone-friendly website
+tags:
+- design
+- interface
+- Internet
+- iphone
+- mobile
+- web
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+---
+If you own and operate a website, odds are you have mobile users browsing it. Be sure you take care of these people as their numbers are ever-growing.
+
+<h2>Get me out of here!</h2>
+
+<em>Hopefully</em> you already have a mobile-friendly version of your site (for WordPress users, I recommend the <a href="http://carringtontheme.com/themes/">Carrington Mobile theme</a>). Bonus points if you have a mobile-friendly version but users can exit out of that version. Though the simpler, faster interfaces are often appreciated, users get frustrated if they're trapped in a 'dumbed down' version of the site (especially if they have a 'smart' browser like MobileSafari on the iPhone).
+
+<center>[caption id="attachment_934" align="aligncenter" width="300" caption="click to enlarge"]<a href="http://devin.reams.me/wp/wp-content/uploads/2010/01/espn-mobile-exited.png"><img src="http://devin.reams.me/wp/wp-content/uploads/2010/01/espn-mobile-exited-300x208.png" alt="ESPN Mobile vs Standard" title="ESPN Mobile and Standard on Mobile Safari" width="300" height="208" class="size-medium wp-image-934" /></a>[/caption]</center>
+
+For example, on my iPhone, I open <a href="http://espn.com">http://espn.com</a> which smartly detects my <a href="http://en.wikipedia.org/wiki/User_agent">browser's user-agent</a> and serves me a nice, big iPhone-friendly version of their website. But, while out to lunch, I may want to show a client the layout, design, and colors of the espn.com website. No problem, I can scroll to the footer of the mobile page and click the 'ESPN.com' link. Suddenly I'm out of the mobile site and presented with the "real" espn.com for demonstration purposes. Sadly, many sites don't allow this. Don't let your visitors become trapped in user-agent hell.
+
+<h2>Give me an Web Clip icon, not a thumbnail</h2>
+
+Hopefully your site already has a <a href="http://en.wikipedia.org/wiki/Favicon">favicon</a>, that nice square icon that usually appears in your browsers address bar next to the URL, or in the tab next to the page title. Favicons are an important detail that everyone appreciates. With ten tabs open, a user can quickly locate Gmail and switch to it immediately.
+
+So why do most web developers overlook the iPhone's Web Clip icon? It's a simple 57x57 PNG file used when a visitor bookmarks your website and adds it to their homescreen. Your website can looks a million times more professional if you define your icon. I can't think of a single site that looks good as a 57-pixel thumbnail screenshot. Compare the icons for the <a href="http://m.cotrip.org/">Colorado Department of Transportation's mobile site</a> and <a href="http://cosnow.com/">Colorado Snow</a> (my website) to that of <a href="http://m.coloradoski.com/">Colorado Ski Country USA</a> and <a href="http://goi70.com/mobile">GO I-70</a>:
+
+<center>[caption id="attachment_939" align="aligncenter" width="320" caption="Web Application icons vs. thumbnails"]<a href="http://devin.reams.me/wp/wp-content/uploads/2010/01/compare-web-icons.png"><img src="http://devin.reams.me/wp/wp-content/uploads/2010/01/compare-web-icons.png" alt="Web Application icons vs. thumbnails" title="Web Application icons vs. thumbnails" width="320" height="480" class="size-full wp-image-939" /></a>[/caption]</center>
+
+The <a href="http://developer.apple.com/iphone/library/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html#//apple_ref/doc/uid/TP40002051-CH3-SW3">Apple iPhone SDK (Web Applications)</a> can't make it any more simpler for you, either:
+
+<blockquote>To specify an icon for the entire website (every page on the website), place an icon file in PNG format in the root document folder called apple-touch-icon.png or apple-touch-icon-precomposed.png. If you use apple-touch-icon-precomposed.png as the filename, Safari on iPhone OS won’t add any effects to the icon.</blockquote>
+
+Kudos for having the mobile site, but please, create the icon.
+
+<h2>Save some space, go fullscreen</h2>
+
+One of the less-used features available to iPhone Web Application's is the "fullscreen" mode where the viewport is the only item on the screen. The URL text field and button bar are completely removed. Compare CoTrip to Colorado Snow:
+
+<center>[caption id="attachment_941" align="aligncenter" width="300" caption="Compare fullscreen vs. standard"]<a href="http://devin.reams.me/wp/wp-content/uploads/2010/01/iphone-fullscreen.png"><img src="http://devin.reams.me/wp/wp-content/uploads/2010/01/iphone-fullscreen-300x208.png" alt="Compare fullscreen vs. standard" title="Compare fullscreen vs. standard" width="300" height="208" class="size-medium wp-image-941" /></a>[/caption]</center>
+
+Much less space is wasted on browser "chrome" and more is dedicated to the viewport meaning less scrolling and more immediate information can be consumed by the visitor. And again, the implementation is very simple:
+
+<blockquote>Set the apple-mobile-web-app-capable meta tag to yes to turn on this feature.</blockquote
+
+Admittedly, these two sites are bad examples. This feature is not suitable for all websites as any subsequent click requires a re-load of the site into Mobile Safari. So, if you intend to have users browsing around the site, this isn't the best. But, if your site is a simple weather application, or a board game of checkers written in JavaScript, users likely don't need a back and forth button, and they don't need to edit the URL. So give users their space.
+
+<h2>In conclusion...</h2>
+
+There are a number of subtle tweaks that can help optimize your website for mobile users. Again, the number of smart phones and web-enabled devices are only going to increase. Getting in the habit of implementing some of these considerations will only help your reputation. And remember, these are just three suggestions I quickly came up with for the iPhone. Think of the variations: Palm, Android, Blackberry, and so on...
