@@ -1,11 +1,15 @@
 # Site settings
 name:			Devin Reams
+title:			Devin Reams
+tagline:		Sensibly impulsive, consistently non-committal, and passionately impartial. I help with Enterprise Accounts at GitHub.
+
 email:			devin@reams.me
 url:			"http://devinreams.github.io"
-description: 	"Sensibly impulsive, consistently non-committal, and passionately impartial. I help with Enterprise Accounts at GitHub."
+version:		1.0
 
 # Build settings
-markdown:         redcarpet
-pygments:         true
-permalink:        pretty
-paginate:         10
+markdown:		redcarpet
+highlighter:	pygments
+permalink:		pretty
+paginate:		10
+paginate_path:	'/page/:num'
