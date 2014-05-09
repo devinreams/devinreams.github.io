@@ -5,7 +5,7 @@ url:			"http://devinreams.github.io"
 description: 	"Sensibly impulsive, consistently non-committal, and passionately impartial. I help with Enterprise Accounts at GitHub."
 
 # Build settings
-markdown:         redcarpet
+markdown:         kramdown
 pygments:         true
 permalink:        pretty
-paginate:         10
+paginate:         11
