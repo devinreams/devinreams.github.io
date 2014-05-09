@@ -8,13 +8,6 @@ url:			"http://devinreams.github.io"
 version:		1.0
 
 # Build settings
-markdown:		kramdown
-highlighter:	pygments
 permalink:		pretty
 paginate:		10
 paginate_path:	'/page/:num'
-gems:
-  - jemoji
-  - jekyll-mentions
-  - jekyll-redirect-from
-  - jekyll-sitemap
