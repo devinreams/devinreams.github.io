@@ -1,0 +1,79 @@
+---
+title: Desk Organization Project
+author: Devin Reams
+layout: post
+permalink: /2006/desk-organization-project/
+article:
+  - 1
+btc_comment_counts:
+  - 'a:0:{}'
+categories:
+  - Internet
+tags:
+  - Organization
+  - Personal
+---
+I&#8217;m a firm beliver that organization is the key to success. I never see much of anything useful come from things of clutter or disarray. Sure, it often results in a *ton* of creativity, but it can also hinder any kind of implementation&#8217; and as we all know ideas are worthless without implementing them.
+
+** Tip #1: Make a drastic change in your life (for the better). Re-organizing one&#8217;s desk is just one example.**
+
+Anyway, as I was saying, organization is very important to me. Which is why I felt my workstation needed a drastic makeover. As you may or may not be able to tell, my desk is a corner desk with one side against a wall and the other adjacent a big window. I love looking out the window. Although my view is basically the alley and townhome behind me I can still see far beyond that. In fact, I can almost tell how much gas is at the Safeway across the street. Case in point, I like the window and my current setup has my LCD blocking a portion of that view. In addtion, the hutch against the wall is taking up a lot of space and not storing much of anything useful. Plus, the desk space under it is rendered almost useless. In short, I feel cramped. I needed to spread out.
+
+**Tip #2: Realize what you&#8217;d like to ultimately accomplish. Without *something* in mind you have no idea of telling whether or not you were successful.**
+
+First things first, I got rid of the hutch. It mostly acted as storage for a few magazines, CDs I never touched, my stapler and tape, etc. I threw all this stuff on my bed and moved the hutch out. Next, I took everything off my desk, unplugged all cables, and moved everything to my bed. I think a clean slate is best. Instead of *reorganizing* I feel like I was *creating*. I had a big empty &#8220;L&#8221; in front of me and I needed to make a decision on what was to be placed upon it. The following remains:
+
+*   4 speakers (two on each side)
+*   2 lamps (one on each side)
+*   2 pencil holders (can never have too many writing utensils)
+*   2 sticky note pads
+*   1 beverage coaster
+*   1 19? LCD
+*   1 wireless keyboard and mouse
+*   1 laptop
+*   1 &#8220;phone tree&#8221;*
+
+**Tip #3: Start with a clean slate. Don&#8217;t re-organize; create. It forces you to make new decisions instead of shuffling around past (bad) ones.**
+
+This is a dramatic simplification of what will be surrounding me. Which leaves me with a lot of, you guessed it, workspace. Notice I said workspace not pilespace, or clutterspace. I don&#8217;t want to overwhelm myself with objects so it has come down to these simple, yet useful, things. *My phone tree is a decorative (fake) tree that I rest my phone on. I have the charger cord wrapped around the trunk and the hands-free headpiece laying on top of the tree. I feel like I should patent this attractive little tree. Plus, it brings some color to my desk.
+
+**Tip #4: Simple is usually better. The less, the better. It forces you to focus your attention or energy on a select few things and eliminates other distractions around you.**
+
+Next, was to clean out my 3-drawer filing cabinet. It had mostly acted as a black hole for anything I didn&#8217;t quite feel like throwing away. Oh, that and a printer stand. In any case, I figured I should use the cabinet for it&#8217;s intended purpose. With that said, I put some of my remaining objects (stapler, ruler, checkbook, envelopes, etc.) into the top two drawers. The bottom drawer (larger) is now a nice collection of hanging file folders (bank statements, bills, paycheck stubs, and other important paperwork).
+
+**Tip #5: Organizing by categorizing allows you to quickly know what can be found where. Piles, stacks and drawers do no justice to the papers, notes, and other important items you may have around.**
+
+At this point I&#8217;m beyond excited. Stuff is getting thrown out in the process, some things are being rediscovered. I already brought my trash can downstairs twice to be emptied. It&#8217;s feeling great. I also realized I should put this cabinet underneath my desk (on the side facing the window). This certainly freed up some more floor space.
+
+**Tip #6: Throw shit away. If you don&#8217;t use it, don&#8217;t need it, don&#8217;t look at it, then you probably won&#8217;t be missing it.**
+
+I bought a huge (71? tall) bookcase to put where the cabinet once was. I got a black one to match my desk. I&#8217;ll also point out it was only $28 at Wal-Mart and took 10 minutes to setup (including cleaning, etc). This bookcase just created another dimension to my workplace. Instead of having 1-dimensional (x-axis) piles, I can now organizing things vertically as well (y-axis). Shelves are your friend. On top is my cable modem/wireless router, CD spindles, can-of-air, etc. My top shelf now houses my &#8216;currently reading&#8217; material and archived magazines. My second shelf is where I put stuff like my wallet, keys, sunglasses, reciepts, spare change jar, candy, etc. The third shelf is about level with my desk and has my printer, printer paper, photo paper, etc. The next shelf is for school materials (books, binders, paper) and the last shelf is empty at this point. This is good becuase my other small bookcase is out of space (and I anticipate having to put some books there).
+
+<center>
+  <a href="http://www.flickr.com/photos/devdev/83925349/" title="Organized Bookcase by devinreams, on Flickr"><img src="http://farm1.static.flickr.com/39/83925349_b5b57cd75b.jpg" width="375" height="500" alt="Organized Bookshelf" /></a>
+</center>
+
+**Tip #7: Be thrifty, it allows you to do more. Wal-Mart has a plethora of cheap stuff to help you organize. They have drawers, files, cabinets, shelves, etc.**
+
+**Tip #8: Keep organizing by categorizing.**
+
+Essentially I did nothing out of the ordinary here. I just organized things in a way that made more sense. You look at the shelf and you realize what kind of stuff belongs there. Categorizing makes it so much easier to find things. Just like the file-folders, each one is for a certain purpose. When I start making piles and laying paper in drawers it does me no good in the long run.
+
+<center>
+  <a href="http://www.flickr.com/photos/devdev/83925348/" title="Organized Desk by devinreams, on Flickr"><img src="http://farm1.static.flickr.com/38/83925348_028d84bbbc.jpg" width="500" height="375" alt="Organized Desk" /></a>
+</center>
+
+  
+(Click to see annotated versions on Flickr)
+
+I&#8217;d like to point out that I put my laptop to the right of me (against the wall) which acts as my Vista testing machine. I used to use this laptop as my &#8216;desktop replacement&#8217; in the dorms but now that I&#8217;m settled into a &#8216;workspace&#8217; I&#8217;m finding I have little use for it. With that said, I&#8217;ll be selling it soon and using some of the money to buy a widescreen LCD (maybe 24?) to accompany my 19? LCD.
+
+Oh think of the productivity!
+
+I love a dual monitor setup. It, again, lets me categorize stuff into two screens. In my case, I have Windows MCE and can now put some TV on the 19? while emailing, blogging, etc. on the other screen. While I&#8217;m working, I put the distractions (email, instant messages) on the 19? while, again, working on the other.
+
+**Tip #9: Design your setup so it helps you eliminate distractions. Distractions aren&#8217;t always bad, but if you don&#8217;t want them, make it so they can disappear.**
+
+Frankly, I&#8217;m excited to see how this setup improves my life. So far I love it already! Does anyone think they&#8217;ve got a better setup than mine? I&#8217;d love to see someone top this.
+
+<small>Please check out <a href="http://www.brother-usa.com/lp/brother-label-printer.aspx">brother label printers</a> for desk organization. They have great <a href="http://www.brother-usa.com/">brother printers</a> for you to view. You have come to the right place for <a href="http://www.brother-usa.com/lp/laser-color-printers.aspx">brother color laser printer</a> and more.</small>
