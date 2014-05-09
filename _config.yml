@@ -13,8 +13,3 @@ highlighter:	pygments
 permalink:		pretty
 paginate:		10
 paginate_path:	'/page/:num'
-gems:
-  - jemoji
-  - jekyll-mentions
-  - jekyll-redirect-from
-  - jekyll-sitemap
