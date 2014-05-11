@@ -1,12 +1,7 @@
 ---
 title: What have we learned from CES so far?
-author: Devin Reams
 layout: post
 permalink: /2013/what-have-we-learned-from-ces-so-far/
-categories:
-  - Business
-  - Gadgets
-  - Humor
 ---
 I think the list is short but these shouldn&#8217;t be surprises, right?
 

@@ -1,11 +1,8 @@
 ---
 title: What competition is WordPress up against?
-author: Devin Reams
 layout: post
 permalink: /2013/what-competition-is-wordpress-up-against/
-categories:
-  - Business
-  - WordPress
+excerpt: I can think of at least two big competitors to the WordPress open source project that may require addressing in the coming year (and beyond).
 ---
 From Steven Sinofsky, [regarding his recent use of an iPhone][1]<sup id="fnref-5432:1"><a href="#fn-5432:1" rel="footnote">1</a></sup>:
 

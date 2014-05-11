@@ -1,11 +1,8 @@
 ---
 title: 5 Myths of Having Full-Strength Beer in Colorado Grocery Stores
-author: Devin Reams
-layout: post
+layout: link
+link: http://www.denveroffthewagon.com/2013/01/02/5-myths-of-having-full-strength-beer-in-colorado-grocery-stores/
 permalink: /2013/5-myths-of-having-full-strength-beer-in-colorado-grocery-stores/
-categories:
-  - Business
-
 ---
 From Lindsey Dulin at [Denver off the Wagon][1] regarding &#8220;more distribution channels make it easier for new businesses to enter the craft beer industry&#8221;:
 
@@ -15,5 +12,5 @@ An interesting read based on the political and business landscape here in Colora
 
 Having watched [Beer Wars][2] it makes me wonder if a good way to tackle the &#8220;crafty&#8221; brews (think Budweiser putting out a &#8220;seasonal&#8221; beer versus true &#8220;craft&#8221; brewers) is to give better &#8216;gateway&#8217; beers to the general populace.
 
- [1]: http://www.denveroffthewagon.com
+ [1]: http://www.denveroffthewagon.com/2013/01/02/5-myths-of-having-full-strength-beer-in-colorado-grocery-stores/
  [2]: http://www.imdb.com/title/tt1326194/

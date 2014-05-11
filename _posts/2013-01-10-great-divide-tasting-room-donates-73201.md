@@ -1,12 +1,8 @@
 ---
 title: Great Divide tasting room donates $73,201
-author: Devin Reams
-layout: post
+layout: link
+link: http://www.denveroffthewagon.com/2013/01/09/1-samples-at-great-divide-generate-73201-in-donations-for-local-non-profits/
 permalink: /2013/great-divide-tasting-room-donates-73201/
-categories:
-  - Business
-  - 'Food &amp; Drink'
-
 ---
 I remember years ago when the Great Divide tasting room was a small, cozy spot where you could wander in and sample three excellent beers for free. When they expanded the room (took out an entire wall) and started charging $1 per sample I thought the two events were related. From PJ over at [Denver off the Wagon][1]:
 
