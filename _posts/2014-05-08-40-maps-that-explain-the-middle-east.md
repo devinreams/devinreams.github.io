@@ -1,13 +1,9 @@
 ---
 title: 40 maps that explain the Middle East
 excerpt: Vox.com posted an excellent series of maps...
-author: Devin Reams
 layout: link
 link: http://www.vox.com/a/maps-explain-the-middle-east
 permalink: /2014/40-maps-that-explain-the-middle-east/
-categories:
-  - Internet
-  - Politics
 ---
 This is a [great series of maps (explaining the Middle East)][1] and really showing what [Vox][2] is all about. 
 

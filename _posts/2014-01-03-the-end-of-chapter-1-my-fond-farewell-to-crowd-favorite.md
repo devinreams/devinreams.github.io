@@ -1,11 +1,8 @@
 ---
 title: 'The End of Chapter 1: my fond farewell to Crowd Favorite'
-author: Devin Reams
 layout: post
 permalink: /2014/the-end-of-chapter-1-my-fond-farewell-to-crowd-favorite/
-categories:
-  - Life
-  - Work
+excerpt: "After five-and-a-half excellent years of managing web projects and a great team, I'll be exploring new technologies, skills, and customers as a technical account manager at GitHub."
 ---
 I don&#8217;t think I&#8217;ve shared this much about &#8220;what I do for work&#8221; with many folks. So here we go&#8230;
 

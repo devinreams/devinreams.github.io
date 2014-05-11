@@ -1,14 +1,8 @@
 ---
 title: Second Annual Denver Brewery Tour Weekend
-author: Devin Reams
+excerpt: "A compilation of various restaurants, breweries, and stops we made during a four-day tour of Denver and Fort Collins."
 layout: post
 permalink: /2013/second-annual-brewery-tour-weekend/
-categories:
-  - 'Food &amp; Drink'
-  - Life
-  - Personal
-  - Travel
-format: gallery
 ---
 For the second year in a row, I hosted some friends from the east coast on a tour of Colorado breweries.
 

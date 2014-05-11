@@ -3,9 +3,7 @@ title: Preferred Contact Methods
 author: Devin Reams
 layout: post
 permalink: /2013/preferred-contact-methods/
-categories:
-  - Business
-  - Life
+excerpt: "I&#8217;ve been struggling lately with: how to locate, interact, coordinate, and communicate with people. Unfortunately social etiquette has trailed technological advances."
 ---
 Social etiquette often trails technological advances. You see it today when a group of friends are out to dinner and many are looking down at their smartphones. That&#8217;s obviously not an ideal social situation but no precise norms or allowances have been defined as the introduction of the always-connected device itself is still new.
 
