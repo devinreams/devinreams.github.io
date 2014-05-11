@@ -1,7 +1,8 @@
 # Site settings
 name: Devin Reams
 title: Devin Reams
-tagline: "Sensibly impulsive, consistently non-committal, and passionately impartial. I help with Enterprise Accounts at GitHub."
+sub-title: "Telemarketing at GitHub"
+intro: "Sensibly impulsive, consistently non-committal, and passionately impartial. I help with Enterprise Accounts at GitHub."
 
 email: devin@reams.me
 url: "http://devinreams.github.io"

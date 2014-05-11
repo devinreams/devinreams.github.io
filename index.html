@@ -3,18 +3,26 @@ layout: default
 title: Home
 ---
 
+<div class="intro">
+  <p>{{ site.intro }}</p>
+</div
+
 <div class="posts">
   {% for post in paginator.posts %}
-  <div class="post">
+  <div class="post {{ post.layout }}">
     <h1 class="post-title">
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>
-
+    
     <span class="post-date">{{ post.date | date: "%A, %B %d, %Y" }}</span>
 
-    <p>{{ post.excerpt | markdownify }}</p>
+    {% if post.layout == "link" %}
+      <p>{{ post.content | markdownify }}</p>
+    {% else %}
+      <p>{{ post.excerpt | markdownify  }}</p>
+    {% endif %}
   </div>
   {% endfor %}
 </div>
