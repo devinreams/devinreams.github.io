@@ -1,11 +1,8 @@
 ---
 title: The Wood Turner
-author: Devin Reams
-layout: post
+layout: link
+link: http://vimeo.com/60406797
 permalink: /2013/the-wood-turner/
-categories:
-  - Life
-  - Video
-format: video
 ---
+<div clas="video-container"><iframe src="//player.vimeo.com/video/60406797" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 This is a pleasure to watch.

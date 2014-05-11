@@ -1,12 +1,8 @@
 ---
 title: 'Class of 2013: Seek a Journey to the Unobvious'
-author: Devin Reams
-layout: post
+layout: link
+link: http://www.linkedin.com/today/post/article/20130521094917-18642888-class-of-2013-seek-a-journey-to-the-unobvious
 permalink: /2013/class-of-2013-seek-a-journey-to-the-unobvious/
-categories:
-  - Business
-  - Life
-
 ---
 An excellent [commencement address &#8220;I wish I&#8217;d heard&#8221; by Chris Schroeder over on Linkedin][1]:[^1]
 

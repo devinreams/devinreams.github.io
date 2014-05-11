@@ -1,13 +1,8 @@
 ---
 title: Is WordPress a development platform or a product?
-author: Devin Reams
 layout: post
 permalink: /2013/is-wordpress-a-development-platform-or-a-product/
-categories:
-  - Business
-  - Internet
-  - Social Media
-  - WordPress
+excerpt: "The primary vendor maintaining the open source project has productized WordPress. But it's also touted as a platform to build (not just blogs) upon."
 ---
 I&#8217;m not sure if I&#8217;m thinking about the [WordPress][1] Open Source project and its [&#8220;competition&#8221;][2] the right way&#8230;
 

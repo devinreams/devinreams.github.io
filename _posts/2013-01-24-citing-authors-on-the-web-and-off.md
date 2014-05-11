@@ -1,17 +1,8 @@
 ---
 title: Citing authors on the web (and off)
-author: Devin Reams
 layout: post
 permalink: /2013/citing-authors-on-the-web-and-off/
-geo_latitude:
-  - 39.766298
-geo_longitude:
-  - -105.009288
-geo_public:
-  - 1
-categories:
-  - Business
-  - Money
+excerpt: The individuals behind an article are just as, if not more, important than the publication they write at.
 ---
 Over a year ago, [John Gruber][1] rightfully gave [AllThingsD][2] (from the Wall Street Journal) [a hard time about properly attributing sources][3]. For the longest time ATD would not use hyperlinks to point to original sources nor even the websites of companies or products mentioned in their articles.
 

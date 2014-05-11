@@ -1,19 +1,9 @@
 ---
 title: Where do you post your job listings?
-author: Devin Reams
 layout: post
 permalink: /2013/where-do-you-post-your-job-listings/
-geo_latitude:
-  - 39.765667
-geo_longitude:
-  - -105.011557
-geo_public:
-  - 1
-categories:
-  - Business
-  - Work
 ---
-I&#8217;ve been involved with hiring dozens of fine folks at [Crowd Favorite][1] over the past few years and I (think I) know what has and has not worked for us. While our sample size isn&#8217;t large enough to draw definitive conclusions, and our industry (web design, development) is unique is some ways I&#8217;m curious what others have found to work well.
+I&#8217;ve been involved with hiring dozens of fine folks at Crowd Favorite over the past few years and I (think I) know what has and has not worked for us. While our sample size isn&#8217;t large enough to draw definitive conclusions, and our industry (web design, development) is unique is some ways I&#8217;m curious what others have found to work well.
 
 I see at least three big approaches to finding a good candidate for a job.
 
@@ -56,7 +46,6 @@ We&#8217;ve not attempted to have position like this ourselves. Mainly because w
 
 These are my observations on posting jobs and different approaches to finding job (career?) candidates. What have you found works well?
 
- [1]: http://crowdfavorite.com/
  [2]: http://alexking.org/
  [3]: http://alexking.org/blog/2008/01/18/office-space#comment-62863
  [4]: http://startupweekend.org

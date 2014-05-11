@@ -1,13 +1,10 @@
 ---
 title: Post Formats and WordPress 3.6
-author: Devin Reams
 layout: post
 permalink: /2013/post-formats-and-wordpress-3-6/
-categories:
-  - WordPress
-
+excerpt: "The initial implementation of Post Formats in WordPress were confusion. This is why we (and theme designers) need to standardize."
 ---
-I found some confusion [an interesting discussion over on WordPress Tavern around Post Formats][1]:
+I found some confusion in [an interesting discussion over on WordPress Tavern around Post Formats][1]:
 
 > I used post formats for a few months on WPTavern.com and I’ve made a few conclusions. The first is that post formats encourage short form content. Not only is short form content easy to do, it also promotes creating a fire hose of content. The second, the majority of people were reading WPTavern.com via their favorite feedreader. Feedreaders don’t display content the same as a website. Third, some of the formats I selected displayed on the home page without a post title or an ability to comment. I think this had more to do with how my theme was displaying the formats more than anything else. Last but not least, I started treating post formats as categories. 
 

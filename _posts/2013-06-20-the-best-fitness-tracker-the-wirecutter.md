@@ -1,13 +1,8 @@
 ---
 title: 'The best fitness tracker &#8211; Wirecutter'
-author: Devin Reams
-layout: post
+layout: link
+link: http://thewirecutter.com/reviews/the-best-fitness-tracker-is-the-fitbit-one/
 permalink: /2013/the-best-fitness-tracker-the-wirecutter/
-categories:
-  - Gadgets
-  - Personal
-  - Reviews
-
 ---
 I&#8217;m often asked what I&#8217;m wearing on my wrist (it&#8217;s a [Nike FuelBand][1]) and then folks chime in with &#8220;ah yes, my friend has a different one&#8221; which then leads to a discussion of the pros and cons of the various fitness trackers out there.
 

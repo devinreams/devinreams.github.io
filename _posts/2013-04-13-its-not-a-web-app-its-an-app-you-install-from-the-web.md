@@ -1,11 +1,8 @@
 ---
 title: '&#8220;It’s not a web app. It’s an app you install from the web.&#8221;'
-author: Devin Reams
-layout: post
+layout: link
+link: http://blog.forecast.io/its-not-a-web-app-its-an-app-you-install-from-the-web/
 permalink: /2013/its-not-a-web-app-its-an-app-you-install-from-the-web/
-categories:
-  - Internet
-
 ---
 From the [Forecast Blog][1]:
 

@@ -1,11 +1,8 @@
 ---
 title: Apple Worldwide Developers Conference 2013
-author: Devin Reams
-layout: post
+layout: link
+link: http://www.apple.com/pr/library/2013/04/24Apple-Worldwide-Developers-Conference-to-Kick-Off-June-10-in-San-Francisco.html
 permalink: /2013/apple-worldwide-developers-conference-2013/
-categories:
-  - Gadgets
-
 ---
 From Phil Schiller, Apple’s senior vice president of Worldwide Marketing on [WWDC 2013][1]:
 

@@ -1,12 +1,8 @@
 ---
 title: Digital PM Summit 2013
-author: Devin Reams
-layout: post
+layout: link
+link: http://dpm2013.com
 permalink: /2013/digital-pm-summit-2013/
-categories:
-  - Business
-  - Work
-
 ---
 I&#8217;m excited to attend the upcoming [Digital PM Summit][1], produced by the smart guys at Happy Cog (Greg Hoy and Greg Storey) for digital project managers. I&#8217;ve seen presentations by and met a number of Happy Cog folks at conferences like SXSW and it&#8217;s clear they do great work.
 

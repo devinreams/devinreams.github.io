@@ -1,11 +1,8 @@
 ---
 title: How do I monetize Colorado Snow?
-author: Devin Reams
-layout: post
+layout: link
+link: http://cosnow.com/2013/07/13/qa-monetizing-cosnow/
 permalink: /2013/how-do-i-monetize-colorado-snow/
-categories:
-  - Internet
-
 ---
 A local research firm reached out to ask some questions about how I monetize my &#8220;other blog&#8221;, [Colorado Snow (cosnow.com)][1]. It turned into what I think is a good Q&A session around what has become, essentially, a part-time hobby.
 

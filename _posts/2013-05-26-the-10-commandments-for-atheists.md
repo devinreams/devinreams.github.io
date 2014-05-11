@@ -1,11 +1,8 @@
 ---
 title: The 10 Commandments for atheists
-author: Devin Reams
-layout: post
+layout: link
+link: http://www.theage.com.au/lifestyle/life/the-10-commandments-for-atheists-20130205-2dw83.html
 permalink: /2013/the-10-commandments-for-atheists/
-categories:
-  - Life
-
 ---
 The [Daily Telegraph][1] weighs in on Alan de Botton&#8217;s philosophical &#8220;commandments&#8221; for atheists:
 

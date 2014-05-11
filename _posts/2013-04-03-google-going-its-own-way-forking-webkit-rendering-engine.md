@@ -1,12 +1,8 @@
 ---
 title: Google going own way, forking WebKit rendering engine
-author: Devin Reams
-layout: post
+layout: link
+link: http://arstechnica.com/information-technology/2013/04/google-going-its-own-way-forking-webkit-rendering-engine/
 permalink: /2013/google-going-its-own-way-forking-webkit-rendering-engine/
-categories:
-  - Humor
-  - Internet
-
 ---
 From Peter Bright at [Ars Technica][1]:
 

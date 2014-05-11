@@ -1,13 +1,8 @@
 ---
-title: Why Medium Might Be Large
-author: Devin Reams
+title: Why Medium Might (Not) Be Large
 layout: post
 permalink: /2013/why-medium-might-be-large/
-categories:
-  - Internet
-  - Personal
-  - Social Media
-
+excerpt: I disagree with the notion that aggregating "high quality" content on a site around themes, like Medium does, is why it will ultimately be so successful. We've seen this before.
 ---
 [Chris Brogan, on Ev William&#8217;s Medium][1]:
 

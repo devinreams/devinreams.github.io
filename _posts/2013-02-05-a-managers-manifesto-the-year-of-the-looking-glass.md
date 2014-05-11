@@ -1,12 +1,8 @@
 ---
 title: 'A Manager&#8217;s Manifesto — The Year of the Looking Glass'
-author: Devin Reams
-layout: post
+layout: link
+link: https://medium.com/the-year-of-the-looking-glass/be5f6b118084
 permalink: /2013/a-managers-manifesto-the-year-of-the-looking-glass/
-categories:
-  - Business
-  - Personal
-
 ---
 I liked this collection of [thoughts and lessons][1] from [Julie Zhuo][2], a design director at Facebook, including:
 

@@ -1,7 +1,7 @@
 ---
-title: Tim Cook’s answer to my first question at asymco.com
-author: Devin Reams
-layout: post
+title: Tim Cook’s answer to Horace Deidu's first question at asymco.com
+layout: link
+link: http://www.asymco.com/2013/05/29/tim-cooks-answer-to-my-first-question/
 permalink: /2013/tim-cooks-answer-to-my-first-question-at-asymco-com/
 categories:
   - Business

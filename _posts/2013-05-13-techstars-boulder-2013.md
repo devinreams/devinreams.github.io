@@ -1,22 +1,9 @@
 ---
 title: TechStars Boulder 2013
-author: Devin Reams
 layout: post
 permalink: /2013/techstars-boulder-2013/
-geo_latitude:
-  - 39.766254
-geo_longitude:
-  - -105.012553
-geo_public:
-  - 1
-categories:
-  - Business
-  - Internet
-tags:
-  - Elihuu
-  - TechStars
 ---
-[<img src="http://devin.reams.me/wp-content/uploads/2013/05/techstars-logo.png" alt="TechStars" width="150" height="100" class="alignleft size-full wp-image-5785" />][1]Congratulations are in order to the [newly announced summer 2013 class][2] at company incubator and accelerator, [TechStars Boulder][3]. It&#8217;s hard to believe this is already the 7th group of companies to spend their summer in Colorado.
+Congratulations are in order to the [newly announced summer 2013 class](http://www.techstars.com/introducing-techstars-boulder-summer-2013/) at company incubator and accelerator, [TechStars Boulder](http://www.techstars.com/program/locations/boulder/). It&#8217;s hard to believe this is already the 7th group of companies to spend their summer in Colorado.
 
 Having chatted with [David Cohen][4] back in July 2006 about his new &#8220;summer program&#8221; idea, I can remember that TechStars was exactly the kind of thing that young companies and entrepreneurs should clamor to be a part of: access to great mentors, help with raising funds, building a product or service around a market, etc. At the time I had no co-founders, no company ideas, and no good foundation to take advantage of the opportunity about to launch in the coming months&#8230;
 
@@ -42,9 +29,6 @@ Kudos class of 2013 and best of luck this summer&#8230;
 
 [^1]:    I&#8217;ve worked with Susanna in Boulder since I was in college and I had met Dorian, a family friend, through her many years ago. She re-introduced us a few months ago when Dorian started looking for a team to design and build her company concept and knew that was the kind of thing I did day-to-day now.
 
- [1]: http://techstars.com
- [2]: http://www.techstars.com/introducing-techstars-boulder-summer-2013/
- [3]: http://www.techstars.com/program/locations/boulder/
  [4]: http://www.davidgcohen.com
  [5]: http://alexking.org
  [6]: http://crowdfavorite.com/

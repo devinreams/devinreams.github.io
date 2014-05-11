@@ -1,12 +1,8 @@
 ---
 title: 'Tours of Duty: The New Employer-Employee Compact &#8211; Harvard Business Review'
-author: Devin Reams
-layout: post
+layout: link
+link: http://hbr.org/2013/06/tours-of-duty-the-new-employer-employee-compact/ar/pr
 permalink: /2013/tours-of-duty-the-new-employer-employee-compact-harvard-business-review/
-categories:
-  - Asides
-  - Entertainment
-
 ---
 I really enjoyed this [HBR article by Reid Hoffman, Ben Casnocha, and Chris Yeh on &#8220;the New Employer-Employee Compact&#8221;][1]:
 

@@ -1,13 +1,9 @@
 ---
 title: Games by EA versus Nintendo
-author: Devin Reams
 layout: post
 permalink: /2013/games-by-ea-versus-nintendo/
-categories:
-  - Entertainment
-  - Gadgets
 ---
-After [trading a quick &#8220;Tweet&#8221; with Dan Frommer last night][1] I realized folks may not know this: [Electronic Arts][2], one of the largest video game developers, has not only created dozens of original [game titles for iOS][3] but also ported &#8220;old&#8221; brands over to the Apple platform.
+After [trading a quick &#8220;Tweet&#8221; with Dan Frommer last night](https://twitter.com/fromedome/status/292493006832033794) I realized folks may not know this: [Electronic Arts](http://en.wikipedia.org/wiki/Electronic_Arts), one of the largest video game developers, has not only created dozens of original [game titles for iOS](http://www.ea.com/iphone) but also ported &#8220;old&#8221; brands over to the Apple platform.
 
 Plenty of games from before the App Store days have been re-created for the iPhone and iPad including The Sims, Mortal Kombat, and SimCity. Plus, EA has worked with other title owners to develop traditional board games like Risk, Connect 4, Monopoly, Battleship and more.
 

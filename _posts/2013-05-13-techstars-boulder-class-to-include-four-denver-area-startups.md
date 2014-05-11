@@ -1,13 +1,8 @@
 ---
 title: TechStars Boulder class to include four Denver area startups
-author: Devin Reams
-layout: post
+layout: link
+link: http://www.denverpost.com/business/ci_23218961/techstars-boulder-class-include-four-denver-area-startups
 permalink: /2013/techstars-boulder-class-to-include-four-denver-area-startups/
-categories:
-  - Business
-tags:
-  - TechStars
-
 ---
 The Denver Post&#8217;s Andy Vuong highlights the [four Denver-based companies that will be involved in TechStars Boulder][1] this summer. [Elihuu][2] being one of them:
 

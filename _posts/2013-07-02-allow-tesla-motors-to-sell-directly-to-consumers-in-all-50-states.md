@@ -1,12 +1,8 @@
 ---
 title: Allow Tesla Motors to sell directly to consumers in all 50 states
-author: Devin Reams
-layout: post
+layout: link
+link: https://petitions.whitehouse.gov/petition/allow-tesla-motors-sell-directly-consumers-all-50-states/bFN7NHQR
 permalink: /2013/allow-tesla-motors-to-sell-directly-to-consumers-in-all-50-states/
-categories:
-  - Business
-  - Politics
-
 ---
 A [WhiteHouse.gov petition][1]:
 

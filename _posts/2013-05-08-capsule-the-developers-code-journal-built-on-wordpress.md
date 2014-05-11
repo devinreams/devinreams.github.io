@@ -1,12 +1,8 @@
 ---
 title: 'Capsule — The developer&#8217;s code journal built on WordPress'
-author: Devin Reams
-layout: post
+layout: link
+link: http://crowdfavorite.com/capsule/
 permalink: /2013/capsule-the-developers-code-journal-built-on-wordpress/
-categories:
-  - WordPress
-  - Work
-
 ---
 The team at [Crowd Favorite][1] has been working on a solution to a problem a lot of designers and developers (and folks that work with designers and developers) didn&#8217;t quite realize they had: when working on a project you typically take notes on the side&#8230; but you usually throw that away and lose the snippets of code, outlines of todos, open questions and decisions, etc.
 
