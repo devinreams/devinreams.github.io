@@ -1,6 +1,5 @@
 ---
 title: Influences
-author: Devin Reams
 layout: page
 ---
 Here&#8217;s an ever-growing list of people and companies in my life. It may prove insightful into what I like, who I surround myself with, and what influences me. Or not.

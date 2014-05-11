@@ -1,9 +1,6 @@
 ---
 title: Projects
-author: Devin Reams
 layout: page
-sharing_disabled:
-  - 1
 ---
 ## [Colorado Snow Blog][1]
 

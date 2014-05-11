@@ -1,13 +1,6 @@
 ---
 title: About
-author: Devin Reams
 layout: page
-aktt_notify_twitter:
-  - no
-btc_comment_counts:
-  - 'a:0:{}'
-sharing_disabled:
-  - 1
 ---
 ## Howdy! I&#8217;m Devin and I help with enterprise accounts at [GitHub][1]. I&#8217;m a twenty-something living (working, and playing) in Denver, Colorado. I&#8217;ve been known to [ski][2], jog, and brew my own beer.
 
