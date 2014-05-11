@@ -1,17 +1,12 @@
 ---
 title: 'Content Before Design: a shift in how to manage web projects'
-author: Devin Reams
 layout: post
 permalink: /2013/content-before-design-a-shift-in-how-to-manage-web-projects/
-categories:
-  - Business
-  - Project Management
-tags:
-  - dpm2013
+excerpt: 'We may already realize its easier to create a design once you know what will be presented. Trying to answer "how?" before "what?" can lead to costly errors and rework as presented at the Digital PM Summit.'
 ---
 I like to joke that [Happy Cog][1] and the people that work for (and with) them sometimes act as the research and development arm of the digital / interactive project management industry.
 
-[<img src="http://devin.reams.me/wp-content/uploads/2013/10/digital-pm-summit-2013.png" alt="digital-pm-summit-2013" width="120" height="120" class="alignright size-full wp-image-6268" />][2]A novel idea, [writing content before design][3], discussed by [Steph Hay][4] at the [inaugural Digital PM Summit][2] is crazy (good) enough it could completely transform digital design projects for the better. As with any good R&D process, we may be in the early days of a complete shift in thinking (like mobile-first design has been in the past few years). Or, we may forget this entirely due to lack of buy-in and ability to &#8216;grok&#8217; an alternative approach.
+A novel idea, [writing content before design][3], discussed by [Steph Hay][4] at the [inaugural Digital PM Summit][2] is crazy (good) enough it could completely transform digital design projects for the better. As with any good R&D process, we may be in the early days of a complete shift in thinking (like mobile-first design has been in the past few years). Or, we may forget this entirely due to lack of buy-in and ability to &#8216;grok&#8217; an alternative approach.
 
 That said, I recommend all digital project managers and organizations looking to do an online project in the near future and consider this approach and continue testing this approach and the resulting effects.
 

@@ -1,11 +1,8 @@
 ---
 title: Three things taught incorrectly in business school
-author: Devin Reams
 layout: post
 permalink: /2013/three-wrong-lessons-from-business-school/
-categories:
-  - Business
-  - Life
+excerpt: "Its interesting to look back at some of my underlying assumptions and teachings from college. I found three themes that I disagree with more and more lately."
 ---
 Having graduated college nearly six years now its interesting to look back at some of my underlying assumptions and teachings. There are three that I think anyone would agree are consistently applied at schools all over the United States (and perhaps the world) and I find myself disagreeing with them more and more lately.
 

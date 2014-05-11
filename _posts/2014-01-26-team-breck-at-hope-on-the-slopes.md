@@ -1,6 +1,5 @@
 ---
 title: Team Breck at Hope on the Slopes
-author: Devin Reams
 layout: link
 link: http://hopeontheslopes.kintera.org/faf/home/default.asp?ievent=1086915
 permalink: /2014/team-breck-at-hope-on-the-slopes/

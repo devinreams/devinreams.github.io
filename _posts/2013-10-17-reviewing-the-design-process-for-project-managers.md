@@ -1,16 +1,10 @@
 ---
 title: 'Reviewing the &#8220;Design Process&#8221; for Project Managers'
-author: Devin Reams
 layout: post
 permalink: /2013/reviewing-the-design-process-for-project-managers/
-categories:
-  - Business
-  - Internet
-  - Project Management
-tags:
-  - dpm2013
+excerpt: "If you're a project manager or support those that design websites, you may know the process. But, this refresher, presented at the Digital PM Summit, helps cement what you need to know."
 ---
-[<img src="http://devin.reams.me/wp-content/uploads/2013/10/digital-pm-summit-2013.png" alt="digital-pm-summit-2013" width="120" height="120" class="alignright size-full wp-image-6268" />][1]Project Managers, if you&#8217;ve been working in the web and &#8220;interactive&#8221; design space for a while, you may not realize how much you know about the design process.
+[Project Managers, if you&#8217;ve been working in the web and &#8220;interactive&#8221; design space for a while, you may not realize how much you know about the design process.
 
 The thing is, we&#8217;ve likely absorbed and learned these things over the months or years. Our clients have not had the benefit of the experience. Here are some things we know, presented by [Jared Ponchot][2] at the inaugural [Digital PM Summit][3], and could likely be better educating our clients around:
 

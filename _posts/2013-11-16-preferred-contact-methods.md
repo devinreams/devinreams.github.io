@@ -1,6 +1,5 @@
 ---
 title: Preferred Contact Methods
-author: Devin Reams
 layout: post
 permalink: /2013/preferred-contact-methods/
 excerpt: "I&#8217;ve been struggling lately with: how to locate, interact, coordinate, and communicate with people. Unfortunately social etiquette has trailed technological advances."

@@ -1,15 +1,10 @@
 ---
 title: Managing Up, Down, and Sideways by Breandán Knowlton
-author: Devin Reams
 layout: post
 permalink: /2013/managing-up-down-and-sideways-by-breandan-knowlton/
-categories:
-  - Internet
-  - Project Management
-tags:
-  - dpm2013
+excerpt: From the Digital PM Summit, exploring four relational models to help resolve conflict, smooth a discussion, or help with negotiation.
 ---
-[<img src="http://devin.reams.me/wp-content/uploads/2013/10/digital-pm-summit-2013-150x150.png" alt="digital-pm-summit-2013" width="150" height="150" class="alignright size-thumbnail wp-image-6268" />][1]At the [Digital PM Summit this year][1], I had the pleasure of sitting in a &#8220;conversation&#8221; session with a bunch of smart folks talking about &#8220;Managing Quality In Development Teams&#8221;. I could also tell one of the contributors in the corner *really* knew his stuff and had come from an interesting background. Little did I know, I was sitting in his session the next day titled &#8220;Managing Up, Down, and Sideways&#8221;.
+At the [Digital PM Summit this year][1], I had the pleasure of sitting in a &#8220;conversation&#8221; session with a bunch of smart folks talking about &#8220;Managing Quality In Development Teams&#8221;. I could also tell one of the contributors in the corner *really* knew his stuff and had come from an interesting background. Little did I know, I was sitting in his session the next day titled &#8220;Managing Up, Down, and Sideways&#8221;.
 
 [Breandán Knowlton][2] presented a unique combination of concepts that I&#8217;ve taken home to the team (and to heart) when approaching conflicts (or really, any dialogs) with our interactive projects and clients.
 

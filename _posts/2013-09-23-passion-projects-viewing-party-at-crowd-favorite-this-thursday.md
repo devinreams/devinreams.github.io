@@ -1,12 +1,8 @@
 ---
 title: Passion Projects Viewing Party at Crowd Favorite this Thursday
-author: Devin Reams
-layout: post
+layout: link
+link: https://www.eventbrite.com/event/8356910745
 permalink: /2013/passion-projects-viewing-party-at-crowd-favorite-this-thursday/
-categories:
-  - Business
-  - Work
-
 ---
 Denver friends, you&#8217;re cordially invited to a viewing party at the Crowd Favorite offices this Thursday. The excellent [Passion Projects][1] talk series presented by GitHub (to surface and celebrate women in technology) will be live-streamed.
 

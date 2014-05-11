@@ -1,12 +1,8 @@
 ---
 title: My Biggest Take-Aways from WordCamp San Francisco 2013
-author: Devin Reams
 layout: post
 permalink: /2013/lessons-from-wordcamp-san-francisco-2013/
-categories:
-  - Business
-  - Internet
-  - WordPress
+excerpt: "Git is coming to WordPress (or is it vice versa?), the project is maturing, bad practices should no longer be tolerated, and project management is hard."
 ---
 My biggest take-aways from WordCamp San Francisco 2013 were:
 
@@ -16,16 +12,6 @@ My biggest take-aways from WordCamp San Francisco 2013 were:
 *   2 pair of sunglasses
 
 &#8230;but seriously, the sessions I attended were great and I was able to see the direction that the WordPress project and community are headed. All while having some serious (and fun) discussions (with beverages).
-
-<dl id="attachment_6106" class="wp-caption aligncenter" style="max-width:510px">
-  <dt>
-    <a href="https://twitter.com/raqueLandefeld"><img src="http://devin.reams.me/wp-content/uploads/2013/07/736764_10151599327783380_1113397530_o-510x340.jpg" alt="Devin Reams, Alex King, Shane Pearlman at dinner with WP Engine" width="510" height="340" class="size-medium-img wp-image-6106" /></a>
-  </dt>
-  
-  <dd>
-    Devin, Alex, Shane at dinner with WP Engine. Photo credit Raquel Landefeld
-  </dd>
-</dl>
 
 Here are some of my highlights from a &#8216;project&#8217; perspective (and perhaps less technical):
 
