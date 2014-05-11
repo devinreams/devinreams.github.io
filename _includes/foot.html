@@ -1,5 +1,8 @@
-<p style="font-size:.7em">
-	{{ site.description }}<br/>
-	&copy; {{ site.time | date: '%Y' }}. All rights reserved. v{{ site.version }}</br>
-	Proudly hosted by <a href="https://pages.github.com">GitHub Pages</a>
-</p>
+<div style="float:left;width:75%">
+	<p style="font-size:.65em">
+		{{ site.description }}<br/>
+		&copy; {{ site.time | date: '%Y' }}. All rights reserved. v{{ site.version }}</br>
+		Proudly hosted by <a href="https://pages.github.com"><span class="octicon octicon-logo-github"></span></a>
+	</p>
+</div>
+<div style="float:right;width:25%;text-align:right">{% include social.html %}<br/></div>
