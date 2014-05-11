@@ -43,7 +43,6 @@ layout: page
 
 ### Writing, Fun, etc.
 
-
 * <span style="background-color:yellow">My brother, Branden, and I appeared on &#8220;<a href="http://www.zefrank.com/theshow/archives/2006/09/092606.html">the show</a> &#8221; by ze frank</span> near the end in June 2006.
 * Cited by Freakonomics author and economist Steven Levitt on his <a href="http://freakonomics.blogs.nytimes.com/2006/10/14/black-and-white-tv-take-ii/">New York Times</a> blog
 * Interviewed by the <a href="http://www.denverpost.com/entertainment/ci_5867868">Denver Post</a> about the &#8216;No Gas Day&#8217; concept in May 2007
