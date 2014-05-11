@@ -308,14 +308,19 @@ a.sidebar-nav-item:focus {
 
 .post.link {
   padding: 0 2em;
-  clear: all;
 }
 .post.link p {
   font-size: .9em;
-  clear: all;
+}
+.post p a {
+  text-decoration: underline;
+  color: #333;
 }
 .post.link h1 {
   font-size: 1.1em;
+}
+.post.link .post-title a {
+  color: #006699;
 }
 
 /* Blog post or page title */
@@ -451,13 +456,18 @@ a.pagination-item:hover {
 .theme-base-08 .sidebar,
 .theme-base-08 .sidebar-toggle:active,
 .theme-base-08 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #ac4142;
+  background-color: #ac4142;-
 }
 .theme-base-08 .container a,
 .theme-base-08 .sidebar-toggle,
 .theme-base-08 .related-posts li a:hover {
   color: #ac4142;
 }
+.theme-base-08 .container .post p a {
+  color: #333;
+}
+
+
 
 /* Orange */
 .theme-base-09 .sidebar,
