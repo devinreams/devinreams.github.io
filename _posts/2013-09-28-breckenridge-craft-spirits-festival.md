@@ -5,7 +5,7 @@ layout: post
 permalink: /2013/breckenridge-craft-spirits-festival/
 categories:
   - 'Food &amp; Drink'
-format: link
+layout: link
 ---
 I continue to contribute guest posts over at the [Breck Connection blog][1] and my latest is about the upcoming [Craft Spirits Festival to be held in Breckenridge next weekend][2]. Go check it out!
 

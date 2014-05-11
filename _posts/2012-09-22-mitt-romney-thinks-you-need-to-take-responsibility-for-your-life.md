@@ -5,7 +5,7 @@ layout: post
 permalink: /2012/mitt-romney-thinks-you-need-to-take-responsibility-for-your-life/
 categories:
   - Politics
-format: link
+layout: link
 ---
 Squashed takes a quick look at the math around paying income taxes:
 

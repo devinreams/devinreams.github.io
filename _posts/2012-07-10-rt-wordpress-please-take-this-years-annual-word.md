@@ -5,7 +5,7 @@ layout: post
 permalink: /2012/rt-wordpress-please-take-this-years-annual-word/
 categories:
   - Internet
-format: link
+layout: link
 ---
 Please take this year&#8217;s annual WordPress survey, and tell your friends! [wpsurvey.polldaddy.com/s/wp-2012][1]
 

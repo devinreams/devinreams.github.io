@@ -6,7 +6,7 @@ permalink: /2013/allow-tesla-motors-to-sell-directly-to-consumers-in-all-50-stat
 categories:
   - Business
   - Politics
-format: link
+layout: link
 ---
 A [WhiteHouse.gov petition][1]:
 

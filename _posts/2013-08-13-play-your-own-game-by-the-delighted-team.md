@@ -5,7 +5,7 @@ layout: post
 permalink: /2013/play-your-own-game-by-the-delighted-team/
 categories:
   - Business
-format: link
+layout: link
 ---
 This is the concise series of points I wish one of my drafts had become (after chatting with and listening to folks from Voce Platforms, 10up, WebDevStudios, and many others):
 

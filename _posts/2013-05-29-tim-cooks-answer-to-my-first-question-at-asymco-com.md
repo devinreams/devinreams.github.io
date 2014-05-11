@@ -5,7 +5,7 @@ layout: post
 permalink: /2013/tim-cooks-answer-to-my-first-question-at-asymco-com/
 categories:
   - Business
-format: link
+layout: link
 ---
 Horace Deidu at asymco had [a question he hoped Tim Cook would answer at D11][1]:
 

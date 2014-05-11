@@ -5,7 +5,7 @@ layout: post
 permalink: /2013/amazon-com-to-acquire-goodreads/
 categories:
   - Internet
-format: link
+layout: link
 ---
 > Amazon.com, Inc. today announced that it has reached an agreement to acquire Goodreads, a leading site for readers and book recommendations that helps people find and share books they love.
 

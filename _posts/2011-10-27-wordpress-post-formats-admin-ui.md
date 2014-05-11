@@ -15,7 +15,7 @@ geo_public:
   - 1
 categories:
   - WordPress
-format: link
+layout: link
 ---
 I&#8217;m pretty excited to see the Post Formats plugin (from the team at [Crowd Favorite][1]) released. I&#8217;ve been using it for a bit now on my blogs since it&#8217;s integrated into my new [FavePersonal theme][2]. I hope to see this get traction in the community&#8230;
 

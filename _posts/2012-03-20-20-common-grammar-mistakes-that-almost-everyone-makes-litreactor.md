@@ -5,7 +5,7 @@ layout: post
 permalink: /2012/20-common-grammar-mistakes-that-almost-everyone-makes-litreactor/
 categories:
   - Life
-format: link
+layout: link
 ---
 Well, this article made me feel like I have no idea what I&#8217;m doing with the english language:
 

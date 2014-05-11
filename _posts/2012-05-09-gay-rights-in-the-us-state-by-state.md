@@ -6,7 +6,7 @@ permalink: /2012/gay-rights-in-the-us-state-by-state/
 categories:
   - Internet
   - Politics
-format: link
+layout: link
 ---
 > Gay rights laws in America have evolved to allow — but in some cases ban — rights for gay, lesbian and transgender people on a range of issues, including marriage, hospital visitation, adoption, housing, employment and school bullying.
 

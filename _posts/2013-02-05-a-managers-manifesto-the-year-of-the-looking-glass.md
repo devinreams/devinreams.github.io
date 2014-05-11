@@ -6,7 +6,7 @@ permalink: /2013/a-managers-manifesto-the-year-of-the-looking-glass/
 categories:
   - Business
   - Personal
-format: link
+layout: link
 ---
 I liked this collection of [thoughts and lessons][1] from [Julie Zhuo][2], a design director at Facebook, including:
 

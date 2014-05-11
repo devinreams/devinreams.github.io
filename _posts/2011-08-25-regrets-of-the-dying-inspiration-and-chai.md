@@ -5,7 +5,7 @@ layout: post
 permalink: /2011/regrets-of-the-dying-inspiration-and-chai/
 categories:
   - Life
-format: link
+layout: link
 ---
 \[Bronnie Ware\](http://bronnieware.com/), a worker in palliative care, summarized the top five regrets of the dying. Number 2 is &#8220;I wish I didn&#8217;t work so hard&#8221;.
 

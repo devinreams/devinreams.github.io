@@ -6,7 +6,7 @@ permalink: /2012/netflix-portlandia/
 categories:
   - Entertainment
   - Humor
-format: link
+layout: link
 ---
 There&#8217;s a special kind of humor that comes out of [Fred Armisen][1]. If you&#8217;ve not heard of [Portlandia][2], the series dedicated to the zany town of Portland (Oregon), you can now check out the first season on Netflix.
 

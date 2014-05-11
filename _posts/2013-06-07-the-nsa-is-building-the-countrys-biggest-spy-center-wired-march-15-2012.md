@@ -6,7 +6,7 @@ permalink: /2013/the-nsa-is-building-the-countrys-biggest-spy-center-wired-march
 categories:
   - Internet
   - Politics
-format: link
+layout: link
 ---
 From over a year ago, an article by WIRED I had a started to draft a blog post about, is now extremely relevant:
 

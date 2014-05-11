@@ -6,7 +6,7 @@ permalink: /2013/class-of-2013-seek-a-journey-to-the-unobvious/
 categories:
   - Business
   - Life
-format: link
+layout: link
 ---
 An excellent [commencement address &#8220;I wish I&#8217;d heard&#8221; by Chris Schroeder over on Linkedin][1]:[^1]
 

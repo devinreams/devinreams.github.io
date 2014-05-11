@@ -7,7 +7,7 @@ categories:
   - Humor
   - Life
   - Politics
-format: link
+layout: link
 ---
 David Cohen has a good observation about shaking hands:
 

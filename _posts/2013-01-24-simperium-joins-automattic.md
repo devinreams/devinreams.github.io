@@ -6,7 +6,7 @@ permalink: /2013/simperium-joins-automattic/
 categories:
   - Business
   - WordPress
-format: link
+layout: link
 ---
 I&#8217;m quite happy to hear that the folks behind [Simplenote][1] will be joining the team at [Automattic][2] as I know it means the native iOS mobile blogging experience for WordPress users will improve<sup id="fnref-5492:1"><a href="#fn-5492:1" rel="footnote">1</a></sup>.
 

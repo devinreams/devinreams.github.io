@@ -6,7 +6,7 @@ permalink: /2012/rich-kids-of-instagram-epitomize-everything-wrong-with-instagra
 categories:
   - Internet
   - Social Media
-format: link
+layout: link
 ---
 By Rebecca Greenfield at [The Atlantic Wire][1]:
 

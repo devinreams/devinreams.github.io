@@ -6,7 +6,7 @@ permalink: /2012/lift-app-launches/
 categories:
   - Internet
   - Lifehack
-format: link
+layout: link
 ---
 Kudos to the team at [Lift][1] for launching their iOS app today:
 

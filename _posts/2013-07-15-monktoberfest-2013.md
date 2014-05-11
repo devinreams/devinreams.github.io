@@ -9,7 +9,7 @@ categories:
   - Social Media
 tags:
   - Monktoberfest
-format: link
+layout: link
 ---
 [The Monktoberfest][1], my favorite conference at the confluence of technology and beer, is back for 2013 in lovely Portlane, Maine. [Tickets just went on sale][2] and there&#8217;s only a few dozen left. Prior speakers and companies in attendance include ZenDesk, GitHub, Untappd, Mozilla, Facebook, and more.
 

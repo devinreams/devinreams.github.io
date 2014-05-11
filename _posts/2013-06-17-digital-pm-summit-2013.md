@@ -6,7 +6,7 @@ permalink: /2013/digital-pm-summit-2013/
 categories:
   - Business
   - Work
-format: link
+layout: link
 ---
 I&#8217;m excited to attend the upcoming [Digital PM Summit][1], produced by the smart guys at Happy Cog (Greg Hoy and Greg Storey) for digital project managers. I&#8217;ve seen presentations by and met a number of Happy Cog folks at conferences like SXSW and it&#8217;s clear they do great work.
 

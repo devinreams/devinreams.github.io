@@ -5,7 +5,7 @@ layout: post
 permalink: /2013/post-formats-and-wordpress-3-6/
 categories:
   - WordPress
-format: link
+layout: link
 ---
 I found some confusion [an interesting discussion over on WordPress Tavern around Post Formats][1]:
 

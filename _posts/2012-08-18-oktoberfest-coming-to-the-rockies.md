@@ -5,7 +5,7 @@ layout: post
 permalink: /2012/oktoberfest-coming-to-the-rockies/
 categories:
   - 'Food &amp; Drink'
-format: link
+layout: link
 ---
 We&#8217;re planning to head to Breckenridge and Vail in September for their respective [Oktoberfests][1]. This is my favorite time of the year and after these 100-degree days I&#8217;m very ready to start wearing sweaters.
 

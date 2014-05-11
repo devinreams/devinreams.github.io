@@ -5,7 +5,7 @@ layout: post
 permalink: /2012/got-milk-you-dont-need-it/
 categories:
   - 'Food &amp; Drink'
-format: link
+layout: link
 ---
 An [amazing rebuttal][1] to everything I&#8217;ve come to know and appreciate about milk (good for you, drink lots of it, etc.) over at NYTimes.com:
 

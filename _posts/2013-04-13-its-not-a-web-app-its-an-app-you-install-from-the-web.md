@@ -5,7 +5,7 @@ layout: post
 permalink: /2013/its-not-a-web-app-its-an-app-you-install-from-the-web/
 categories:
   - Internet
-format: link
+layout: link
 ---
 From the [Forecast Blog][1]:
 

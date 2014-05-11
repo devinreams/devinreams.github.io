@@ -6,7 +6,7 @@ permalink: /2013/passion-projects-viewing-party-at-crowd-favorite-this-thursday/
 categories:
   - Business
   - Work
-format: link
+layout: link
 ---
 Denver friends, you&#8217;re cordially invited to a viewing party at the Crowd Favorite offices this Thursday. The excellent [Passion Projects][1] talk series presented by GitHub (to surface and celebrate women in technology) will be live-streamed.
 

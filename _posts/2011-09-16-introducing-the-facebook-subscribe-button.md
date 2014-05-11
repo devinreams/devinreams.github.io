@@ -16,6 +16,6 @@ geo_public:
 categories:
   - Internet
   - Social Media
-format: link
+layout: link
 ---
 My Facebook List &#8220;Internet Celebs&#8221; is going to make &#8220;un-Friending and Subscribing&#8221; a very efficient process.

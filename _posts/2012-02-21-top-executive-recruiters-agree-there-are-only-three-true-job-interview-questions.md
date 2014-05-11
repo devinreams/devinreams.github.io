@@ -5,7 +5,7 @@ layout: post
 permalink: /2012/top-executive-recruiters-agree-there-are-only-three-true-job-interview-questions/
 categories:
   - Business
-format: link
+layout: link
 ---
 From George Bradt at Forbes.com:
 

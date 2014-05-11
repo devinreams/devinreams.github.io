@@ -6,7 +6,7 @@ permalink: /2013/great-divide-tasting-room-donates-73201/
 categories:
   - Business
   - 'Food &amp; Drink'
-format: link
+layout: link
 ---
 I remember years ago when the Great Divide tasting room was a small, cozy spot where you could wander in and sample three excellent beers for free. When they expanded the room (took out an entire wall) and started charging $1 per sample I thought the two events were related. From PJ over at [Denver off the Wagon][1]:
 

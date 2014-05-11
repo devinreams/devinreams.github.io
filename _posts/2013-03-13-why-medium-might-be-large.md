@@ -7,7 +7,7 @@ categories:
   - Internet
   - Personal
   - Social Media
-format: link
+layout: link
 ---
 [Chris Brogan, on Ev William&#8217;s Medium][1]:
 

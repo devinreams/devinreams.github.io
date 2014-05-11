@@ -19,7 +19,7 @@ categories:
   - Social Media
 tags:
   - facebook
-format: link
+layout: link
 ---
 As soon as I saw Facebook&#8217;s new &#8220;Ticker&#8221; (a.k.a. Facebook within Facebook) I wondered if Facebook was smart enough to &#8220;surface&#8221; the right stories to me. [MG Siegler at TechCrunch][1]:
 
