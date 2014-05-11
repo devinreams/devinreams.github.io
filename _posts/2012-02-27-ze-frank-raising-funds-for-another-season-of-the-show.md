@@ -6,7 +6,7 @@ permalink: /2012/ze-frank-raising-funds-for-another-season-of-the-show/
 categories:
   - Humor
   - Internet
-layout: link
+
 ---
 I was a big fan of &#8220;the show&#8221; with ze frank way back in 2006. I&#8217;m excited to see ze bring it back (it&#8217;ll obviously be different than the original). Using Kickstarter you can help get involved with the production by making a donation.
 

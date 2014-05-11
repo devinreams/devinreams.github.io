@@ -6,7 +6,7 @@ permalink: /2012/why-im-not-a-founder/
 categories:
   - Business
   - Personal
-layout: link
+
 ---
 [Ben Bleikamp][1], a designer with a very respectable and enviable design career:
 

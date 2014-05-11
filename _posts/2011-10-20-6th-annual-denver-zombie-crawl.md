@@ -15,7 +15,7 @@ geo_public:
   - 1
 categories:
   - Internet
-layout: link
+
 ---
 This weekend is the 6th annual Zombie Crawl here in Denver. @dannynewman has done a great job organizing such a big event. It continues to set world records. Its a ton of fun to come watch, participate, dress up, wear gross makeup and very family-friendly. [Check out the site][1] and we&#8217;ll see you there on Saturday.
 

@@ -15,7 +15,7 @@ geo_public:
   - 1
 categories:
   - WordPress
-layout: link
+
 ---
 [Alex][1] and I are headed to the warm land of Florida this Friday to attend and participate in [WordCamp Orlando][2]. The sessions look great and the folks organizing it have done a good job in the past. I&#8217;m looking forward to the conference.
 

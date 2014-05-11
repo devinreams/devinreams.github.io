@@ -6,7 +6,7 @@ permalink: /2012/big-jambox/
 categories:
   - Gadgets
   - Humor
-layout: link
+
 ---
 > Fill even the largest spaces with the enormous sound of BIG JAMBOX.
 

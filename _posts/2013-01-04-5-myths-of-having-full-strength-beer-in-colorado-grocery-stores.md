@@ -5,7 +5,7 @@ layout: post
 permalink: /2013/5-myths-of-having-full-strength-beer-in-colorado-grocery-stores/
 categories:
   - Business
-layout: link
+
 ---
 From Lindsey Dulin at [Denver off the Wagon][1] regarding &#8220;more distribution channels make it easier for new businesses to enter the craft beer industry&#8221;:
 

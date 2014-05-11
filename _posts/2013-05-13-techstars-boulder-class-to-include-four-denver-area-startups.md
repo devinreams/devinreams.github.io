@@ -7,7 +7,7 @@ categories:
   - Business
 tags:
   - TechStars
-layout: link
+
 ---
 The Denver Post&#8217;s Andy Vuong highlights the [four Denver-based companies that will be involved in TechStars Boulder][1] this summer. [Elihuu][2] being one of them:
 

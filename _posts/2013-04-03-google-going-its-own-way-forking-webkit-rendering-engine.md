@@ -6,7 +6,7 @@ permalink: /2013/google-going-its-own-way-forking-webkit-rendering-engine/
 categories:
   - Humor
   - Internet
-layout: link
+
 ---
 From Peter Bright at [Ars Technica][1]:
 

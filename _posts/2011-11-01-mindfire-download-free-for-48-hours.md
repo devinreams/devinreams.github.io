@@ -6,7 +6,7 @@ permalink: /2011/mindfire-download-free-for-48-hours/
 categories:
   - Internet
   - Reviews
-layout: link
+
 ---
 Scott Berkun&#8217;s latest book is available for download for free over the next day or so. He&#8217;s a great author ([Making Things Happen][1] is a must-read for project managers) and moving into the self-publishing realm. Spread the word and support good books!
 

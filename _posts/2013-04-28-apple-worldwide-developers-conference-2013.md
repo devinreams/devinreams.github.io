@@ -5,7 +5,7 @@ layout: post
 permalink: /2013/apple-worldwide-developers-conference-2013/
 categories:
   - Gadgets
-layout: link
+
 ---
 From Phil Schiller, Apple’s senior vice president of Worldwide Marketing on [WWDC 2013][1]:
 

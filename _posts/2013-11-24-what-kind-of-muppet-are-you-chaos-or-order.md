@@ -7,6 +7,6 @@ categories:
   - Entertainment
   - Humor
   - Life
-layout: link
+
 ---
 Order Muppet in the streets, Chaos Muppet steals the sheets.

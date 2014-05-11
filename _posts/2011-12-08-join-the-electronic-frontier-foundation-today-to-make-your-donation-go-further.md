@@ -6,7 +6,7 @@ permalink: /2011/join-the-electronic-frontier-foundation-today-to-make-your-dona
 categories:
   - Internet
   - Politics
-layout: link
+
 ---
 If you become an [EFF member][1] today your donation will get a 4x Power Up (donor matched contribution). If you&#8217;ve never heard of the [EFF][2], they&#8217;re the leading organization defending civil liberties in the digital world.
 

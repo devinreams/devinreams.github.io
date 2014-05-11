@@ -6,7 +6,7 @@ permalink: /2012/what-its-like-to-work-for-stripe/
 categories:
   - Asides
   - Business
-layout: link
+
 ---
 From [Alex MacCaw][1]:
 

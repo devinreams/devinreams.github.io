@@ -6,7 +6,7 @@ permalink: /2012/listening-with-your-eyes/
 categories:
   - Art
   - Gadgets
-layout: link
+
 ---
 Here&#8217;s a good read from [Dustin][1]:
 

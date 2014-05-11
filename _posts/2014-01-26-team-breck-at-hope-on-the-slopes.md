@@ -5,7 +5,7 @@ layout: post
 permalink: /2014/team-breck-at-hope-on-the-slopes/
 categories:
   - Personal
-layout: link
+
 ---
 On February 22, 2014 I will be skiing on &#8220;Team Breck&#8221; at [Hope on the Slopes][1] in Breckenridge. Hope on the Slopes, Ski & Ride for a Cure is a fundraising event for skiers and boarders, held at ski areas around the country. Proceeds benefit the American Cancer Society (ACS), and support their mission to eliminate cancer as a major health problem through prevention, saving lives, and diminishing suffering from cancer through research, education, advocacy and service.
 

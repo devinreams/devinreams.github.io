@@ -6,7 +6,7 @@ permalink: /2013/car2go-in-denver/
 categories:
   - Personal
   - Politics
-layout: link
+
 ---
 I was one of the earliest to register for [B-Cycle][1] (Denver&#8217;s bike sharing system) and now I&#8217;m excited to sign up for [car2go in Denver][2].
 

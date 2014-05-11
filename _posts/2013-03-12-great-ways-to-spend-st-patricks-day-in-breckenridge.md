@@ -7,7 +7,7 @@ categories:
   - 'Food &amp; Drink'
   - Internet
   - Personal
-layout: link
+
 ---
 Some of my writing has been featured over on the Breckenridge Connection blog again for [GoBreck][1] (the chamber of commerce). This time I looked at the upcoming St. Patrick&#8217;s Day holiday and highlighted some events and venues for celebrating the day of food and feast (the best kind of day, in my opinion). Click through to [read the post on GoBreck.com][2].
 

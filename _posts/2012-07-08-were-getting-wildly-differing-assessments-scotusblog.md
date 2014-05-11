@@ -6,7 +6,7 @@ permalink: /2012/were-getting-wildly-differing-assessments-scotusblog/
 categories:
   - Internet
   - Politics
-layout: link
+
 ---
 Here&#8217;s a fascinating [play-by-play from SCOTUSblog][1] of what happened in the media and at the White House (all within 15 minutes) after the Supreme Court&#8217;s decision being announced last week:
 

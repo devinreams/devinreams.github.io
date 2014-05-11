@@ -6,7 +6,7 @@ permalink: /2011/netflix-to-resurrect-arrested-development-in-2013-as-part-of-co
 categories:
   - Entertainment
   - Gadgets
-layout: link
+
 ---
 From Drew Olanoff at The Next Web:
 

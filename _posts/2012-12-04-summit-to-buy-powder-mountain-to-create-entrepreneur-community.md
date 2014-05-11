@@ -7,7 +7,7 @@ categories:
   - Business
   - Life
   - Money
-layout: link
+
 ---
 From Forbes:
 

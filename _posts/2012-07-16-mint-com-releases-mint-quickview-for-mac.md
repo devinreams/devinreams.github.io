@@ -6,7 +6,7 @@ permalink: /2012/mint-com-releases-mint-quickview-for-mac/
 categories:
   - Internet
   - Life
-layout: link
+
 ---
 I was browsing the Mac App Store and spotted a new &#8220;Editors Choice&#8221; app from [Mint.com][1]: [Mint QuickView][2]. It&#8217;s a system tray application icon that pops down a &#8216;quick view&#8217; (modeled similar to Fantastical or even Spotlight) of your finances. Spending, recent transactions, net worth, etc.
 

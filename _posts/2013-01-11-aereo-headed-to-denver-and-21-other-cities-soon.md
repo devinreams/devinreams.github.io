@@ -8,7 +8,7 @@ categories:
   - Gadgets
   - Internet
   - Video
-layout: link
+
 ---
 If you&#8217;ve not seen: [Aereo][1] is a new startup backed by Barry Diller to free the television airwaves and put them online. In short: they create a farm of television antennas, put them online, and then allow you to watch your broadcast television online.
 

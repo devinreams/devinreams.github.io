@@ -6,7 +6,7 @@ permalink: /2013/reinventing-the-airline-industry-by-jude-gomila/
 categories:
   - Business
   - Travel
-layout: link
+
 ---
 I can&#8217;t stop thinking how easy it could potentially be to truly &#8220;disrupt&#8221; the airline industry. [Judge Gomila looks at a number of aspects of flying][1] that don&#8217;t make sense:
 

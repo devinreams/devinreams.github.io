@@ -6,7 +6,7 @@ permalink: /2012/hacker-news-poll-do-you-select-text-while-reading/
 categories:
   - Gadgets
   - Personal
-layout: link
+
 ---
 I found a poll over at Hacker News via John Siracusa:
 

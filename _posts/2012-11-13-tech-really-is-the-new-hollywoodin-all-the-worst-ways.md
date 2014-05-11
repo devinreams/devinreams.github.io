@@ -6,7 +6,7 @@ permalink: /2012/tech-really-is-the-new-hollywoodin-all-the-worst-ways/
 categories:
   - Business
   - Life
-layout: link
+
 ---
 Here&#8217;s a great article on the [shift in technology popularity and values from Francisco Dao at PandoDaily][1]:
 

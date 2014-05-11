@@ -5,7 +5,7 @@ layout: post
 permalink: /2013/nate-silver-correctly-picks-ncaa-tournament-winner/
 categories:
   - Entertainment
-layout: link
+
 ---
 > Louisville is in fact the nominal favorite to win the tournament despite its tough draw, according to the FiveThirtyEight forecast. Still, Louisville has only a 23 percent chance of doing so, just ahead of Indiana at 20 percent.
 

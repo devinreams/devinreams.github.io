@@ -7,7 +7,7 @@ categories:
   - Business
   - Gadgets
   - Humor
-layout: link
+
 ---
 > Facebook just invited press to an event at its headquarters on April 4th to “Come See Our New Home On Android”. Sources tell us it will be a modified version of the Android operating system with deep native Facebook functionality on the homescreen that may live on an HTC handset.
 

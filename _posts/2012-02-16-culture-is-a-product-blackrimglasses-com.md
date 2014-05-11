@@ -6,7 +6,7 @@ permalink: /2012/culture-is-a-product-blackrimglasses-com/
 categories:
   - Business
   - Work
-layout: link
+
 ---
 Here&#8217;s [Ethan Kaplan][1], a smart developer slash executive, and his take on &#8220;culture&#8221;:
 

@@ -6,7 +6,7 @@ permalink: /2012/wordpress-com-adds-tumblr-support/
 categories:
   - Internet
   - WordPress
-layout: link
+
 ---
 This post by [Matt Mullenweg][1] is pretty insightful:
 

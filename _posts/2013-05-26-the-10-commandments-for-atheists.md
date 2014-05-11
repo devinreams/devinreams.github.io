@@ -5,7 +5,7 @@ layout: post
 permalink: /2013/the-10-commandments-for-atheists/
 categories:
   - Life
-layout: link
+
 ---
 The [Daily Telegraph][1] weighs in on Alan de Botton&#8217;s philosophical &#8220;commandments&#8221; for atheists:
 

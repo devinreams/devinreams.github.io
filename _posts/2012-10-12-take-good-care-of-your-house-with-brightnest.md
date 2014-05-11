@@ -7,7 +7,7 @@ categories:
   - Internet
   - Life
   - Personal
-layout: link
+
 ---
 Rachel and I have been living in our house for almost two years now. Last year I found a neat little online startup (out of Denver, I later learned) called [BrightNest][1] that helps us take care of all the chores and things we never quite knew we should do (plus the ones we did) around here.
 

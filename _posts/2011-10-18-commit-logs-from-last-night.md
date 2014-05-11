@@ -16,7 +16,7 @@ geo_public:
 categories:
   - Asides
   - Humor
-layout: link
+
 ---
 We at [Crowd Favorite][1] get email notifications for every commit in the company. This leads to some fairly entertaining commit messages coming across. Mine typically consist of &#8220;oops, forgot semicolon&#8221; just because I don&#8217;t know what I&#8217;m doing. I can see how this site could take off pretty quickly in the developer community. (via [@kottke][2])
 

@@ -6,7 +6,7 @@ permalink: /2013/tours-of-duty-the-new-employer-employee-compact-harvard-busines
 categories:
   - Asides
   - Entertainment
-layout: link
+
 ---
 I really enjoyed this [HBR article by Reid Hoffman, Ben Casnocha, and Chris Yeh on &#8220;the New Employer-Employee Compact&#8221;][1]:
 
