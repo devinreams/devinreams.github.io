@@ -36,7 +36,7 @@ layout: page
 * Discussed how clients should choose a web developer and/or designer on a panel at <a href="http://2011.orlando.wordcamp.org">WordCamp Orlando 2011</a>.
 * Presented on integrating Facebook Platform into WordPress and other Open Source projects at the Facebook Developer Garage Boulder in May 2010.
 * Designed and developed the original WordPress theme design and logo for <a href="http://employeeevolution.com/">Employee Evolution</a>. I also contributed in the early-days by writing <a href="http://www.employeeevolution.com/archives/author/devin/">articles for Employee Evolution</a>.
-* Helped <a href="http://noahkagan.com/">Noah Kagan</a> organize one of the more successful conferences around social communities called <span style="background-color:yellow"><a href="http://communitynext.com">CommunityNext</a></a>.
+* Helped <a href="http://noahkagan.com/">Noah Kagan</a> organize one of the more successful conferences around social communities called <span style="background-color:yellow"><a href="http://communitynext.com">CommunityNext</a></span>.
 * Designed the original blog badge for <a href="http://20somethings.ning.com">Twenty Something bloggers</a>
 * Designed and built many of the default wiki templates and sample wikis for <a href="http://pbwiki.com">pbWiki</a> in early 2008.
 * Worked for two small ISPs from 1999-2001 where I taught myself about Unix, Apache, MySQL, PHP, and supporting customers. I also hacked a lot on IRC bots, scripts, daemons and have hated Perl ever since.
