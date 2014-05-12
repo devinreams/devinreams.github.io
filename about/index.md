@@ -4,6 +4,8 @@ layout: page
 ---
 ## Howdy! I&#8217;m Devin and I help with enterprise accounts at [GitHub][1]. I&#8217;m a twenty-something living (working, and playing) in Denver, Colorado. I&#8217;ve been known to [ski][2], jog, and brew my own beer.
 
+<a href="http://photos.devin.reams.me/iceland"><img src="/img/devin-and-rachel-iceland.jpg" alt="Devin and Rachel in Iceland" width="100%"></a>
+
 ## Quick Facts
 
 *   I&#8217;m [married to my best friend][3], Rachel.
