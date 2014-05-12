@@ -2,25 +2,25 @@
 title: About
 layout: page
 ---
-## Howdy! I&#8217;m Devin and I help with enterprise accounts at [GitHub][1]. I&#8217;m a twenty-something living (working, and playing) in Denver, Colorado. I&#8217;ve been known to [ski][2], jog, and brew my own beer.
+## Howdy! I&#8217;m Devin and I help with enterprise account management at [GitHub][1]. I&#8217;m a twenty-something living (working, and playing) in Denver, Colorado. I&#8217;ve been known to [ski][2], jog, and [brew my own beer](http://github.com/devinreams/beer/).
 
 <a href="http://photos.devin.reams.me/iceland"><img src="/img/devin-and-rachel-iceland.jpg" alt="Devin and Rachel in Iceland" width="100%"></a>
 
 ## Quick Facts
 
 *   I&#8217;m [married to my best friend][3], Rachel.
-*   I used to help manage things at [Crowd Favorite][4], a small web design and development firm.
-*   I work on the sales and enterprise accounts side of things at [GitHub][5].
-*   I grew up in Colorado, [studied here][6], and see myself living here most of my life.
-*   I love to [ski][2], camp and hike, and I&#8217;m slowly learning to golf.
+*   I help with sales and enterprise account management things at [GitHub][5].
+*   I previously helped manage things at [Crowd Favorite][4], a web design and development firm.
+*   I grew up in Colorado, [studied here][6], and see myself sticking around.
+*   I love to [ski][2], camp, and hike. I&#8217;ve successfully hit a golf ball once or twice.
 *   I have visited every continent except Antarctica (but, it&#8217;s on the list).
-*   I&#8217;m an [Eagle Scout][7] (I thought I would be a park ranger when I grew up).
+*   I&#8217;m an [Eagle Scout][7] (and I thought I would be a park ranger when I grew up).
 
 ## Gadgets
 
-*   [MacBook Air][8], 11&#8243; (mid 2012)
+*   [MacBook Air][8], 11&#8243; (mid 2013)
 *   iPhone 5s (white)
-*   The new [iPad][9] (2012)
+*   [iPad mini][9] (2013)
 *   [JAMBOX][10]
 *   Sonos
 *   Apple TV
