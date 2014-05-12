@@ -1,33 +1,7 @@
 ---
 title: 'Top Websites That Aren&#039;t (Yet) Mainstream'
-author: Devin Reams
 layout: post
 permalink: /2008/top-websites-that-arent-yet-mainstream/
-oc_metadata:
-  - '{		version:1.0,		tags: {}	}'
-  - '{		version:1.0,		tags: {}	}'
-  - '{		version:1.0,		tags: {}	}'
-  - "{		version:1.0,		tags: {'internet-fads': {			text:'internet fads',			slug:'internet-fads',			source:{			url:'http://d.opencalais.com/genericHasher-1/83a116bd-3e04-3a72-9e2f-935e8ecb2064',			type:{			url:'http://s.opencalais.com/1/type/em/e/IndustryTerm',			iconURL:'',			name:'IndustryTerm'		},			name:'internet fads',			nInstances:1		},			bucketName:'current'		},'media': {			text:'media',			slug:'media',			source:{			url:'http://d.opencalais.com/genericHasher-1/c45d8a90-9011-3d5e-a6c3-96b1de7f7a06',			type:{			url:'http://s.opencalais.com/1/type/em/e/IndustryTerm',			iconURL:'',			name:'IndustryTerm'		},			name:'media',			nInstances:1		},			bucketName:'current'		},'internet': {			text:'internet',			slug:'internet',			source:null,			bucketName:'current'		},'websites': {			text:'websites',			slug:'websites',			source:null,			bucketName:'current'		},'web20': {			text:'web2.0',			slug:'web20',			source:null,			bucketName:'current'		},'newsvine': {			text:'newsvine',			slug:'newsvine',			source:null,			bucketName:'current'		},'twitter': {			text:'twitter',			slug:'twitter',			source:null,			bucketName:'current'		},'gmail': {			text:'gmail',			slug:'gmail',			source:null,			bucketName:'current'		},'hulu': {			text:'hulu',			slug:'hulu',			source:null,			bucketName:'current'		}}	}"
-  - "{		version:1.0,		tags: {'internet-fads': {			text:'internet fads',			slug:'internet-fads',			source:{			url:'http://d.opencalais.com/genericHasher-1/83a116bd-3e04-3a72-9e2f-935e8ecb2064',			type:{			url:'http://s.opencalais.com/1/type/em/e/IndustryTerm',			iconURL:'',			name:'IndustryTerm'		},			name:'internet fads',			nInstances:1		},			bucketName:'current'		},'media': {			text:'media',			slug:'media',			source:{			url:'http://d.opencalais.com/genericHasher-1/c45d8a90-9011-3d5e-a6c3-96b1de7f7a06',			type:{			url:'http://s.opencalais.com/1/type/em/e/IndustryTerm',			iconURL:'',			name:'IndustryTerm'		},			name:'media',			nInstances:1		},			bucketName:'current'		},'gmail': {			text:'gmail',			slug:'gmail',			source:null,			bucketName:'current'		},'hulu': {			text:'hulu',			slug:'hulu',			source:null,			bucketName:'current'		},'internet': {			text:'Internet',			slug:'internet',			source:null,			bucketName:'current'		},'newsvine': {			text:'newsvine',			slug:'newsvine',			source:null,			bucketName:'current'		},'twitter': {			text:'twitter',			slug:'twitter',			source:null,			bucketName:'current'		},'web20': {			text:'web2.0',			slug:'web20',			source:null,			bucketName:'current'		},'websites': {			text:'Websites',			slug:'websites',			source:null,			bucketName:'current'		}}	}"
-  - "{		version:1.0,		tags: {'internet-fads': {			text:'internet fads',			slug:'internet-fads',			source:{			url:'http://d.opencalais.com/genericHasher-1/83a116bd-3e04-3a72-9e2f-935e8ecb2064',			type:{			url:'http://s.opencalais.com/1/type/em/e/IndustryTerm',			iconURL:'',			name:'IndustryTerm'		},			name:'internet fads',			nInstances:1		},			bucketName:'current'		},'media': {			text:'media',			slug:'media',			source:{			url:'http://d.opencalais.com/genericHasher-1/c45d8a90-9011-3d5e-a6c3-96b1de7f7a06',			type:{			url:'http://s.opencalais.com/1/type/em/e/IndustryTerm',			iconURL:'',			name:'IndustryTerm'		},			name:'media',			nInstances:1		},			bucketName:'current'		},'gmail': {			text:'gmail',			slug:'gmail',			source:null,			bucketName:'current'		},'hulu': {			text:'hulu',			slug:'hulu',			source:null,			bucketName:'current'		},'internet': {			text:'Internet',			slug:'internet',			source:null,			bucketName:'current'		},'newsvine': {			text:'newsvine',			slug:'newsvine',			source:null,			bucketName:'current'		},'twitter': {			text:'twitter',			slug:'twitter',			source:null,			bucketName:'current'		},'web20': {			text:'web2.0',			slug:'web20',			source:null,			bucketName:'current'		},'websites': {			text:'Websites',			slug:'websites',			source:null,			bucketName:'current'		}}	}"
-oc_commit_id:
-  - http://www.devinreams.com/2008/08/25/top-websites-that-arent-yet-mainstream/1219720786
-btc_comment_counts:
-  - 'a:0:{}'
-categories:
-  - Internet
-tags:
-  - gmail
-  - hulu
-  - Internet
-  - internet fads
-  - media
-  - newsvine
-  - People
-  - Reviews
-  - twitter
-  - web2.0
-  - Websites
 ---
 Lets dive right into them, shall we? I present to you, the websites that aren&#8217;t quite mainstream &#8230; yet.
 

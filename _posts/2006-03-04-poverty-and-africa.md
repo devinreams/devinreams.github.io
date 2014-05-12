@@ -32,7 +32,7 @@ So, is there a way to equate terror with countries lacking food and water? In ot
 I&#8217;m so glad the answer is this simple&#8230;  
 [tags]africa, aid, support, poverty, military, terror[/tags]
 
- [1]: http://devinreams.com/2006/03/03/honesty-challenge/
+ [1]: http://devin.reams.me/2006/honesty-challenge/
  [2]: http://www.kiva.org/
  [3]: http://www.live8live.com/
  [4]: http://www.fpif.org/fpiftxt/171

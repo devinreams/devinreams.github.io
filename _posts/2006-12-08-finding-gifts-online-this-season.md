@@ -12,7 +12,7 @@ tags:
 ---
 <img src="http://devinreams.com/wp-content/uploads/2006/12/gifts1.jpg" align="center" />
 
-First, welcome to my new readers. I noticed a [substantial spike in my traffic][1] yesterday when the latest 9rules members were [announced][2]. Thanks to everyone who emailed, messaged, and left their congratulations- I do appreciate it. If you are new or haven&#8217;t browsed my site before be sure to check out my [Archives][3] and [Articles][4] to see what I&#8217;ve written in the last year. I&#8217;ve also built some useful [Tools][5] and pulled together some [Quotes][6] worth checking out. Welcome!
+First, welcome to my new readers. I noticed a [substantial spike in my traffic][1] yesterday when the latest 9rules members were [announced][2]. Thanks to everyone who emailed, messaged, and left their congratulations- I do appreciate it.
 
 On to business: you basically have two weeks left to get your holiday shopping done. If you&#8217;re like me you&#8217;re probably one of many things: a) lazy b) scared of large crowds of determined women or c) uncreative. Luckily the internet is here to remedy each of my shortcomings. Since I shop for nearly everything online these days: clothes, toys and yes, even [food][7] why not others&#8217; gifts? I searched for some simple gift finding tools online and here is what I&#8217;ve found.
 
@@ -46,8 +46,4 @@ Here&#8217;s a site that provides maybe the **largest compilation** of gifts and
 
  [1]: http://www.flickr.com/photos/devdev/316942775/
  [2]: http://9rules.com/blog/2006/12/new-additions-12-07-06/
- [3]: http://devinreams.com/archives/
- [4]: http://devinreams.com/articles/
- [5]: http://devinreams.com/tools/
- [6]: http://devinreams.com/quotes/
  [7]: http://www.amazon.com/grocery-breakfast-foods-snacks-organic/b?ie=UTF8&#038;node=16310101

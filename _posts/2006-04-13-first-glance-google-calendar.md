@@ -16,8 +16,6 @@ I&#8217;m planning on importing all my Outlook information a bit later. It might
 
 As a hint: if you have a Google Hosted email account (ie, my domain, devinreams.com) then you need to be sure you create a [Google Account][3] with your email address.
 
-[tags]google, gmail calendar, outlook[/tags]
-
  [1]: http://google.blognewschannel.com/index.php/archives/2006/04/13/google-calendar-is-live/
  [2]: http://feeds.feedburner.com/SolutionWatch?m=269
  [3]: https://www.google.com/accounts/NewAccount

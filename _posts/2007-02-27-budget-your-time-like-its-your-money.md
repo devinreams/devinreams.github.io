@@ -52,4 +52,4 @@ But, things come up. Just like with money, you can only prepare for so much. Hop
 
 Happy budgeting! Let me know if you try it out and how it goes&#8230;
 
- [1]: http://devinreams.com/2006/05/16/weekly-schedule-2/
+ [1]: http://devin.reams.me/2006/weekly-schedule-2/

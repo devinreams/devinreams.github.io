@@ -46,8 +46,4 @@ Instead of debating with my present self I can delegate the task of deciding to 
 
 It may not be for everyone but I like it because it&#8217;s pretty flexible. Some people prefer paper/pencil, others like technology. Either way I hope this can help someone else be more productive! As always, I appreciate comments, questions and suggestions.
 
-<p class="alert">
-  <a href="http://devinreams.com/etc/WeeklySchedule.xls">Click here to download WeeklySchedule.xls</a>
-</p>
-
- [1]: http://devinreams.com/2006/04/01/weekly-schedule
+~~Click here to download WeeklySchedule.xls~~

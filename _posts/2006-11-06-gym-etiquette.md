@@ -43,5 +43,5 @@ We all know that running water can be pretty loud, especially when more than one
 
 These are just some of the fundamental tips. Having read this you should have no trouble at the gym now. Any other suggestions? Leave them in the comments&#8230;
 
- [1]: http://devinreams.com/2006/11/04/exercise-equals-happiness/
- [2]: http://devinreams.com/2006/10/15/college-etiquette/
+ [1]: http://devin.reams.me/2006/exercise-equals-happiness/
+ [2]: http://devin.reams.me/2006/college-etiquette/

@@ -44,4 +44,4 @@ I need to see my upcoming events, for one. I&#8217;d also like to be able to pok
 
 **Either way, there&#8217;s little need to visit Facebook anymore. What will that mean for advertisers? How will new sponsored groups get advertised? Will we see advertisers in our notifications? Or will they use the information to better know us (like Google)? In any case, I expect the features to be expanded- it&#8217;s a good start.**
 
- [1]: http://devinreams.com/2006/11/27/eliminate-distractions/
+ [1]: http://devin.reams.me/2006/eliminate-distractions/

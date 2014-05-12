@@ -18,10 +18,10 @@ tags:
 It&#8217;s cool because it rhymes. So, you might remember [my very simple GMail Todo List][1] which I still use daily. What if I don&#8217;t want to keep GMail open to see what I need to do? Well, if you have Vista or some sort of desktop widget/gadget you can subscribe to feeds. Luckily, GMail has Atom feeds setup for your labels:
 
 <center>
-  <strong>http://mail.google.com/feed/atom/<em>Label_Name</em>/</strong>
+  `http://mail.google.com/feed/atom/<em>Label_Name</em>/`
 </center>
 
 Just keep in mind it only lists the *unread* items. But, once subscribed you can have a [neat reminder on your desktop like mine][2].
 
- [1]: http://devinreams.com/2006/07/25/gmail-todo-list/
+ [1]: http://devin.reams.me/2006/gmail-todo-list/
  [2]: http://www.flickr.com/photos/devdev/427665505/

@@ -1,23 +1,7 @@
 ---
 title: 'Social media best practice: be authentic'
-author: Devin Reams
 layout: post
 permalink: /2008/social-media-best-practice-be-authentic/
-oc_metadata:
-  - "{		version:1.0,		tags: {'social-media': {			text:'social media',			slug:'social-media',			source:{			url:'http://d.opencalais.com/genericHasher-1/3648a12a-fbb1-30aa-9b5f-ddb643a85040',			type:{			url:'http://s.opencalais.com/1/type/em/e/IndustryTerm',			iconURL:'',			name:'IndustryTerm'		},			name:'social media',			nInstances:1		},			bucketName:'current'		}}	}"
-  - "{		version:1.0,		tags: {'social-media': {			text:'social media',			slug:'social-media',			source:{			url:'http://d.opencalais.com/genericHasher-1/3648a12a-fbb1-30aa-9b5f-ddb643a85040',			type:{			url:'http://s.opencalais.com/1/type/em/e/IndustryTerm',			iconURL:'',			name:'IndustryTerm'		},			name:'social media',			nInstances:1		},			bucketName:'current'		},'social-media-marketing-best-practices-project': {			text:'social media marketing best practices project',			slug:'social-media-marketing-best-practices-project',			source:null,			bucketName:'current'		}}	}"
-  - "{		version:1.0,		tags: {'social-media': {			text:'social media',			slug:'social-media',			source:{			url:'http://d.opencalais.com/genericHasher-1/3648a12a-fbb1-30aa-9b5f-ddb643a85040',			type:{			url:'http://s.opencalais.com/1/type/em/e/IndustryTerm',			iconURL:'',			name:'IndustryTerm'		},			name:'social media',			nInstances:1		},			bucketName:'current'		},'social-media-marketing-best-practices-project': {			text:'social media marketing best practices project',			slug:'social-media-marketing-best-practices-project',			source:null,			bucketName:'current'		}}	}"
-oc_commit_id:
-  - http://www.devinreams.com/2008/09/04/social-media-best-practice-be-authentic/1220584419
-btc_comment_counts:
-  - 'a:0:{}'
-categories:
-  - Social Media
-tags:
-  - People
-  - Social Media
-  - social media marketing best practices project
-  - Wisdom
 ---
 *[Jeremy Tanner tagged me][1]: I need to chime in and tell the world, in all my infinite wisdom, what a &#8220;social media&#8221; best practice is.*
 
@@ -46,7 +30,7 @@ There&#8217;s my thoughts on how to do social media the right way. Agree / disag
 
  [1]: http://jeremytanner.com/2008/08/be-different/
  [2]: http://twitter.com/devinreams
- [3]: http://www.devinreams.com/2007/11/26/my-thoughts-on-transparency-honesty/
+ [3]: http://devin.reams.me/2007/my-thoughts-on-transparency-honesty/
  [4]: http://blog.penelopetrunk.com/
  [5]: http://garyvaynerchuk.com
  [6]: http://okdork.com/

@@ -23,10 +23,8 @@ Some of the most successful groups have been decentralized. Alcoholics Anonymous
 
 I enjoyed this book because it looked at a lot of cool subjects (from abolitionism to craigslist) and analyzed this underlying reason for their widespread success. I enjoyed it so much I took it to the gym for two days and finished the 200 pages in record time. I highly recommend this book to anyone and everyone because it takes very detailed observations and makes them easy to understand. 10/10
 
-*Note: I decided that I want to track my book reviews so I took the [movie rating plugin][3] found on the bottom site and created a a [book review plugin][4]. You can find it on my [Tools][5] page.*
+*Note: I decided that I want to track my book reviews so I took the [movie rating plugin][3] found on the bottom site and created a a ~~book review plugin~~.*
 
  [1]: http://www.starfishandspider.com/
  [2]: http://www.amazon.com/Starfish-Spider-Unstoppable-Leaderless-Organizations/dp/1591841437
  [3]: http://paulgoscicki.com/projects/wp-movie-ratings/
- [4]: http://devinreams.com/tools/wp-book-reviews/
- [5]: http://devinreams.com/tools/

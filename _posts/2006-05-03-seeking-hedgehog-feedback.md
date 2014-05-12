@@ -14,7 +14,7 @@ categories:
 tags:
   - Antiquated
 ---
-As you may recall, I defined my [Hedgehog Concept][1] by determining [what I can be the best in the world at][2]. I was able to accomplish this by understanding some of [my best qualities][3]. I&#8217;ve learned that the easiest and most effective way to define hese positive attributes is to look to others for feedback.
+As you may recall, I defined my Hedgehog Concept by determining what I can be the best in the world at. I was able to accomplish this by understanding some of my best qualities. I&#8217;ve learned that the easiest and most effective way to define hese positive attributes is to look to others for feedback.
 
 In order to collect the data necessary I sent an email to 20 people. I introduced the concept behind what I was doing and then asked for the following from each person:
 
@@ -27,11 +27,3 @@ In order to collect the data necessary I sent an email to 20 people. I introduce
 In my case, 11 people responded with nearly 30 definite examples of me at my best. I found that the hardest part is then analyzing this data and really determining which traits best describe yourself.
 
 &#8230;but it&#8217;s just as fun and rewarding to sift through emails reminding you how amazingly great you are.
-
-[tags]hedgehog, email, development[/tags]
-
->
-
- [1]: http://devinreams.com/category/hedgehog
- [2]: http://devinreams.com/2006/04/30/my-hedgehog-concept/
- [3]: http://devinreams.com/2006/04/28/hedgehog-attributes-feedback/

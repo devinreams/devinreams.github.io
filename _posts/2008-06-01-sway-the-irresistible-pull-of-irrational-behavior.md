@@ -37,5 +37,5 @@ Go read the book and you&#8217;ll realize, yes, this is what is going on all the
 
  [1]: http://okdork.com/2008/06/03/startup-tips-how-i-grew-a-waiting-list-of-20000-at-mintcom-part-i/
  [2]: http://www.amazon.com/Sway-Irresistible-Pull-Irrational-Behavior/dp/0385524382
- [3]: http://devinreams.com/blog/2006/10/23/the-starfish-and-the-spider/
+ [3]: http://devin.reams.me/2006/the-starfish-and-the-spider/
  [4]: http://www.swaybook.com/

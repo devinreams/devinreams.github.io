@@ -1,28 +1,11 @@
 ---
 title: My Year in Review
-author: Devin Reams
 layout: post
 permalink: /2007/my-year-in-review/
-enclosure:
-  - |
-    http://devinreams.com/etc/MALoseControl.mov
-    	640955
-    	video/quicktime
-  - |
-    http://devinreams.com/etc/MALoseControl.mov
-    	640955
-    	video/quicktime
-btc_comment_counts:
-  - 'a:0:{}'
-categories:
-  - Internet
-tags:
-  - Noteworthy
-  - Personal
 ---
 <img src="http://devinreams.com/wp-content/uploads/2007/01/calendar.jpg" align="center" />
 
-The year has come to an end. A lot went on for me. I&#8217;ve landed a job after college, worked seven jobs at once, helped run a professional fraternity of over 130 people, joined 9rules, left b5media, met new people, learned new things. It&#8217;s been fun. Oh, and if you missed it, I remade a music video. Watch the first minute of [this][1], then [this][2], then read on&#8230;
+The year has come to an end. A lot went on for me. I&#8217;ve landed a job after college, worked seven jobs at once, helped run a professional fraternity of over 130 people, joined 9rules, left b5media, met new people, learned new things. It&#8217;s been fun.
 
 <!--more-->
 
@@ -40,7 +23,7 @@ I&#8217;ve had a lot of people visit my site for different reasons. My top reaso
 
 The second biggest draw was for information about [biphasic sleep][6]. I&#8217;ve been maintaining this nap/sleep routine since January (I don&#8217;t nap much over break though) and I couldn&#8217;t be happier. It made for a great discussion during some interviews this year. Oh, and someone linked to me on [Wikipedia][7] &#8212; that was neat to see.
 
-A lot of people also arrived here recently to learn about [Miss Dewey][8], many other want to know about [MySpace][9] and why it&#8217;s so worthless. In any case, a lot of people have visited for a lot of different reasons and I&#8217;m glad my site has proved some worth to them.
+A lot of people also arrived here recently to learn about [Miss Dewey][8], many other want to know about MySpace and why it&#8217;s so worthless. In any case, a lot of people have visited for a lot of different reasons and I&#8217;m glad my site has proved some worth to them.
 
 ## Personal Improvement Plan
 
@@ -64,15 +47,13 @@ I hope to make a few changes to allow me to focus more. Here are the major areas
 Obviously I&#8217;ve got some plans. I&#8217;ve been writing down stuff as I think of it. Setting dates and deadlines. As [Tyme has mentioned][13], you need to have some sort of plan. Sure, you can set lofty goals but you need to be able to measure your success. That&#8217;s certainly something I&#8217;ve learned this year. I&#8217;ve tried a bunch of things and realized what works, what I like, etc. **Happy New Year!**
 
  [1]: http://www.youtube.com/watch?v=JGU_RqgIHn0
- [2]: http://devinreams.com/etc/MALoseControl.mov
  [3]: http://www.haveamint.com
  [4]: http://www.google.com/search?q=devin&#038;ie=utf-8&#038;oe=utf-8&#038;rls=org.mozilla:en-US:official&#038;client=firefox-a
  [5]: http://www.cpp-db.com/products/firo-b/index.asp
- [6]: http://devinreams.com/2006/02/21/biphasic-sleep-faq/
+ [6]: http://devin.reams.me/2006/biphasic-sleep-faq/
  [7]: http://en.wikipedia.org/wiki/Biphasic_sleep
- [8]: http://devinreams.com/2006/10/18/miss-dewey-sucks/
- [9]: http://devinreams.com/index.php?s=myspace
+ [8]: http://devin.reams.me/2006/miss-dewey-sucks/
  [10]: http://www.cuakpsi.com/
  [11]: http://devin.reams.me/
- [12]: http://devinreams.com/2006/11/14/bookumentaries/
+ [12]: http://devin.reams.me/2006/bookumentaries/
  [13]: http://nottoogeeky.com/bloggers-resolutions-and-multiple-blogs/

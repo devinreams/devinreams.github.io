@@ -12,4 +12,4 @@ tags:
 ---
 Crash got the Oscar. Like [I said earlier][1]: rightfully so.
 
- [1]: http://devinreams.com/2006/02/03/review-crash/
+ [1]: http://devin.reams.me/2006/review-crash/

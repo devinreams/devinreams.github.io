@@ -26,10 +26,8 @@ I can walk to class and turn on my iPod, I can sit at work and listen to it too.
 
 I don&#8217;t know what I&#8217;m going to do about getting to sleep, though. Perhaps I&#8217;ll set aside 20 or 30 minutes to just lie there before I expect to fall asleep. I&#8217;m not sure yet. I just know that I need some of that time back&#8230; I need solitude.
 
-[tags]solitude, personal, schedule, relationships, sleep[/tags]
-
  [1]: http://okdork.com/
  [2]: http://ensight.org/
  [3]: http://genuineblog.com/
- [4]: http://devinreams.com/2006/02/22/working-from-home/
+ [4]: http://devin.reams.me/2006/working-from-home/
  [5]: http://en.wikipedia.org/wiki/Solitude

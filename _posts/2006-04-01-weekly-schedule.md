@@ -38,7 +38,7 @@ I also tried using Excel to color-code my regular events (sleep, eat, school, et
 
 Obviously, this can be as detailed or as simple as you&#8217;d like. Be creative and let me know if you found this useful. I was just toying around and figured somebody else might be able to use it. Anyway, I&#8217;m off to start planning out my week&#8230;
 
-[Click here to download WeeklySchedule.xls][4]
+~~Click here to download WeeklySchedule.xls~~
 
 <div style="margin-top:60px; margin-bottom:20px;">
   Depending upon the <a href="http://www.webdevforums.com">web design</a> of your website, you can register for <a href="http://newhaven.fbi.gov/dojpressrel/2006/nh071906.htm">webhosting domain</a> that suits your business. Many prefer to opt for <a href="http://www.webdevforums.com/colocation-hosting.html">colocation hosting</a> with the load dispersed. But there are huge benefits of having <a href="http://www.webdevforums.com/dedicated-hosting.html">dedicated hosting</a> that will not share the server. Nonetheless, it is advisable to check on the <a href="http://www.in.gov/dnr/fishwild/endangered/turtle.htm">best image hosting</a> around.
@@ -47,4 +47,3 @@ Obviously, this can be as detailed or as simple as you&#8217;d like. Be creative
  [1]: http://www.davidseah.com/
  [2]: http://davidseah.com/archives/2005/11/12/the-printable-ceo-series/
  [3]: http://davidseah.com/archives/2006/02/17/my-compact-calender-excel-sheet/
- [4]: http://devinreams.com/etc/WeeklySchedule.xls

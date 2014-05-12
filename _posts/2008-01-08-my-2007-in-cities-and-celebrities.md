@@ -1,15 +1,7 @@
 ---
 title: My 2007 in cities and celebrities
-author: Devin Reams
 layout: post
 permalink: /2008/my-2007-in-cities-and-celebrities/
-btc_comment_counts:
-  - 'a:0:{}'
-categories:
-  - Internet
-tags:
-  - Personal
-  - Travel
 ---
 I wanted to reflect on a few of those fun things, places, people and memories that entered my life this year this year. With no hesitation I present my year in cities and celebrities:
 
@@ -19,9 +11,9 @@ I wanted to reflect on a few of those fun things, places, people and memories th
 *   Denver, CO (to here)
 *   San Francisco, CA ([CommunityNext][1], birthday)
 *   Bay Area, CA (San Jose, Sunnyvale, Palo Alto, [Jelly Belly Factory][2])
-*   Beijing, [China][3] (Spring Break, Great Wall, Forbidden City)
-*   Shanghai, [China][3] (Incubator visit, Ex-pat panels, [Pearl Tower)][4]
-*   Suzhou, [China][5] (tea garden)
+*   Beijing, China (Spring Break, Great Wall, Forbidden City)
+*   Shanghai, China (Incubator visit, Ex-pat panels, [Pearl Tower)][4]
+*   Suzhou, China (tea garden)
 *   Los Angeles, CA (training, [bull riding][6], Manhattan/Venice/Huntington Beaches, Dodgers)
 *   Cleveland, OH (more training, more bull riding, tequila, [Indians][7])
 *   Santa Fe, NM (visiting an old friend, culture)
@@ -54,9 +46,7 @@ Anyway, a good year for new friendships and heres to many more!
 
  [1]: http://www.communitynext.com/
  [2]: http://www.flickr.com/photos/devdev/402951660/
- [3]: http://china.devinreams.com/
  [4]: http://www.flickr.com/photos/devdev/444503173/in/set-72157600044719182/
- [5]: http://china.devinreams.com
  [6]: http://www.facebook.com/video/video.php?v=513637678913&#038;subj=10200068
  [7]: http://www.facebook.com/photo.php?pid=40257725&#038;op=2&#038;o=all&#038;view=all&#038;subj=10200068&#038;id=6800561
  [8]: http://okdork.com/

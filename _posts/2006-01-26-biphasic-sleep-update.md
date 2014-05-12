@@ -168,6 +168,6 @@ As you can see I started to get less sleep&#8230; then day 4 hit me. I got back 
 
 Yesterday (day 7) I was very busy. Up at 6, class at 8 then work until 3:30, group project, meeting, dinner, meeting and I was finally home by 9. The problem was I had not started any homework and it needed to be done. So, I worked through my nap time and just decided to do the one block of sleep. That went pretty well. I woke up this morning but was a little drowsy. I lied down and watched MTV until about 6:30.
   
-&#8230;and here I am working through my nap again. Oddly enough with 4.5 hours of sleep and no nap yet I&#8217;m feeling great. A little more irritable (thanks <a href="http://devinreams.com/2006/01/26/computers-crash/">computer</a>!) but not tired at all. I intend to repeat last night&#8217;s schedule and then go back to naps tomorrow afternoon.
+&#8230;and here I am working through my nap again. Oddly enough with 4.5 hours of sleep and no nap yet I&#8217;m feeling great. A little more irritable but not tired at all. I intend to repeat last night&#8217;s schedule and then go back to naps tomorrow afternoon.
 
 I really recommend trying this sleep schedule. Waking up is easier. My dreams are more memorable, vivid and lucid (I feel like I control them, it&#8217;s weird). Working during the peace of night is great, too. I caught up on 12 magazines, I&#8217;ve started a new web project (looking forward to sharing that soon) and watched some good movies. Life is good!

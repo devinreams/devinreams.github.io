@@ -38,9 +38,7 @@ Notes: I added 30 hours to the Cumulative Credit Hours at the bottom (IB credit)
 
 As always, shoot me your comments, questions and/or suggestions.
 
-<p class="alert">
-  <a href="http://devinreams.com/etc/Grade%20Report.xls">Click here to download Grade Report.xls</a>
-</p>
+~~Click here to download Grade Report.xls~~
 
 [tags]grades, college, school, report card[/tags]
 

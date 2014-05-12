@@ -31,7 +31,7 @@ Seth Godin [asked what it would take to become indispensable][1]. I feel the fol
     </div>
 
 *   <div>
-      <strong>Be aware of your supervisor&#8217;s needs.</strong> If your supervisor doesn&#8217;t want to dance around the details learn to get to the point very quickly. Tools like the <a href="http://devinreams.com/2006/02/10/firo-b-assessment/">FIRO-B assessment</a> really help with this. I&#8217;ll introduce a new tool next week that will apply here as well. The point is, know not only what they expect but what they need from you.
+      <strong>Be aware of your supervisor&#8217;s needs.</strong> If your supervisor doesn&#8217;t want to dance around the details learn to get to the point very quickly. Tools like the FIRO-B assessment really help with this. I&#8217;ll introduce a new tool next week that will apply here as well. The point is, know not only what they expect but what they need from you.
     </div>
 
 *   <div>

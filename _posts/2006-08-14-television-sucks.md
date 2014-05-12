@@ -18,7 +18,7 @@ But seriously, if we are to spend any time in front of a television we decided w
 
 <img src="http://devinreams.com/wp-content/uploads/2006/08/dvd.png" class="noborder" />
 
-But the thing is, there are a ton of movies out there and I have no idea what they&#8217;re about or if they&#8217;re any good. This is where you guys come in. If you have any suggestions on movies that I **must** see, then leave a comment and I promise you I will. [Joe][5] is first in line with [The Princess Bride][6]. In fact, if you haven&#8217;t noticed, I set up a [Movies page][7] to document my experiences (most recent on the home page). So, help me out&#8230; **What should I watch?**
+But the thing is, there are a ton of movies out there and I have no idea what they&#8217;re about or if they&#8217;re any good. This is where you guys come in. If you have any suggestions on movies that I **must** see, then leave a comment and I promise you I will. [Joe][5] is first in line with [The Princess Bride][6]. In fact, if you haven&#8217;t noticed, I set up a ~~Movies page~~ to document my experiences (most recent on the home page). So, help me out&#8230; **What should I watch?**
 
  [1]: http://www.bradgarland.net/?p=141
  [2]: http://www.stevepavlina.com/blog/2006/06/giving-up-tv/
@@ -26,4 +26,3 @@ But the thing is, there are a ton of movies out there and I have no idea what th
  [4]: http://www.blockbuster.com/
  [5]: http://okdork.com/joe/
  [6]: http://www.imdb.com/title/tt0093779/
- [7]: http://devinreams.com/movies/

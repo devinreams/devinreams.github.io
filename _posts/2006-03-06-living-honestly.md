@@ -35,6 +35,5 @@ Well, I didn?t hurt anyone until the guy in front of me suddenly has stops and I
 I realize this example is beyond extreme. But, despite the difficulty, I?ve realized it?s best to be honest in everything I say and do. I also realize being candid about this demonstrates the fact that, yes: I live a somewhat dishonest life. Unfortunately, when I keep things from people or mislead them they have a reason to stop trusting me. Luckily, they don?t necessarily know it (yet). To me, trust is important and I plan to avoid doing anything that would jeopardize it.
 
 In reality, how honest are you?  
-[tags]college, personal, improvement, honesty, trust, lying[/tags]
 
- [1]: http://devinreams.com/2006/03/03/honesty-challenge/
+ [1]: http://devin.reams.me/2006/honesty-challenge/

@@ -16,7 +16,7 @@ tags:
 
 I looked at my website today and thought to myself: &#8220;Dude (that&#8217;s what I refer to myself as), you haven&#8217;t touched your blog in quite some time!&#8221; I quickly retorted, &#8220;Well, so? I drew [a comic yesterday][1]!&#8221;
 
-I quickly decided that my level of achievement was acceptable. I also decided that the more balls I juggle, the more I&#8217;ll tend drop. When I become very busy ([as mentioned previously][2]) I get burnt out. In fact, we all do. I&#8217;m sure [Noah][3] can agree, he&#8217;s been the busiest guy I know. That&#8217;s okay though, he and I managed to record [two podcasts][4] this week!
+I quickly decided that my level of achievement was acceptable. I also decided that the more balls I juggle, the more I&#8217;ll tend drop. When I become very busy I get burnt out. In fact, we all do. I&#8217;m sure [Noah][3] can agree, he&#8217;s been the busiest guy I know. That&#8217;s okay though, he and I managed to record [two podcasts][4] this week!
 
 So when Friday afternoon rolls around, I can tend to get a bit lazy. Saturday morning? Even lazier. Sunday? Well, let&#8217;s just say I woke up around lunchtime today. That&#8217;s not something I do very often given the fact that I worked 63 hours this week.
 
@@ -31,6 +31,5 @@ So, my only advice is to take this 4th of July (Americans only, the rest of the 
 **Bonus:** A quote from Scott Adams: *The thing to remember about freedom is that it</p>
 
  [1]: http://lifewithwomen.com
- [2]: http://devinreams.com/2006/06/26/i-have-five-jobs/
  [3]: http://okdork.com/
  [4]: http://yopos.com/podcast/

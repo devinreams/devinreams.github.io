@@ -15,5 +15,3 @@ I&#8217;m required to write a paper this weekend. But first, I have to challenge
 I can&#8217;t wait to share my experiences. Does anyone else out there think they could live up to this challenge?
 
 &#8230;wait, why is being honest even considered a challenge?
-
-[tags]personal, improvement, honest, college[/tags]

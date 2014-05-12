@@ -20,7 +20,7 @@ I&#8217;ve been asked how I keep my busy life on track. Honestly, it&#8217;s bec
 
 <!--more-->
 
-It doesn&#8217;t matter if it&#8217;s a day planner, a sheet of paper, a todo list, my [weekly schedule tool][1], or [Google Calendar][2]. Get yourself something to jot down everything. By having a place to put all this information you free up your mind to take care of other important things. Plus, it&#8217;s far less stressful when you have one resource instead of a dozen sticky note reminders. That resource should be your &#8216;dump&#8217; for everything going on.
+It doesn&#8217;t matter if it&#8217;s a day planner, a sheet of paper, a todo list, my weekly schedule tool, or [Google Calendar][2]. Get yourself something to jot down everything. By having a place to put all this information you free up your mind to take care of other important things. Plus, it&#8217;s far less stressful when you have one resource instead of a dozen sticky note reminders. That resource should be your &#8216;dump&#8217; for everything going on.
 
 ## Fill every hour, every day
 
@@ -46,6 +46,5 @@ On the other hand, I&#8217;m sure this is not for everyone. Personally, sometime
 
 More with less, that sounds like the smart thing to do, right? How do you do it? Do you have any tips or systems that work for you?
 
- [1]: http://devinreams.com/tools
  [2]: http://www.google.com/calendar/
  [3]: http://www.flickr.com/photos/devdev/252764741/ "Photo Sharing"

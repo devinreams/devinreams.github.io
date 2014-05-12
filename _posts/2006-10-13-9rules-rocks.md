@@ -12,9 +12,7 @@ tags:
 ---
 I had some free time today. Instead of a music video I did my own rap song in GarageBand. This song is dedicated to all those cool kids at 9rules. Enjoy.
 
-<p class="alert">
-  <a href="http://devinreams.com/etc/9rules rocks.mp3">Download 9rules rocks.mp3 (01:56, 2.2mb)</a>
-</p>
+~~Download 9rules rocks.mp3 (01:56, 2.2mb)~~
 
 > Let me tell you &#8217;bout a site, it&#8217;s got lots of blogs  
 > It&#8217;s older than you think, but not as much as pogs  
@@ -52,7 +50,7 @@ I had some free time today. Instead of a music video I did my own rap song in Ga
 > *9rules rocks, 9rules rules*
 > 
 > If you dont have a [Mac][8] you cant get in  
-> How&#8217;d Tyme get hired? Her [purple-faced grin][9]?
+> How&#8217;d Tyme get hired? Her purple-faced grin?
 > 
 > *Tyme: Devin needs his ass spanked. Scrivs: You&#8217;re fucked.*
 > 
@@ -78,4 +76,3 @@ I had some free time today. Instead of a music video I did my own rap song in Ga
  [6]: http://www.paulstamatiou.com/
  [7]: http://www.haveamint.com/
  [8]: http://www.apple.com/
- [9]: http://devinreams.com/etc/tymeface.jpg

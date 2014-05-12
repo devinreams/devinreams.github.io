@@ -39,8 +39,4 @@ Sure, it starts to limit the number of people that fit within the overlaps. But,
 
 By the same token, I can&#8217;t go over to Lifehacker and enjoy everything they write. I can&#8217;t go to Problogger and call any of those people like-minded friends. But, the readers at Devin Reams dot com? Wow. They&#8217;re the best group of people on the internet I could ever find.
 
-<p class="alert">
-  With that all said, I want to get to know you all better. As always, you can contact me (<a href="mailto:devin@devinreams.com">devin@devinreams.com</a> or <a href="aim:goim?screenname=devinhatesaim">devinhatesaim</a>) and leave your comments. But, I&#8217;d <em>love</em> it if you completed my quick <strong><a href="http://devinreams.com/about/feedback/">feedback survey</a></strong>. I want to make sure I know who you are and why you&#8217;re here. Thanks in advance!
-</p>
-
  [1]: http://chrisyeh.blogspot.com/2007/02/grand-unified-theorem-of-blogging.html

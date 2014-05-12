@@ -38,12 +38,9 @@ Some things I really like include:
 *   **Budget:** Quicken&#8217;s seems like there&#8217;s much more to it. Money would simply ask how often I would spend X dollars in Y category. It would then just apply it as a monthly average value. Quicken allows me to do either that, or by month or quarter. In other words, instead of budgeting $7.45 each month for &#8216;Christmas Gifts&#8217; I can tell it I only expect to spend $100 in December.
 *   **Reconcile:** I don&#8217;t think Money even had this feature. It helped me figure out which transaction I accidently deleted. All I had to do was pull up my online statement for January and I could quickly find the loss.
 
-Obviously I&#8217;m enjoying playing around with my new program. I know I wrote about [using Money to track your money][5]. After two days I&#8217;d recommend Quicken to anyone out there looking for a very nice personal finance program.
+Obviously I&#8217;m enjoying playing around with my new program. I previously wrote about using Money to track your money. After two days I&#8217;d recommend Quicken to anyone out there looking for a very nice personal finance program.
 
-[tags]money, finance, personal, software, review[/tags]
-
- [1]: http://devinreams.com/2006/03/03/savings-accounts/
+ [1]: http://devin.reams.me/2006/savings-accounts/
  [2]: http://www.flickr.com/photos/devdev/107484947/ "Setting Goals"
  [3]: http://www.flickr.com/photos/devdev/107486415/ "Account Bar"
  [4]: http://www.flickr.com/photos/devdev/107484948/ "Quicken Budget"
- [5]: http://devinreams.com/2006/01/14/track-your-money-with-money/

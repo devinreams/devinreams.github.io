@@ -60,8 +60,6 @@ CommunityNext had a ton of people show up and a lot of it was due to key figures
 
 *What about you? Do you agree or disagree? Have you learned anything worth sharing?*
 
-**PS: I&#8217;ve been working on updating and consistent-ifying my look. Click through to [devin reams][18] and let me know what you think. Oh, and be sure to tell your friends about my [services][19].**
-
  [1]: http://xkcd.com/256/
  [2]: http://9rules.com/
  [3]: http://yopos.com/
@@ -79,5 +77,4 @@ CommunityNext had a ton of people show up and a lot of it was due to key figures
  [15]: http://www.iwillteachyoutoberich.com
  [16]: http://www.barcamp.org
  [17]: http://www.entrepreneur27.org/archive/interview-with-hiten-shah-of-acs-and-crazy-egg/
- [18]: http://www.devinreams.com/
- [19]: http://www.devinreams.com/services
+ [18]: http://devin.reams.me/

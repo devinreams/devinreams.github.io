@@ -51,6 +51,6 @@ This surprises me: after some quick research the company behind this site is [EV
 But, overall, it&#8217;s lame. Daniel, if you&#8217;re listening, provide some insight, please?
 
  [1]: http://www.msdewey.com/
- [2]: http://devinreams.com/2006/10/13/9rules-rocks/
+ [2]: http://devin.reams.me/2006/9rules-rocks/
  [3]: http://www.evb.com/
  [4]: http://2007.sxsw.com/

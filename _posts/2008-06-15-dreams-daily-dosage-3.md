@@ -31,7 +31,7 @@ Haha, that&#8217;s all for this week&#8230; I&#8217;m off to Colombia by the tim
 
  [1]: http://dev.c99.org/MobileScrobbler/
  [2]: http://webworkerdaily.com/2008/06/09/telework-sun-runs-the-numbers/
- [3]: http://devinreams.com/blog/2007/03/11/morning-routines-rock/
+ [3]: http://devin.reams.me/2007/morning-routines-rock/
  [4]: http://www.buythebullet.com/
- [5]: http://devinreams.com/blog/2008/03/14/do-you-need-a-personal-assistant/
+ [5]: http://devin.reams.me/2008/do-you-need-a-personal-assistant/
  [6]: http://okdork.com/

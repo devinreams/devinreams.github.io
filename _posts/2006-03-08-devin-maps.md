@@ -32,5 +32,5 @@ I dreamed (literally, it was in a dream) about creating a travel-related site li
  [2]: http://www.43things.com/person/devinreams
  [3]: http://devinreams.43people.com/
  [4]: http://www.43places.com/person/devinreams
- [5]: http://devinreams.com/about/
+ [5]: http://devin.reams.me/about/
  [6]: http://www.akpsi.org/

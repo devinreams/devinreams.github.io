@@ -19,4 +19,4 @@ I&#8217;ve traveled quite a bit lately and have been working on being able to en
 *   The talker: Yeah, there&#8217;s a time to talk to people and meet new folks&#8211;but you&#8217;re not interesting. And when the conversation is 90% you talking and the rest me just saying &#8220;yup&#8221;, &#8220;true&#8221;, and &#8220;oh&#8221; why do you NOT get the clue? Do I need to put in my headphones *and* start reading before I even get to my seat to avoid this? Yes, yes I do.
 And there are so many more. People are amazing, unique creatures. But somehow the majority of people start to lump together into these profiles once they jump on a plane. Which are you? ;)
 
- [1]: http://devinreams.com/blog/2008/05/03/my-favorite-airline-passengers-part-i/
+ [1]: http://devin.reams.me/2008/my-favorite-airline-passengers-part-i/

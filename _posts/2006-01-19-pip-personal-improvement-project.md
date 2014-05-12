@@ -22,4 +22,4 @@ My ultimate goal is to get through four sleep cycles each day. This means I hit 
 
 So, I&#8217;m going to adjust a bit and see how things go. Technically I&#8217;m on my second day and I&#8217;m not feeling tired or anything.
 
- [1]: http://devinreams.com/2006/01/18/sleep-cycles/
+ [1]: http://devin.reams.me/2006/sleep-cycles/
