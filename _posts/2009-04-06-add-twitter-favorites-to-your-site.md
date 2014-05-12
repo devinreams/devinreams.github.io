@@ -67,7 +67,7 @@ Ha, this is why they call me a [social media pro][11].
  [3]: http://alexking.org/blog/2009/01/29/an-alternative-to-rts-on-twitter
  [4]: http://twitter.com/devinreams/status/1461301788
  [5]: http://favrd.textism.com/
- [6]: http://mindaverse.com/
+ [6]: http://devin.reams.me/
  [7]: http://twitter.com/favorites
  [8]: http://simplepie.org/
  [9]: http://37signals.com/

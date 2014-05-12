@@ -16,4 +16,4 @@ Not everything I do online ends up here on my blog so I figured I&#8217;d point 
  [2]: http://yopos.com/2006/09/27/rest-on-your-laurels/
  [3]: http://yopos.com/2006/09/20/your-priorities/
  [4]: http://yopos.com/2006/09/15/can-entrepreneurship-be-taught/
- [5]: http://mindaverse.com/
+ [5]: http://devin.reams.me/

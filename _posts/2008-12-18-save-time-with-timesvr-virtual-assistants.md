@@ -53,8 +53,8 @@ I can&#8217;t recommend these guys enough. Go ahead and [sign up today][3]. You 
 
 Just joking. But I did ask them (in the form of a task) what *they* thought were the three best things about the service. They were &#8220;saving precious time&#8221;, &#8220;really cost effective solutions&#8221;, and &#8220;privacy control&#8221; (with explanations for each). I was impressed and agree. Sorry to disappoint but I really haven&#8217;t found anything negative to say about this group.
 
- [1]: http://mindaverse.com/2008/03/14/do-you-need-a-personal-assistant/
- [2]: http://mindaverse.com/2008/06/15/dreams-daily-dosage-3/
+ [1]: http://devin.reams.me/2008/do-you-need-a-personal-assistant/
+ [2]: http://devin.reams.me/2008/dreams-daily-dosage-3/
  [3]: http://www.timesvr.com/?affiliate=devinreams
  [4]: http://www.fourhourworkweek.com/
  [5]: http://www.flickr.com/photos/devdev/3117706069/ "TimeSvr dashboard by devinreams, on Flickr"

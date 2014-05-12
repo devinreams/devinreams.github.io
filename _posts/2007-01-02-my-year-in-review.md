@@ -73,6 +73,6 @@ Obviously I&#8217;ve got some plans. I&#8217;ve been writing down stuff as I thi
  [8]: http://devinreams.com/2006/10/18/miss-dewey-sucks/
  [9]: http://devinreams.com/index.php?s=myspace
  [10]: http://www.cuakpsi.com/
- [11]: http://www.mindaverse.com/
+ [11]: http://devin.reams.me/
  [12]: http://devinreams.com/2006/11/14/bookumentaries/
  [13]: http://nottoogeeky.com/bloggers-resolutions-and-multiple-blogs/
