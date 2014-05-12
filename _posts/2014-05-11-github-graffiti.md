@@ -2,6 +2,7 @@
 title: GitHub Graffiti
 layout: link
 link: http://photos.devin.reams.me/github-grafitti
+permalink: /2014/github-grafitti/
 ---
 Our human resources team at GitHub is *very* good at making new employees feel welcome. When new hires start there are a number of meals and after-work events scheduled to help everyone meet their new teammates.
 
