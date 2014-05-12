@@ -12,16 +12,14 @@ title: Home
   <div class="post {{ post.layout }}">
   {% if post.layout == "link" %}
     <h1 class="post-title">
+      <small style="float:right"><a href="{{ post.url }}">¶</a></small>
       <a href="{{ post.link }}" title="External link to {{ post.title }}">
         {{ post.title }}
       </a>
       →
     </h1>
 
-    <p>
-      {{ post.content }}
-      <small style="float:right"><a href="{{ post.url }}">¶</a></small>
-    </p>
+    {{ post.content }}
 
   {% else %}
     <h1 class="post-title">
