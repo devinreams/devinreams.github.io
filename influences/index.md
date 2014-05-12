@@ -255,8 +255,6 @@ Here&#8217;s an ever-growing list of people and companies in my life. It may pro
   </div>
 </div>
 
-<!-- end[WP Render Blogroll Links 2.1.7] -->
+(if you&#8217;re not listed here it&#8217;s because I&#8217;m not great at maintaining comprehensive lists, [edit this page on GitHub][1]!)
 
-(if you&#8217;re not here it&#8217;s because I&#8217;m not great at maintaining comprehensive lists, [contact me][1]!)
-
- [1]: /about/
+ [1]: https://github.com/devinreams/devinreams.github.io/edit/master/influences/index.md
