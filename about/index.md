@@ -19,7 +19,7 @@ layout: page
 ## Gadgets
 
 *   [MacBook Air][8], 11&#8243; (mid 2012)
-*   iPhone 5 (white)
+*   iPhone 5s (white)
 *   The new [iPad][9] (2012)
 *   [JAMBOX][10]
 *   Sonos
