@@ -14,6 +14,8 @@ This includes a few features:
 - Google Analytics
 - "improve this page" link
 - Sidebar navigation
+- XML [sitemap](http://devin.reams.me/sitemap.xml)
+- Atom [feed](http://devin.reams.me/feed.xml) (redirected from `/feed/`)
 
 ### License
 
