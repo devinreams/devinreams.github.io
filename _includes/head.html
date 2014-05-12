@@ -51,6 +51,13 @@
   <meta property="og:description" content="{{ page.excerpt | strip_html }}"/>
   {% endif %}
 
+  {% if page.title != "Home" %}
+  <!-- Twitter Cards -->
+  <meta property="twitter:card" content="summary"/>
+  <meta property="twitter:title" content="{{ page.title }}"/>
+  <meta property="twitter:description" content="{{ page.excerpt | strip_html }}"/>
+  {% endif %}
+
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
 </head>
