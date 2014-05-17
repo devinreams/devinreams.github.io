@@ -1,7 +1,9 @@
 ---
 title: Projects
 layout: page
+published: true
 ---
+
 ## [Colorado Snow Blog][1]
 
 I started writing about the stuff I was doing when I went skiing. It turned into talking about products, reviews, answering questions about things to do in the mountains, tracking upcoming events, writing perspective pieces and so on. The site has continued to grow in size and scope and its fun to maintain.
@@ -16,11 +18,11 @@ Check out [cosnow.com][1].
 
 ## Mentorship
 
-* I currently serve as an advisor to the team at [Elihuu][5], an early-stage startup in the TechStars Boulder 2013 class.
+* I currently serve as an advisor to the team at ~~Elihuu~~ [BriteHub][5] an early-stage startup from the TechStars Boulder 2013 class.
 
 
  [1]: http://cosnow.com
  [2]: http://haveamint.com
  [3]: http://wordpress.org/extend/plugins/minty/
  [4]: http://wordpress.org/extend/plugins/save-to-foursquare-shortcode/
- [5]: http://elihuu.com
+ [5]: http://britehub.com
