@@ -8,4 +8,4 @@ A group of GitHubbers :octocat:, self included, are headed to Japan :jp: for [Gi
 
 I fly :airplane: out tomorrow morning and arrive in Tokyo on Sunday. @dsorkin, @dice and I will spend next week — before the conference — meeting with [GitHub Enterprise](https://enterprise.github.com/) customers, gathering feedback, and saying "thanks" as much as we can.
 
-I've never visited Japan :japan: before and I'm excited to see Tokyo. I'll be sure to bring back lot of photos. :wink:
+I've never visited Japan :japan: before and I'm excited to see Tokyo. I'll be sure to bring back lot of photos. Is there anything you think I should try to see?
