@@ -18,7 +18,7 @@ Check out [cosnow.com][1].
 
 ## Mentorship
 
-* I currently serve as an advisor to the team at ~~Elihuu~~ [BriteHub][5] an early-stage startup from the TechStars Boulder 2013 class.
+* I currently serve as an advisor to the team at <strike>Elihuu</strike> [BriteHub][5] an early-stage startup from the TechStars Boulder 2013 class.
 
 
  [1]: http://cosnow.com
