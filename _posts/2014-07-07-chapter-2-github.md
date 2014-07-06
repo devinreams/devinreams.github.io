@@ -1,14 +1,14 @@
 ---
-title: "Chapter 2: GitHub"
+title: "Chapter 2: Joining GitHub"
 layout: post
 permalink: /2014/chapter-2-github/
 ---
 
-Six months ago I joined the impressive team at [GitHub](https://github.com/about/). Since I haven't publicly shared much about my experiences yet I wanted to take the opportunity to reflect on my latest chapter.
+Six months ago I [joined](https://github.com/blog/1748-devin-reams-is-a-githubber) the impressive team at [GitHub](https://github.com/about/). Since I haven't publicly shared much about my experiences yet I wanted to take the opportunity to reflect on my latest chapter.
 
 ### What is GitHub?
 
-GitHub's goal is to help individuals and organizations build better software, together. We do this by providing tools that enable teams to collaborate quickly and easily, and produce higher-quality results than possible with other tools and philosophies. We use GitHub to build GitHub.
+<div style="float:right"><img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="250px"></div>GitHub's goal is to help individuals and organizations build better software, together. We do this by providing tools that enable teams to collaborate quickly and easily, and produce higher-quality results than possible with other tools and philosophies. We use GitHub to build GitHub.
 
 Our roots are based in the open source community but we also understand very large organizations (and their workflows, needs, challenges, benefits, etc.).
 
@@ -90,3 +90,5 @@ Great question! We certainly are. In fact, we're looking for:
 - [more technical account managers like myself](http://jobs.github.com/positions/082a19da-f0b5-11e1-871a-cda609872212)
 
 You can always find our open positions online at: [https://github.com/about/jobs](https://github.com/about/jobs)
+
+### Do
