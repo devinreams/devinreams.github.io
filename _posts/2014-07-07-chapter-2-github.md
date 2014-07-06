@@ -1,5 +1,5 @@
 ---
-title Chapter 2: GitHub
+title: "Chapter 2: GitHub"
 layout: post
 permalink: /2014/chapter-2-github/
 ---
