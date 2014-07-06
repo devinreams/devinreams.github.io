@@ -1,3 +1,9 @@
+---
+title: Expressions That I Hope Disappear
+layout: post
+permalink: /2014/suck-and-guys-are-harmful-words/
+---
+
 I've recently realized two seemingly harmless expressions may unintentionally continue to shape our thoughts to disenfranchise great groups of individuals.
 
 With some self-reflection I've resolved to avoid using the following.
@@ -16,4 +22,4 @@ In many languages, describing a collective group tends to default to the male. "
 
 ---
 
->"Mind your thoughts for they become your words; mind your words for they become your actions; mind your actions for they become your habits; mind your habits for they become your character; watch your character for they become your destiny." – Charles Reade
+>"Mind your thoughts for they become your words; mind your words for they become your actions; mind your actions for they become your habits; mind your habits for they become your character; watch your character for they become your destiny." –Charles Reade
