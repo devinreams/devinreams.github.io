@@ -63,7 +63,7 @@ After six months I think my working remotely has gone well (I believe my team ag
 
 It's great! Sure, I can spend more time at home being productive and I'm also afforded the flexibility to run an errand during the day. But, I also need to consciously separate work from home time and go out of my way to remain socially  connected to my team members all around the world.
 
-Luckily, GitHub has a great culture and remote employees are not second-class citizens. We have folks dedicated to making sure our "distributed" needs are taken care of (everything from office supplies through discussing how to prevent feeling isolated) and another team committed to deploying and maintaining our world-class audio/visual technology including providing video cameras in ever conference room and live streaming our all-hands and important meetings.
+Luckily, GitHub has a great culture and remote employees are not second-class citizens. We have folks dedicated to making sure our "distributed" needs are taken care of (everything from office supplies through discussing how to prevent feeling isolated) and another team committed to deploying and maintaining our world-class audio/visual technology including providing video cameras in every conference room and live streaming our all-hands and important meetings.
 
 It takes some work on both sides, and it's not for everyone, but I've found it very easy and enjoyable to work from home. I've almost always had "side projects" that I've worked on at home and I'd like to think I'm disciplined enough to do the right things when temptation is nearby.
 
