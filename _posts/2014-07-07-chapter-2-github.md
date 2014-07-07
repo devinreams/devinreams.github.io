@@ -14,7 +14,7 @@ Our roots are based in the open source community but we also understand very lar
 
 Of the [240 GitHubbers](https://github.com/about/team) (plus or minus a few), the majority of us work remotely and do not live in San Francisco.
 
-We have a unique mascot, the "Octocat" :octocat: which is an octopus and a cat. We turn it into all kinds of fun [characters](https://octodex.github.com/), [t-shirts, and stickers](https://shop.github.com/). We also use emoji a lot. :grin: :thumbsup:
+We have a unique mascot, the "Octocat" :octocat: which is an octopus and a cat. We turn it into all kinds of fun [characters](https://octodex.github.com/), [t-shirts, and stickers](https://shop.github.com/). We also use [emoji](http://emoji.muan.co) a lot. :grin: :thumbsup:
 
 ### Why GitHub?
 
@@ -24,7 +24,7 @@ I created a [GitHub.com account](https://github.com/devinreams) back in 2008 and
 
 ### How did you get a job at GitHub?
 
-I've had an "internet friend", @bleikamp, for many years who I met through [Noah Kagan](https://okdork.com/). I also followed @kneath who was a prominent designer and a member of the [9rules](http://9rules.com) community. In the back of my mind I knew they both were doing cool stuff at GitHub.
+I've had an "internet friend", @bleikamp, for many years who I met through [Noah Kagan](http://okdork.com/). I also followed @kneath who was a prominent designer and a member of the [9rules](http://9rules.com) community. In the back of my mind I knew they both were doing cool stuff at GitHub.
 
 I happened to be in San Francisco last summer for [a conference](http://2014.sf.wordcamp.org/) and invited myself to visit the GitHub offices (HQ 2.0). Ben obliged and after chatting (and walking away with a nice t-shirt) my interest in GitHub was re-ignited :fire:.
 
@@ -34,7 +34,7 @@ After answering a dozen written questions—example inquiries from existing and 
 
 From there I was asked to come :airplane: to San Francisco and spend a day at the office, meet, eat, and mingle. I really enjoyed speaking with a bunch of GitHubbers (@danishkhan, @dsorkin, @leereilly, @lizclink, @jessla, @pmn, @sachinr) and casually meeting many others. I expected to be uncomfortable and  nervous as I'd not interviewed anywhere in many years, but I felt welcome and that GitHub and I would be a great fit for each other.
 
-Luckily, GitHub agreed. I was offered the position a week later, picked a January start date and went into the holiday season ready to relax and wind things down at [Crowd Favorite](http://crowdfavorite.com/).
+Luckily, GitHub agreed. I was offered the position a week later, picked the first week in January as my start date (two other awesome TAMs would start with me that week: @joewadcan and @davideg) and went into the holiday season ready to relax and wind things down at Crowd Favorite.
 
 ### So, are you a web developer at GitHub?
 
@@ -46,7 +46,7 @@ The majority of our team and time is actually focused on helping customers that 
 
 Externally, I talk to prospective customers about everything from pricing, to the competitive landscape, through proposed workflows, and sometimes simply how to complete a purchase. I jump on the phone to answer questions, draft thousand-word emails describing why GitHub may be their best solution, and even respond to questionnaires with hundreds of items to help organizations understand the impact of installing GitHub Enterprise in their environment. I also travel to meet and speak with prospective and existing customers to understand their software development and collaborative processes better.
 
-Internally, I sometimes help our team spot patterns and wordsmith high-quality responses to our customers. I work with our account managers to lend some technical "backup" when speaking with customers. I sometimes serve as a liaison to other teams at GitHub to lend perspective from our customers (marketing, engineering) or from ourselves (finance). Sometimes I simply take :pencil: notes during meetings, make checklists, ask questions, or start discussions to help keep our team informed or organized.
+Internally, I sometimes help our team spot patterns and edit fellow team members' high-quality responses to our customers. I work with our account managers to lend some "technical backup" when speaking with customers. I sometimes serve as a liaison to other teams to lend perspective from our customers (to marketing or engineering) and from ourselves (to finance). Sometimes I simply take :pencil: notes during meetings, make checklists, ask questions, or start discussions to help keep our team informed or organized.
 
 In the near future I plan to travel to conferences and meet with more customers and folks that may not have even heard of GitHub.
 
