@@ -99,4 +99,6 @@ Great question! We certainly are. In fact, we're looking for:
 
 You can always find our open positions online at: [https://github.com/about/jobs](https://github.com/about/jobs)
 
-:wave:
+---
+
+I hope this has been interesting and lends some perspective about what I've been up to lately. If you have any other questions, know of interesting conferences I should visit, or would like to grab lunch: send me an [email](mailto:devin@reams.me)! :wave:
