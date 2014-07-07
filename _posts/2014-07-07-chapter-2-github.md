@@ -1,7 +1,8 @@
 ---
 title: "Chapter 2: Joining GitHub"
 layout: post
-permalink: /2014/chapter-2-github/
+permalink: "/2014/chapter-2-github/"
+published: true
 ---
 
 Six months ago I [joined](https://github.com/blog/1748-devin-reams-is-a-githubber) the impressive team at [GitHub](https://github.com/about/). Since I haven't publicly shared much about my experiences yet I wanted to take the opportunity to reflect on my latest chapter.
@@ -12,7 +13,7 @@ Six months ago I [joined](https://github.com/blog/1748-devin-reams-is-a-githubbe
 
 Our roots are based in the open source community but we also understand very large organizations (and their workflows, needs, challenges, benefits, etc.).
 
-Of the [240 GitHubbers](https://github.com/about/team) (plus or minus a few), the majority of us work remotely and do not live in San Francisco.
+Of the [230 GitHubbers](https://github.com/about/team) (plus or minus a few), the majority of us work remotely and do not live in San Francisco.
 
 We have a unique mascot, the "Octocat" :octocat: which is an octopus and a cat. We turn it into all kinds of fun [characters](https://octodex.github.com/), [t-shirts, and stickers](https://shop.github.com/). We also use [emoji](http://emoji.muan.co) a lot. :grin: :thumbsup:
 
