@@ -11,7 +11,7 @@
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="/">Home</a>
 
-    {% assign pages_list = site.pages %}
+    {% assign pages_list = site.pages | sort:"url" %}
     {% for node in pages_list %}
       {% if node.title != null %}
         {% if node.layout == "page" %}
@@ -22,7 +22,7 @@
 
     <a class="sidebar-nav-item" href="http://photos.devin.reams.me/">Photos</a>
   </nav>
-  
+
   <div class="sidebar-item social-icons">
       {% include social.html %}
   </div>
