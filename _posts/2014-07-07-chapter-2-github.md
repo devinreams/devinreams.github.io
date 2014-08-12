@@ -21,7 +21,7 @@ We have a unique mascot, the "Octocat" :octocat: which is an octopus and a cat. 
 
 I'm glad you asked! I've dabbled in web development and design for over a decade and worked with open source technologies like [WordPress](http://wordpress.org/) for many years now. Shortly after GitHub appeared in 2007 it became _the_ location for many great open source projects. It was also a beautiful website with powerful features amongst a landscape of dull interfaces and online experiences.
 
-I created a [GitHub.com account](https://github.com/devinreams) back in 2008 and didn't do much with it. As I collaborated with clients that hosted their own projects privately on GitHub I realized that I had only seen the tip of the iceberg: many individuals and organizations were working together on GitHub and I started to realize its amazing potential.
+I created a [GitHub.com account](https://github.com/devinreams) back in 2009 and didn't do much with it. As I collaborated with clients that hosted their own projects privately on GitHub I realized that I had only seen the tip of the iceberg: many individuals and organizations were working together on GitHub and I started to realize its amazing potential.
 
 ### How did you get a job at GitHub?
 
