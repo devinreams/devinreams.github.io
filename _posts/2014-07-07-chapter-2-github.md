@@ -94,7 +94,7 @@ Be sure to follow [our blog](https://github.com/blog/category/drinkup) to learn 
 Great question! We certainly are. In fact, we're looking for:
 
 - [highly technical folks to help on our support team](http://jobs.github.com/positions/2a23eb06-dc3b-11e3-9149-14d3aa507c71),
-- [someone with customer service and implementation experience to depoy GitHub in organizations](http://jobs.github.com/positions/629a277e-cfe4-11e3-9e91-26c9f2f47343),
+- [someone with customer service and implementation experience to deploy GitHub in organizations](http://jobs.github.com/positions/629a277e-cfe4-11e3-9e91-26c9f2f47343),
 - an [experienced product marketer](http://jobs.github.com/positions/b04c7646-fb3d-11e3-8f7d-7487e7442d00), and
 - [more technical account managers like myself](http://jobs.github.com/positions/082a19da-f0b5-11e1-871a-cda609872212).
 
