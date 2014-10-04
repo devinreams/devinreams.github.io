@@ -2,14 +2,14 @@
 title: About
 layout: page
 ---
-## Howdy! I&#8217;m Devin and I help with enterprise account management at [GitHub][1]. I&#8217;m a twenty-something living (working, and playing) in Denver, Colorado. I&#8217;ve been known to [ski][2], jog, and [brew my own beer](http://github.com/devinreams/beer/).
+## Howdy! I&#8217;m Devin and I help with sales operations at [GitHub][1]. I&#8217;m a twenty-something living (working, and playing) in Denver, Colorado. I&#8217;ve been known to [ski][2], jog, and [brew my own beer](http://github.com/devinreams/beer/).
 
 <a href="http://photos.devin.reams.me/iceland"><img src="/img/devin-and-rachel-iceland.jpg" alt="Devin and Rachel in Iceland" width="100%"></a>
 
 ## Quick Facts
 
 *   I&#8217;m [married to my best friend][3], Rachel.
-*   I help with sales and enterprise account management things at [GitHub][5].
+*   I help with sales and business operations at [GitHub][5].
 *   I previously helped manage things at [Crowd Favorite][4], a web design and development firm.
 *   I grew up in Colorado, [studied here][6], and see myself sticking around.
 *   I love to [ski][2], camp, and hike. I&#8217;ve successfully hit a golf ball once or twice.
