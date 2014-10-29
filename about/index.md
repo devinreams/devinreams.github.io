@@ -18,9 +18,9 @@ layout: page
 
 ## Gadgets
 
-*   [MacBook Air][8], 11&#8243; (mid 2013)
-*   iPhone 5s (white)
-*   [iPad mini][9] (2013)
+*   [MacBook Air][8], (11-inch, Mid 2013)
+*   iPhone 6 (white)
+*   [iPad mini 2][9] (2013)
 *   [JAMBOX][10]
 *   Sonos
 *   Apple TV
