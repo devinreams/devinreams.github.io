@@ -2,7 +2,9 @@
 title: About
 layout: page
 ---
-## Howdy! I&#8217;m Devin and I help with sales operations at [GitHub][1]. I&#8217;m a twenty-something living (working, and playing) in Denver, Colorado. I&#8217;ve been known to [ski][2], jog, and [brew my own beer](http://github.com/devinreams/beer/).
+
+
+## Howdy! I&#8217;m Devin and I help with sales operations at [GitHub][1]. I&#8217;m a twenty-something living (working, and playing) in ~~Denver, Colorado~~ Portland, Maine for a few months. I&#8217;ve been known to [ski][2], jog, and brew my own [beer](http://github.com/devinreams/beer/).
 
 <a href="http://photos.devin.reams.me/iceland"><img src="/img/devin-and-rachel-iceland.jpg" alt="Devin and Rachel in Iceland" width="100%"></a>
 
@@ -10,10 +12,9 @@ layout: page
 
 *   I&#8217;m [married to my best friend][3], Rachel.
 *   I help with sales and business operations at [GitHub][5].
-*   I previously helped manage things at [Crowd Favorite][4], a web design and development firm.
-*   I grew up in Colorado, [studied here][6], and see myself sticking around.
-*   I love to [ski][2], camp, and hike. I&#8217;ve successfully hit a golf ball once or twice.
-*   I have visited every continent except Antarctica (but, it&#8217;s on the list).
+*   I previously helped manage things at [Crowd Favorite][4].
+*   I grew up in Colorado, [studied here][6], and see us sticking around here.
+*   I love to [ski][2], camp, and hike. I&#8217;ve been known to play golf on occasion.
 *   I&#8217;m an [Eagle Scout][7] (and I thought I would be a park ranger when I grew up).
 
 ## Setup
