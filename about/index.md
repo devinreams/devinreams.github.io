@@ -18,16 +18,27 @@ layout: page
 
 ## Setup
 
+###  Gadgets
+
 *   [MacBook Air][8], (11-inch, Mid 2013)
-*   Synology DiskStation DS213j
-*   iPhone 5s (white)
-*   [iPad mini][9] (2013)
+*   iPhone 6 (Silver)
+*   [iPad mini 2][9] (2013)
 *   [JAMBOX][10]
-*   Sonos in 4 rooms (two PLAY:1s, CONNECT, and CONNECT:AMP)
+*   Sonos (in 4 rooms)
 *   Apple TV
 *   Kindle Paperwhite
 *   PlayStation 3
 *   Nintendo Wii
+*   Synology DS213j
+
+### Software
+
+*   Atom for text editing
+*   Chrome for web browsing at work
+*   GitHub for collaboration
+*   Gmail for work and personal email
+*   Safari for personal web browsing
+*   Slack for personal chat
 
 ## Highlights
 
