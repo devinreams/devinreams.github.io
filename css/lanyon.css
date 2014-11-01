@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6 {
     width: 30%;
   }
 }
-@media (min-width: 56rem) {
+@media (min-width: 55rem) {
   .container {
     max-width: 38rem;
   }
