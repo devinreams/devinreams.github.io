@@ -101,11 +101,15 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #333;
 }
 .intro {
-  font-size: 1.4em;
-  text-align: center;
+  font-size: 1em;
   margin-bottom: 3rem;
   background-color: #efefef;
   padding: 0.5em;
+}
+.intro img {
+  float: left;
+  margin: 0 1em;
+  width: 30%;
 }
 .masthead-title {
   margin-top: 0;
@@ -569,7 +573,7 @@ a.pagination-item:hover {
     padding-top: 30px; height: 0; overflow: hidden;
     margin-bottom: .5em;
 }
- 
+
 .video-container iframe,
 .video-container object,
 .video-container embed {
