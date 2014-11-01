@@ -18,7 +18,7 @@ layout: page
 
 ## Setup
 
-*   [MacBook Air][8], 11&#8243; (mid 2013)
+*   [MacBook Air][8], (11-inch, Mid 2013)
 *   Synology DiskStation DS213j
 *   iPhone 5s (white)
 *   [iPad mini][9] (2013)
