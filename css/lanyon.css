@@ -83,6 +83,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 1rem;
   font-size: 1.25em;
+  text-align: center;
 }
 @media (min-width: 38rem) {
   .container {
@@ -90,6 +91,7 @@ h1, h2, h3, h4, h5, h6 {
   }
   .intro p {
     font-size: .8em;
+    text-align: left;
   }
   .intro img {
     float: left;
@@ -103,6 +105,7 @@ h1, h2, h3, h4, h5, h6 {
   }
   .intro p {
     font-size: 1em;
+    text-align: left;
   }
 }
 
