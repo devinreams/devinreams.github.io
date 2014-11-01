@@ -10,7 +10,9 @@ url: "http://devin.reams.me"
 version: 1.4
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
 permalink: /:year/:title/
 paginate: 10
 paginate_path: "/page/:num/"
