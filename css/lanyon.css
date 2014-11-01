@@ -75,14 +75,34 @@ h1, h2, h3, h4, h5, h6 {
 .container {
   max-width: 28rem;
 }
+.intro img {
+  float: none;
+  width: 100%;
+}
+.intro p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.25em;
+}
 @media (min-width: 38rem) {
   .container {
     max-width: 32rem;
+  }
+  .intro p {
+    font-size: .8em;
+  }
+  .intro img {
+    float: left;
+    margin: 0 1em;
+    width: 30%;
   }
 }
 @media (min-width: 56rem) {
   .container {
     max-width: 38rem;
+  }
+  .intro p {
+    font-size: 1em;
   }
 }
 
@@ -106,11 +126,6 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #efefef;
   padding: 0.5em;
 }
-.intro img {
-  float: left;
-  margin: 0 1em;
-  width: 30%;
-}
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
@@ -118,6 +133,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .masthead-title a {
   color: #505050;
+  font-size: 1.25em;
 }
 .masthead-title small {
   font-size: 75%;
