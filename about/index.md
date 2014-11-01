@@ -23,7 +23,7 @@ layout: page
 *   iPhone 5s (white)
 *   [iPad mini][9] (2013)
 *   [JAMBOX][10]
-*   Sonos (two PLAY:1s, CONNECT:AMP, CONNECT)
+*   Sonos in 4 rooms (two PLAY:1s, CONNECT, and CONNECT:AMP)
 *   Apple TV
 *   Kindle Paperwhite
 *   PlayStation 3
