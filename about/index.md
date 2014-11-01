@@ -16,13 +16,14 @@ layout: page
 *   I have visited every continent except Antarctica (but, it&#8217;s on the list).
 *   I&#8217;m an [Eagle Scout][7] (and I thought I would be a park ranger when I grew up).
 
-## Gadgets
+## Setup
 
 *   [MacBook Air][8], 11&#8243; (mid 2013)
+*   Synology DiskStation DS213j
 *   iPhone 5s (white)
 *   [iPad mini][9] (2013)
 *   [JAMBOX][10]
-*   Sonos
+*   Sonos (two PLAY:1s, CONNECT:AMP, CONNECT)
 *   Apple TV
 *   Kindle Paperwhite
 *   PlayStation 3
