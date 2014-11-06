@@ -12,4 +12,4 @@ We set out with no particular plan in mind on Friday. After taking a break to sw
 
 We enjoyed afternoons of relaxing in floating rafts, enjoying some beverages, sliding off the slide, and soaking in some sun.
 
-It was a nice "off the grid" weekend and great scenery as always (this was my third trip to Lake Powell). Be sure to Check out [my photos from Lake Powell](http://photos.devin.reams.me/camping-in-salida) over at [Exposure](https://exposure.co/).
+It was a nice "off the grid" weekend and great scenery as always (this was my third trip to Lake Powell). Be sure to Check out [my photos from Lake Powell](http://photos.devin.reams.me/lake-powell) over at [Exposure](https://exposure.co/).

@@ -8,4 +8,4 @@ Rachel had accumulated some "dollars" at work through spot recognition and vario
 
 We drove out towards Chaffee County, Colorado which is known for its summer activities: whitewater rafting, hiking, fishing, camping. It's not known for llamas but it should be.
 
-After spending the night freely camping on some public land we drove to meet our llama host and hike :walking: the day away. We enjoyed a beautiful leisurely walk through national land, stopped for a picnic lunch, and let the llamas carry everything the whole time. Check out [my photos from our llama hike](http://photos.devin.reams.me/lake-powell) over at [Exposure](https://exposure.co/).
+After spending the night freely camping on some public land we drove to meet our llama host and hike :walking: the day away. We enjoyed a beautiful leisurely walk through national land, stopped for a picnic lunch, and let the llamas carry everything the whole time. Check out [my photos from our llama hike](http://photos.devin.reams.me/camping-in-salida) over at [Exposure](https://exposure.co/).
