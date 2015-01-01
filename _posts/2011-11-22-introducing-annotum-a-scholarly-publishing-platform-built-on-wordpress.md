@@ -29,7 +29,7 @@ I&#8217;m excited to see the theme in the wild and proud to have worked with the
  [2]: http://crowdfavorite.com/
  [3]: http://solvitor.com
  [4]: http://annotum.org/
- [5]: http://github.com/Annotum/Annotum/
+ [5]: https://github.com/Annotum/Annotum/
  [6]: http://wordpress.org/extend/themes/annotum-base
  [7]: http://crowdfavorite.com/portfolio/annotum/
  [8]: http://googleblog.blogspot.com/2011/11/more-spring-cleaning-out-of-season.html
