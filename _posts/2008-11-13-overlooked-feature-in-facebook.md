@@ -33,5 +33,5 @@ The internet is weird.
  [3]: http://mashable.com/2008/06/26/top-friends-disappear-facebook/
  [4]: http://news.cnet.com/8301-10784_3-9977762-7.html
  [5]: http://www.bizjournals.com/sanfrancisco/stories/2008/11/10/daily89.html
- [6]: http://www.facebook.com/help.php?hq=friends
+ [6]: https://facebook.com/help.php?hq=friends
  [7]: http://www.flickr.com/photos/devdev/3029029930/ "Facebook Friends cannot be edited by devinreams, on Flickr"

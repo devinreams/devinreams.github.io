@@ -35,7 +35,7 @@ There will be a drinks on Friday night before the conference and drinks the nigh
 
  [1]: http://communitynext-devin.eventbrite.com
  [2]: http://www.communitynext.com/
- [3]: http://www.facebook.com/
+ [3]: https://facebook.com/
  [4]: http://www.hotornot.com/
  [5]: http://www.threadless.com/
  [6]: http://www.communitynext.com/speakers/

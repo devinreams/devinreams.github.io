@@ -36,6 +36,6 @@ I know my point is simplistic but I&#8217;m a little annoyed (that this isn&#821
 
  [1]: http://bitstrips.com/read.php?comic_id=50302&#038;feed=a_7064
  [2]: http://scobleizer.com/2008/05/19/why-microsoft-will-buy-facebook-and-keep-it-closed/
- [3]: http://www.facebook.com/press/releases.php?p=8084
+ [3]: https://facebook.com/press/releases.php?p=8084
  [4]: http://www.allfacebook.com/2008/03/mark-zuckerberg-sarah-lacey-interview-disaster/
  [5]: http://scobleizer.com
