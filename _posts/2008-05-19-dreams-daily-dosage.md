@@ -37,4 +37,4 @@ If you haven&#8217;t already added me as a contact on [**Flickr**][8]&#8211;be s
  [6]: http://www.flickr.com/photos/devdev/2506159578/
  [7]: http://flickr.com/photos/devdev/2457072625/
  [8]: http://www.flickr.com/photos/devdev/
- [9]: http://twitter.com/devinreams<br />
+ [9]: https://twitter.com/devinreams<br />

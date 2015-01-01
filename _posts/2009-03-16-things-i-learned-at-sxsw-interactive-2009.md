@@ -21,11 +21,11 @@ Just a few of the important lessons I&#8217;ve learned here in Austin.
 9.  Companies: Despite the &#8220;convenience&#8221; of the internet, people still love picking up a phone and talking to a smart, capable human.
 10. Nerd conferences are the only place you&#8217;ll see [lines for the men&#8217;s bathroom][8] but not the women&#8217;s.
 
- [1]: http://twitter.com/devinreams/status/1332019417
- [2]: http://twitter.com/devinreams/status/1336276898
+ [1]: https://twitter.com/devinreams/status/1332019417
+ [2]: https://twitter.com/devinreams/status/1336276898
  [3]: http://playfoursquare.com
  [4]: http://twitter.zappos.com/
  [5]: http://garyvaynerchuk.com/
  [6]: http://scobleizer.com/
  [7]: http://daringfireball.net/
- [8]: http://twitter.com/alexkingorg/status/1330409004
+ [8]: https://twitter.com/alexkingorg/status/1330409004

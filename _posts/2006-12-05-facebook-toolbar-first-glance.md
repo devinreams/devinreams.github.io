@@ -10,7 +10,7 @@ categories:
 tags:
   - Reviews
 ---
-<img src="http://devinreams.com/wp-content/uploads/2006/12/Picture%202.png" width="500" height="60" align="center" />
+<img src="https://devin.reams.me/wp-content/uploads/2006/12/Picture%202.png" width="500" height="60" align="center" />
 
 I was greeted with an invitation to install the new Facebook Toolbar (Firefox only). I must say, this is exactly what I needed. I wrote earlier about how to [eliminate distractions][1] and this is, ironically, a great way to do it. You don&#8217;t spend countless times during the day logging in to see if there is something new worth looking at (which means less time mindlessly browsing). In theory, that is&#8230;
 
@@ -44,4 +44,4 @@ I need to see my upcoming events, for one. I&#8217;d also like to be able to pok
 
 **Either way, there&#8217;s little need to visit Facebook anymore. What will that mean for advertisers? How will new sponsored groups get advertised? Will we see advertisers in our notifications? Or will they use the information to better know us (like Google)? In any case, I expect the features to be expanded- it&#8217;s a good start.**
 
- [1]: http://devin.reams.me/2006/eliminate-distractions/
+ [1]: https://devin.reams.me/2006/eliminate-distractions/

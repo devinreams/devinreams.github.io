@@ -42,7 +42,7 @@ Overall it was a good year but I think there&#8217;s room for improvement in 201
  [2]: http://stu.mp
  [3]: http://ma.tt
  [4]: http://devinandrachel.com
- [5]: http://devin.reams.me/2011/the-wedding-ceremony/
+ [5]: https://devin.reams.me/2011/the-wedding-ceremony/
  [6]: http://blackmtnranch.com/
  [7]: http://crowdfavorite.com
  [8]: http://crowdfavorite.com/portfolio/amc/
@@ -50,6 +50,6 @@ Overall it was a good year but I think there&#8217;s room for improvement in 201
  [10]: /projects/
  [11]: http://crowdfavorite.com/wordpress/themes/favepersonal
  [12]: http://www.dopplr.com/traveller/devinreams
- [13]: http://devin.reams.me/2011/wandering-around-westminster-in-london/
- [14]: http://devin.reams.me/2011/monktobefest-in-portland-me/
- [15]: http://devin.reams.me/2011/weekend-in-monterey/
+ [13]: https://devin.reams.me/2011/wandering-around-westminster-in-london/
+ [14]: https://devin.reams.me/2011/monktobefest-in-portland-me/
+ [15]: https://devin.reams.me/2011/weekend-in-monterey/

@@ -10,7 +10,7 @@ categories:
 tags:
   - Personal
 ---
-<img src="http://devinreams.com/wp-content/uploads/2006/11/turkey.jpg" align="center" />
+<img src="https://devin.reams.me/wp-content/uploads/2006/11/turkey.jpg" align="center" />
 
 It&#8217;s nearly Thanksgiving and I&#8217;ve realized that perhaps I&#8217;m thankful for a bit more than my [chair, monitors and slippers][1]. Perhaps life is a tad more than the physical objects we own. In fact, take away any and all possessions you have: what&#8217;s left?
 
@@ -34,4 +34,4 @@ In all honesty, I don&#8217;t know why we celebrate Thanksgiving. I think it&#82
 
 **Happy Thanksgiving. Enjoy the time off and if you&#8217;re going shopping on Friday, well, be careful out there.**
 
- [1]: http://devin.reams.me/2006/being-thankful/
+ [1]: https://devin.reams.me/2006/being-thankful/

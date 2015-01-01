@@ -33,4 +33,4 @@ An interesting side-note: I&#8217;ve stopped actively using [Brightkite][5]. In 
  [3]: http://delicious.com/devinreams
  [4]: http://www.yelp.com/user_details?userid=9uoDujDA8KD3kXKfwvJiqg
  [5]: http://brightkite.com/
- [6]: http://twitter.com/
+ [6]: https://twitter.com/

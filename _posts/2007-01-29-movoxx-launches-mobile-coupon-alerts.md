@@ -15,7 +15,7 @@ I was pointed to an interesting mobile service earlier last week named [MoVoxx][
 
 <!--more-->
 
-<img src="http://devinreams.com/wp-content/uploads/2007/01/cellphone.png" align="center" />
+<img src="https://devin.reams.me/wp-content/uploads/2007/01/cellphone.png" align="center" />
 
 ## What it means
 

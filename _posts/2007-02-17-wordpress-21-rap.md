@@ -11,7 +11,7 @@ btc_comment_counts:
 enclosure:
   - |
     |
-        http://devin.reams.me/wp/wp-content/uploads/2007/02/wordpress21.mp3
+        https://devin.reams.me/wp/wp-content/uploads/2007/02/wordpress21.mp3
         1834435
         audio/mpeg
         
@@ -25,14 +25,14 @@ So, I got a little bit of free time and decided to make a quick song dedicated t
 ## Download
 
 <p class="alert">
-  <a href="http://devin.reams.me/wp/wp-content/uploads/2007/02/wordpress21.mp3">Click here to download wordpress2.1.mp3</a>
+  <a href="https://devin.reams.me/wp/wp-content/uploads/2007/02/wordpress21.mp3">Click here to download wordpress2.1.mp3</a>
 </p>
 
 ## Player
 
-<!--[if lt IE 9]><![endif]--><audio class="wp-audio-shortcode" id="audio-353-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://devin.reams.me/wp/wp-content/uploads/2007/02/wordpress21.mp3?_=1" />
+<!--[if lt IE 9]><![endif]--><audio class="wp-audio-shortcode" id="audio-353-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://devin.reams.me/wp/wp-content/uploads/2007/02/wordpress21.mp3?_=1" />
 
-<http://devin.reams.me/wp/wp-content/uploads/2007/02/wordpress21.mp3></audio> 
+<https://devin.reams.me/wp/wp-content/uploads/2007/02/wordpress21.mp3></audio> 
 ## Lyrics
 
 (To the song: &#8220;Air Force Ones&#8221; by Nelly)

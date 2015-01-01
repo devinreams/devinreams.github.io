@@ -23,7 +23,7 @@ It&#8217;s hard always being right&#8230;
 
 >
 
- [1]: http://devin.reams.me/2006/myspace-comments-suck/
- [2]: http://devin.reams.me/2006/ugly-works/
- [3]: http://devin.reams.me/2006/myspace-ads-suck/
+ [1]: https://devin.reams.me/2006/myspace-comments-suck/
+ [2]: https://devin.reams.me/2006/ugly-works/
+ [3]: https://devin.reams.me/2006/myspace-ads-suck/
  [4]: http://publications.mediapost.com/index.cfm?fuseaction=Articles.san&#038;s=41210&#038;Nid=19210&#038;p=330482

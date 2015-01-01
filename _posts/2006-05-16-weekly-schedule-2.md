@@ -13,7 +13,7 @@ tags:
 You may or may not remember this productivity tool I&#8217;ve created. It&#8217;s simple, really. When I [originally posted][1] about it I wasn&#8217;t sure how I&#8217;d even use it and what the best methods would be. Now I can confidently share my **Weekly Schedule** tactics with you.
 
 <div style="text-align: center">
-  <img border="0" alt="Weekly Schedule" id="image272" src="http://devinreams.com/wp-content/uploads/2006/05/weeklyheader.png" />
+  <img border="0" alt="Weekly Schedule" id="image272" src="https://devin.reams.me/wp-content/uploads/2006/05/weeklyheader.png" />
 </div>
 
 I&#8217;ve done some measuring and discovered the amount of time I waste sitting around or reading the news or doing some other un-productive tasks. Sometimes I lack motivation, other times I lack direction. This was an attempt to force myself to get as much done as possible each and every day.
@@ -21,7 +21,7 @@ I&#8217;ve done some measuring and discovered the amount of time I waste sitting
 The point of organization is not to simply organize, but to spend a little bit of time now in order to save a lot of time (or frustration, or energy, or whatever) later. In other words, there has to be some sort of benefit to your organization. For me, I was going to spend maybe 30 minutes on a Saturday or Sunday to sit down, look at what I have scheduled for the week and then fill in the gaps. This is how I planned to get more reading done, work out regularly, etc. By filling in the gaps I should always have something productive in front of me. Keep in mind I didn&#8217;t want to turn myself into a woaholic, I scheduled my &#8220;fun activities&#8221; like TV, blogging, playing Zelda 64 and checking email.
 
 <p align="center">
-  <img alt="Weekly Schedule" id="image274" src="http://devinreams.com/wp-content/uploads/2006/05/weekly2.png" />
+  <img alt="Weekly Schedule" id="image274" src="https://devin.reams.me/wp-content/uploads/2006/05/weekly2.png" />
 </p>
 
 <p align="left">
@@ -29,7 +29,7 @@ The point of organization is not to simply organize, but to spend a little bit o
 </p>
 
 <p align="center">
-  <img alt="weekly3.png" id="image275" src="http://devinreams.com/wp-content/uploads/2006/05/weekly3.png" />
+  <img alt="weekly3.png" id="image275" src="https://devin.reams.me/wp-content/uploads/2006/05/weekly3.png" />
 </p>
 
 <p align="left">
@@ -37,7 +37,7 @@ The point of organization is not to simply organize, but to spend a little bit o
 </p>
 
 <p align="center">
-  <img alt="weekly4.jpg" id="image276" src="http://devinreams.com/wp-content/uploads/2006/05/weekly4.jpg" />
+  <img alt="weekly4.jpg" id="image276" src="https://devin.reams.me/wp-content/uploads/2006/05/weekly4.jpg" />
 </p>
 
 It&#8217;s Friday at noon, I know to look at the third line because half the day (two lines) has already passed. I should have lunch and then spend no more than an hour on email and blogs. After that I can tell I&#8217;m planning on reading and then heading to the gym. Easy as that. A few colors and some time spent planning means I don&#8217;t sit there and wonder &#8216;Hmm, should I go work out now? Well, I just ate, maybe later? Hmm, I haven&#8217;t played Nintendo in a while. Eh, but I should read I guess. Ah heck, I&#8217;ll just go take a nap.&#8217;

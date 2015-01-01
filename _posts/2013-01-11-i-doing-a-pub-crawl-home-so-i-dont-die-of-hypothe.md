@@ -9,4 +9,4 @@ format: status
 ---
 I&#8217;m doing a pub crawl home so I don&#8217;t die of hypothermia. [#Denver][1]
 
- [1]: http://twitter.com/search?q=%23Denver
+ [1]: https://twitter.com/search?q=%23Denver

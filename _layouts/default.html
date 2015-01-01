@@ -22,7 +22,13 @@
       <div class="container content">
         {{ content }}
 
-        {% include improve.html %}
+        <p class="improve"><small><em>My website is <a href="http://en.wikipedia.org/wiki/Open_source">open source</a>.
+        {% if paginator.page > 1 %}
+         Please <a href="https://github.com/devinreams/devinreams.github.io/">help improve it on GitHub</a>.
+        {% else %}
+          Please <a href="https://github.com/devinreams/devinreams.github.io/edit/master/{{ page.path }}">help improve this page on GitHub</a>.
+        {% endif %}
+      </em></small></p>
 
         {% include foot.html %}
 

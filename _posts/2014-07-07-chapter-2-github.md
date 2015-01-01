@@ -29,7 +29,7 @@ I've had an "internet friend", @bleikamp, for many years who I met through [Noah
 
 I happened to be in San Francisco last summer for [a conference](http://2014.sf.wordcamp.org/) and invited myself to visit the GitHub offices (HQ 2.0). Ben obliged and after chatting (and walking away with a nice t-shirt) my interest in GitHub was re-ignited :fire:.
 
-A few days later I was browsing the ["About" page](https://github.com/about/) on GitHub.com and saw an open position for a "Technical Account Manager". After reading it I realized it described much of what I was doing at [Crowd Favorite](http://devin.reams.me/2014/the-end-of-chapter-1-my-fond-farewell-to-crowd-favorite/). I wasn't really looking for a new job, I was fully prepared to spend time doing some soul searching, but, it seemed too good an opportunity to pass up. I asked Ben if he'd be willing to pass my name along to the right folks so I could learn more about the position and he happily did.
+A few days later I was browsing the ["About" page](https://github.com/about/) on GitHub.com and saw an open position for a "Technical Account Manager". After reading it I realized it described much of what I was doing at [Crowd Favorite](https://devin.reams.me/2014/the-end-of-chapter-1-my-fond-farewell-to-crowd-favorite/). I wasn't really looking for a new job, I was fully prepared to spend time doing some soul searching, but, it seemed too good an opportunity to pass up. I asked Ben if he'd be willing to pass my name along to the right folks so I could learn more about the position and he happily did.
 
 After answering a dozen written questions—example inquiries from existing and potential customers—I was invited to do a series of phone :phone: interviews. I enjoyed the conversations and got the sense this was a sharp team with fun challenges ahead.
 
@@ -77,7 +77,7 @@ Sometimes! I visit HQ 3.0 once every month or so. We have a semi-regular team me
 
 It's sometimes tough to be away from Rachel for a week but it's fun because I get to be social with my team: we play pool, go to lunch and dinner, have a drink :cocktail: together, and hang out and chat on our rooftop.
 
-I also travel to meet with customers (I [visited Tokyo](http://devin.reams.me/2014/tokyo-photos/) :tokyo_tower: in May) and have the opportunity to go to conferences to help with our trade show booth or give a talk.
+I also travel to meet with customers (I [visited Tokyo](https://devin.reams.me/2014/tokyo-photos/) :tokyo_tower: in May) and have the opportunity to go to conferences to help with our trade show booth or give a talk.
 
 ### What is HQ 3.0?
 

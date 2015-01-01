@@ -27,13 +27,13 @@ I&#8217;ve been using it for a full day now and haven&#8217;t found any issue&#8
 
 &#8230;well, truthfully, since the results are centered horizontally on the page I find myself having to move my mouse to the right a lot more. My muscle memory to immediately hover down and to the left once submitting a search query is surprisingly strong. Illustrated:
 
-<img src="http://devin.reams.me/wp-content/uploads/2012/01/Screen-Shot-2012-01-24-at-10.08.15-PM-510x363.png" alt="" title="Google mouse hover compared to DuckDuckGo" width="510" height="363" class="aligncenter size-medium-img wp-image-3083" />
+<img src="https://devin.reams.me/wp-content/uploads/2012/01/Screen-Shot-2012-01-24-at-10.08.15-PM-510x363.png" alt="" title="Google mouse hover compared to DuckDuckGo" width="510" height="363" class="aligncenter size-medium-img wp-image-3083" />
 
 And why would you use DuckDuckGo? Well, they [don&#8217;t track you][8] (privacy) and [don&#8217;t bubble you][9] (relevance). And their logo is cute.
 
  [1]: http://www.google.com/insidesearch/plus.html
  [2]: http://googleblog.blogspot.com/2012/01/updating-our-privacy-policies-and-terms.html
- [3]: http://devin.reams.me/2012/googles-executive-personalities-make-me-uneasy/
+ [3]: https://devin.reams.me/2012/googles-executive-personalities-make-me-uneasy/
  [4]: http://duckduckgo.com
  [5]: http://duckduckgo.com/
  [6]: https://addons.mozilla.org/en-US/firefox/addon/duck-duck-go-ssl-search-plugin/

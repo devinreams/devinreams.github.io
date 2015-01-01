@@ -77,4 +77,4 @@ CommunityNext had a ton of people show up and a lot of it was due to key figures
  [15]: http://www.iwillteachyoutoberich.com
  [16]: http://www.barcamp.org
  [17]: http://www.entrepreneur27.org/archive/interview-with-hiten-shah-of-acs-and-crazy-egg/
- [18]: http://devin.reams.me/
+ [18]: https://devin.reams.me/

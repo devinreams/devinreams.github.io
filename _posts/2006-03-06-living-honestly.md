@@ -36,4 +36,4 @@ I realize this example is beyond extreme. But, despite the difficulty, I?ve real
 
 In reality, how honest are you?  
 
- [1]: http://devin.reams.me/2006/honesty-challenge/
+ [1]: https://devin.reams.me/2006/honesty-challenge/

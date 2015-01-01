@@ -11,7 +11,7 @@ tags:
   - Noteworthy
   - Reviews
 ---
-[<img src="http://devinreams.com/wp-content/uploads/2007/01/blackberry.jpg" align="center" class="noborder" />][1]
+[<img src="https://devin.reams.me/wp-content/uploads/2007/01/blackberry.jpg" align="center" class="noborder" />][1]
 
 I bought a new toy. I told myself, &#8220;hey, you spent a lot of time watching TV and sitting around over Winter Break, you deserve it, buddy.&#8221; And who am I to argue with myself? I&#8217;ve always been a big fan of bar phones (as opposed to flip, slide, and anymotionthatmaybreaksomeday phones). So, I went over to my T-Mobile retailer and asked them for my 11 month upgrade to a [BlackBerry Pearl][2]&#8230;
 

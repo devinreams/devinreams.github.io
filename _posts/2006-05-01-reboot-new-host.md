@@ -14,4 +14,4 @@ Two things about the site: first, I went ahead and purchased (first time, ever) 
 
  [1]: http://www.dreamhost.com/
  [2]: http://www.cssreboot.com/
- [3]: http://devin.reams.me/2006/adsense-experiment/
+ [3]: https://devin.reams.me/2006/adsense-experiment/

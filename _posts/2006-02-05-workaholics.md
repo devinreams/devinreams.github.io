@@ -24,4 +24,4 @@ Now that I sit and think about it, I don&#8217;t know exactly what &#8216;self-m
 This may be (one of many reasons) why I don&#8217;t have a girlfriend, though&#8230;
 
  [1]: http://shivani.wordpress.com/2006/02/03/welcome-to-workaholics-anonymous/
- [2]: http://devin.reams.me/2006/sleep-cycles/
+ [2]: https://devin.reams.me/2006/sleep-cycles/

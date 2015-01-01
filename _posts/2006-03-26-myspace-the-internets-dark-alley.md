@@ -39,7 +39,7 @@ Paul Graham. &#8220;[Why Nerds Are Unpopular][13].&#8221;
 
 [tags]myspace, sucks, social networking, society, education[/tags]
 
- [1]: http://www.facebook.com/
+ [1]: https://facebook.com/
  [2]: http://www.linkedin.com/
  [3]: http://www.43places.com/
  [4]: http://www.43things.com/

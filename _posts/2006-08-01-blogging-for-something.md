@@ -34,7 +34,7 @@ So, why the hell do you blog? Or why do you read them? Or mine? Feel free to ans
 
  [1]: http://www.text-link-ads.com/
  [2]: http://okdork.com/joe/
- [3]: http://devin.reams.me/2006/googles-free-sms/
+ [3]: https://devin.reams.me/2006/googles-free-sms/
  [4]: http://www.google.com/search?hs=cyF&#038;hl=en&#038;lr=&#038;client=firefox-a&#038;rls=org.mozilla%3Aen-US%3Aofficial&#038;q=site%3Adevinreams.com+myspace&#038;btnG=Search
  [5]: http://oreoceo.com/spoken-word/im-fucking-internet-famous/
  [8]: http://brandenreams.com/

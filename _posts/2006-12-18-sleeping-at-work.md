@@ -10,7 +10,7 @@ categories:
 tags:
   - Antiquated
 ---
-<img src="http://devinreams.com/wp-content/uploads/2006/12/sleep.jpg" align="center" />
+<img src="https://devin.reams.me/wp-content/uploads/2006/12/sleep.jpg" align="center" />
 
 While I&#8217;m nearly through with finals I&#8217;ve not quite crossed the finish line yet. This means there&#8217;s been a lot of studying lately. For many that means a lot less sleep. Well, if you&#8217;re like me and still working 15 hours a week you&#8217;ll probably wonder how you can get away with sleeping at work.
 

@@ -39,6 +39,6 @@ Well, the folks at [Imagini have created an excellent gift finder][3] designed t
 
 So, with 9 days left you should probably get moving. Which route are you taking? Card? Gift? Dinner? None of the above?
 
- [1]: http://devinreams.com/wp-content/uploads/2007/02/valentine.jpg
+ [1]: https://devin.reams.me/wp-content/uploads/2007/02/valentine.jpg
  [2]: http://www.meish.org/vd/
  [3]: http://www.imagini.net/giftfinder/

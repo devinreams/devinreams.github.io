@@ -33,7 +33,7 @@ What if you&#8217;re not in the &#8220;cheap&#8221; business though? How do you 
 </p>
 
 <p align="left">
-  In fact, we&#8217;ll let them know pretty freaking fast. <a href="http://www.facebook.com/">Facebook</a>, <a href="http://www.myspace.com/">MySpace</a>, <a href="http://www.aim.com/">AIM</a>, <a href="http://www.google.com/talk">GIM</a> cellphones and blogs keep us connected to our friends even when we&#8217;re asleep. Friends trust each other, too. Why else would <a href="http://www.bzzagent.com/">Dave Balter</a> be making so much money?
+  In fact, we&#8217;ll let them know pretty freaking fast. <a href="https://facebook.com/">Facebook</a>, <a href="http://www.myspace.com/">MySpace</a>, <a href="http://www.aim.com/">AIM</a>, <a href="http://www.google.com/talk">GIM</a> cellphones and blogs keep us connected to our friends even when we&#8217;re asleep. Friends trust each other, too. Why else would <a href="http://www.bzzagent.com/">Dave Balter</a> be making so much money?
 </p>
 
 <p align="left">

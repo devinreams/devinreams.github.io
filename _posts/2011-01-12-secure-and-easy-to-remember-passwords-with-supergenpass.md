@@ -47,7 +47,7 @@ Now that we&#8217;re all convinced (right?), the mechanisms of using a password 
 Since I use Safari, I have SuperGenPass added to my Bookmarks Bar and I can use Command + 1 on any page to trigger the bookmarklet to enter my password. It then finds any &#8220;password&#8221; fields on the page and auto-populates them with the hashed version. This is *very* fast and hardly any more intrusive than simply typing a password into a form.  
 <dl id="attachment_1629" class="wp-caption aligncenter" style="max-width:580px">
   <dt>
-    <a href="http://devin.reams.me/wp-content/uploads/2011/01/supergenpass-wellsfargo.png"><img src="http://devin.reams.me/wp-content/uploads/2011/01/supergenpass-wellsfargo.png" alt="" title="SuperGenPass in use on WellsFargo.com" width="580" height="389" class="size-full wp-image-1629" /></a>
+    <a href="https://devin.reams.me/wp-content/uploads/2011/01/supergenpass-wellsfargo.png"><img src="https://devin.reams.me/wp-content/uploads/2011/01/supergenpass-wellsfargo.png" alt="" title="SuperGenPass in use on WellsFargo.com" width="580" height="389" class="size-full wp-image-1629" /></a>
   </dt>
   
   <dd>
@@ -61,7 +61,7 @@ Still not convinced? [Drop a line][11] or leave a comment to share your thoughts
 
  [1]: http://www.schwab.com/
  [2]: http://www.amazon.com/
- [3]: http://www.facebook.com/
+ [3]: https://facebook.com/
  [4]: http://www.linkedin.com/
  [5]: http://www.basecamphq.com/
  [6]: http://alexking.org/

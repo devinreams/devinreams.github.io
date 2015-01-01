@@ -19,7 +19,7 @@ When my experience is just about me and the people I want to interact with then 
 
 Twitter means the updates I receive are from the people I want, the conversations are with the people I want, and even more importantly: the content is limited to what they want (to divulge). I believe this control is missing from sites like Facebook and is why so many people hide and remove all their feed activity. In some cases, those are the people I want to &#8216;follow&#8217; the most.
 
- [1]: http://www.twitter.com/
+ [1]: https://twitter.com/
  [2]: http://darmano.typepad.com/logic_emotion/2007/12/why-is-twitter.html
  [3]: http://www.google.com/search?q=twitter+simplicity&#038;ie=utf-8&#038;oe=utf-8&#038;aq=t&#038;rls=org.mozilla:en-US:official&#038;client=firefox-a
  [4]: http://www.google.com/search?hl=en&#038;client=firefox-a&#038;rls=org.mozilla%3Aen-US%3Aofficial&#038;hs=3K7&#038;q=twitter+voyeur&#038;btnG=Search

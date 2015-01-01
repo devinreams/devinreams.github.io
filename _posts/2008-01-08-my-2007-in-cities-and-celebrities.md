@@ -47,8 +47,8 @@ Anyway, a good year for new friendships and heres to many more!
  [1]: http://www.communitynext.com/
  [2]: http://www.flickr.com/photos/devdev/402951660/
  [4]: http://www.flickr.com/photos/devdev/444503173/in/set-72157600044719182/
- [6]: http://www.facebook.com/video/video.php?v=513637678913&#038;subj=10200068
- [7]: http://www.facebook.com/photo.php?pid=40257725&#038;op=2&#038;o=all&#038;view=all&#038;subj=10200068&#038;id=6800561
+ [6]: https://facebook.com/video/video.php?v=513637678913&#038;subj=10200068
+ [7]: https://facebook.com/photo.php?pid=40257725&#038;op=2&#038;o=all&#038;view=all&#038;subj=10200068&#038;id=6800561
  [8]: http://okdork.com/
  [9]: http://www.iwillteachyoutoberich.com/
  [10]: http://www.bustedtees.com/shirt/dysentery

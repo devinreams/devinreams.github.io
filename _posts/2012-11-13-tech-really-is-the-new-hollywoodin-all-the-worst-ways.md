@@ -20,5 +20,5 @@ As [Mike Davidson][4] elegantly put it:
 
  [1]: http://pandodaily.com/2012/11/13/tech-really-is-the-new-hollywood-in-all-the-worst-ways/
  [2]: http://charliehoehn.com/
- [3]: http://devin.reams.me/2010/achieving-success-influence-through-popularity-attention/
+ [3]: https://devin.reams.me/2010/achieving-success-influence-through-popularity-attention/
  [4]: http://www.mikeindustries.com/blog/archive/2010/01/never-dupe-your-readers

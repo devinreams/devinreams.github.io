@@ -29,5 +29,5 @@ I don&#8217;t know what I&#8217;m going to do about getting to sleep, though. Pe
  [1]: http://okdork.com/
  [2]: http://ensight.org/
  [3]: http://genuineblog.com/
- [4]: http://devin.reams.me/2006/working-from-home/
+ [4]: https://devin.reams.me/2006/working-from-home/
  [5]: http://en.wikipedia.org/wiki/Solitude
