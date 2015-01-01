@@ -22,7 +22,9 @@
       <div class="container content">
         {{ content }}
 
-        {% include improve.html %}
+        {% if paginator.page > 1 %}
+          {% include improve.html %}
+        {% endif %}
 
         {% include foot.html %}
 
