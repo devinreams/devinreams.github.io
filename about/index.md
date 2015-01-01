@@ -67,7 +67,7 @@ layout: page
 * Listed as an &#8216;alltop&#8217; blogger for <a href="http://twentysomething.alltop.com">twenty somethings</a> and <a href="http://skiing.alltop.com">skiing</a>
 * <a href="http://blog.mint.com/blog/personal-finance-interview/devin-reams/">Interviewed by Mint.com</a> for their personal finance blog
 * Interviewed by Human Resource Executive for their November 2007 issue in the article: <a href="http://www.hrexecutive.com/HRE/story.jsp?storyId=44291612">The Millenial Mind-Set</a>
-* I like to think that I helped popularize the &#8220;<a href="http://mindaverse.com/2006/02/21/biphasic-sleep-faq/">biphasic sleep</a>&#8221;, (aka &#8220;nap&#8221;) concept in February 2006
+* I like to think that I helped popularize the &#8220;<a href="https://devin.reams.me/2006/biphasic-sleep-faq/">biphasic sleep</a>&#8221;, (aka &#8220;nap&#8221;) concept in February 2006
 * Participated in the first <a href="http://www.startupweekend.com/">StartupWeekend</a> held in Boulder, CO
 * Volunteered as an <a href="http://www.dmoz.org/public/profile?editor=devdev">Editor</a> of the Open Directory Project. I worked up to three third-level categories (most proud: Regional: Europe: Spain) through countless hours of work after school.
 * Contributed as a technical writer to the <a href="http://www.unrealircd.com">Unreal IRC daemon</a> a very long time ago. Was credited with early contributions to version 3.2 betas.
