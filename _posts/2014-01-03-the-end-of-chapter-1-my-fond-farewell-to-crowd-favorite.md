@@ -6,13 +6,13 @@ excerpt: "After five-and-a-half excellent years of managing web projects and a g
 ---
 I don&#8217;t think I&#8217;ve shared this much about &#8220;what I do for work&#8221; with many folks. So here we go&#8230;
 
-## Chapter 1: Alex King and Crowd Favorite[^1]
+## Chapter 1: Alex King and Crowd Favorite
 
 I met [Alex][1] a few times at various tech events in the area (BarCamp Denver in 2006, Startup Weekend in 2007). We both became familiar with each other through these events were able to keep in touch loosely through our respective blogs (he&#8217;s always been a big deal in the WordPress industry).
 
 When Alex moved the Crowd Favorite office to downtown Denver I asked to grab lunch since I was also working downtown. Coincidentally, he was about a year into Crowd Favorite and looking to bring in some help as the team and projects grew. I was also looking to find a great way to get into the internet industry.
 
-I started working for Alex in July 2008 as an account manager supporting incoming requests from existing maintenance and support clients. Given my technical background, I also started working on exploring incoming projects, gathering their requirements, preparing estimates, and handing them off to our project manager. At some point along the way it made sense for me to take on and manage some of the projects myself. At that point I realized I lived and breathed the entire consulting client lifecycle: business acquisition, through project launch, and into ongoing support and maintenance.
+I started working for Alex in July 2008 as an account manager[^1] supporting incoming requests from existing maintenance and support clients. Given my technical background, I also started working on exploring incoming projects, gathering their requirements, preparing estimates, and handing them off to our project manager. At some point along the way it made sense for me to take on and manage some of the projects myself. At that point I realized I lived and breathed the entire consulting client lifecycle: business acquisition, through project launch, and into ongoing support and maintenance.
 
 In 2009 Charlie Hoehn asked me to share my thoughts on &#8216;the power of having a personal blog&#8217; for his book [&#8220;Recession-Proof Graduate&#8221;][2] and I wrote: &#8220;I went from a no-name blogger to a trusted source, which ultimately landed my dream job.&#8221;
 
@@ -48,20 +48,20 @@ Most importantly, I owe everything to the entire team at Crowd Favorite (new, ol
 
 I&#8217;m excited because I know there are great things coming for both myself and Crowd Favorite. If you&#8217;d like to follow along, you always find more over there at [Crowd Favorite&#8217;s blog][11] and [here on my own][12].
 
-[^1]:    I held 
-    [plenty of good jobs][13] before I joined [Crowd Favorite][14], but none of them truly feel like chapters in my &#8220;career story&#8221;; they were more like an Introduction.
+[1]: http://alexking.org/
+[2]: http://www.slideshare.net/choehn/recessionproof-graduate-1722966/22
+[3]: http://alexking.org/blog/2013/05/31/cancer
+[4]: http://sivers.org/a
+[5]: http://kk.org/ct2/2007/09/my-life-countdown-1.php
+[6]: http://en.wikipedia.org/wiki/Outliers_(book)
+[7]: https://enterprise.github.com
+[8]: https://github.com/about
+[9]: http://velomedia.com
+[10]: http://crowdfavorite.com/blog/2013/11/crowd-favorite-and-velomedia/
+[11]: http://crowdfavorite.com/blog/
+[12]: https://devin.reams.me/
+[13]: http://linkedin.com/in/devinreams
+[14]: http://crowdfavorite.com/
 
- [1]: http://alexking.org/
- [2]: http://www.slideshare.net/choehn/recessionproof-graduate-1722966/22
- [3]: http://alexking.org/blog/2013/05/31/cancer
- [4]: http://sivers.org/a
- [5]: http://kk.org/ct2/2007/09/my-life-countdown-1.php
- [6]: http://en.wikipedia.org/wiki/Outliers_(book)
- [7]: https://enterprise.github.com
- [8]: https://github.com/about
- [9]: http://velomedia.com
- [10]: http://crowdfavorite.com/blog/2013/11/crowd-favorite-and-velomedia/
- [11]: http://crowdfavorite.com/blog/
- [12]: https://devin.reams.me/
- [13]: http://linkedin.com/in/devinreams
- [14]: http://crowdfavorite.com/
+[^1]:    I held
+    [plenty of good jobs][13] before I joined [Crowd Favorite][14], but none of them truly feel like chapters in my &#8220;career story&#8221;; they were more like an Introduction.
