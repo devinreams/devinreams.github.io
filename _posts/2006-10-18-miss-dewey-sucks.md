@@ -15,7 +15,7 @@ tags:
 I want to talk about marketing production quality and how [Miss Dewey][1] lacks it. If you haven&#8217;t seen this site yet, it&#8217;s basically a search engine with a saucy librarian standing there being snarky and clever on occasion. If you don&#8217;t get around to typing in a search she&#8217;ll try to get your attention.
 
 <p align="center">
-  <img src="http://devinreams.com/wp-content/uploads/2006/10/untitled.JPG" class="noborder" />
+  <img src="https://devin.reams.me/wp-content/uploads/2006/10/untitled.JPG" class="noborder" />
 </p>
 
 Quite annoying, really.

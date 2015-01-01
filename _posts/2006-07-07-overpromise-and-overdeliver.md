@@ -11,7 +11,7 @@ tags:
   - Reading
 ---
 <div align="center">
-  <img src="http://devinreams.com/wp-content/uploads/2006/07/banner-overpromise.jpg" class="noborder" />
+  <img src="https://devin.reams.me/wp-content/uploads/2006/07/banner-overpromise.jpg" class="noborder" />
 </div>
 
 Everytime I tell someone about this great book I&#8217;m always corrected: &#8220;No, it&#8217;s *under*promise&#8230;&#8221; Or so goes the old saying. Well, not anymore, says Rick Barrera. His latest book, [Overpromise and Overdeliver][1] is a smart look at how companies have used their TouchPoints to achieve &#8220;unshakable customer loyalty.&#8221; So what are TouchPoints? They&#8217;re what they sound like, they&#8217;re points where you touch your customer. Well, no, you&#8217;re not really &#8216;touching&#8217; anyone, I&#8217;m sure there are laws against it. But you do touch your customer through your website (System), your sales people (People), or your latest widget (Product). By optimizing your TouchPoints you can and will fulfill your brand promise. Through case studies, Rick illustrates how brand promises at companies like Washington Mutual and Lexus have seperated them from the pack and led themselves to worlds of success&#8230; all thanks to TouchPoint branding.

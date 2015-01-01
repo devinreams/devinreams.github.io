@@ -3,7 +3,7 @@ title: My Year in Review
 layout: post
 permalink: /2007/my-year-in-review/
 ---
-<img src="http://devinreams.com/wp-content/uploads/2007/01/calendar.jpg" align="center" />
+<img src="https://devin.reams.me/wp-content/uploads/2007/01/calendar.jpg" align="center" />
 
 The year has come to an end. A lot went on for me. I&#8217;ve landed a job after college, worked seven jobs at once, helped run a professional fraternity of over 130 people, joined 9rules, left b5media, met new people, learned new things. It&#8217;s been fun.
 

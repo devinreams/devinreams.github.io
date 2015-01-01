@@ -32,7 +32,7 @@ I&#8217;m writing for the people who enjoy business, college, technology&#8230; 
 Me? I have a bunch of circles overlap. Thus, my writing finds a much more focused, much more niche-like audience than most people.
 
 <center>
-  <img src="http://devinreams.com/wp-content/uploads/2007/02/overlaps.png" />
+  <img src="https://devin.reams.me/wp-content/uploads/2007/02/overlaps.png" />
 </center>
 
 Sure, it starts to limit the number of people that fit within the overlaps. But, don&#8217;t tell me I&#8217;m not writing for the right audience. Don&#8217;t tell me I&#8217;m covering too much. I&#8217;m writing for the people that enjoy everything I write about. These are the people I can chat with. These are the folks I can easily befriend. These are the people I want to connect with through writing.

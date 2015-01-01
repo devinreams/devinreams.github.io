@@ -10,7 +10,7 @@ categories:
 tags:
   - Money
 ---
-<img src="http://devinreams.com/wp-content/uploads/2007/01/techstars.jpg" align="center" />
+<img src="https://devin.reams.me/wp-content/uploads/2007/01/techstars.jpg" align="center" />
 
 Are you an entrepreneur looking to really get things started for you and your company (idea)? Luckily theres a group of [investors and mentors][1] in Boulder, Colorado here to help you this summer. Announcing, [TechStars 2007][2]&#8230;
 

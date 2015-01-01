@@ -12,7 +12,7 @@ tags:
 ---
 I enjoy reading, it truly expands my knowledge base and introduces me to so many great new ideas. In turn, I enjoy sharing them and talking with others about them. But recently I&#8217;ve struggled to find time to read. As [mentioned before][1], I manage my time pretty closely; I fill every hour of my schedule. Unfortunately, work and school take up nearly all of my time lately. When can I find time to read?
 
-<img src="http://devinreams.com/wp-content/uploads/2006/11/books.jpg" align="center" />
+<img src="https://devin.reams.me/wp-content/uploads/2006/11/books.jpg" align="center" />
 
 <!--more-->
 

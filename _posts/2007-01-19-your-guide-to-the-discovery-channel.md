@@ -10,7 +10,7 @@ categories:
 tags:
   - Noteworthy
 ---
-<img src="http://devinreams.com/wp-content/uploads/2007/01/discoverychannel.png" align="center" />
+<img src="https://devin.reams.me/wp-content/uploads/2007/01/discoverychannel.png" align="center" />
 
 I love the [Discovery Channel][1]. Why? It&#8217;s the only &#8220;cable&#8221; channel we get in our &#8220;basic cable&#8221; package. Apparently that package means local programming + spanish channels + paid programming + Discovery Channel. Now that you understand why I&#8217;m a self-declared expert on the aforementioned channel, read on to learn more about the diverse programming found on Discovery&#8230;
 

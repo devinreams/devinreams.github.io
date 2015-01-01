@@ -39,9 +39,9 @@ So, you partner with MTV and assume they&#8217;re going to do all this work for 
 But hey, that&#8217;s just my humble opinion..
 
  [1]: http://www.fordcollegehq.com/
- [2]: http://devinreams.com/wp-content/uploads/2006/08/ford2.jpg
+ [2]: https://devin.reams.me/wp-content/uploads/2006/08/ford2.jpg
  [3]: http://www.fordcollegehq.com/choose_ride.fc
  [4]: http://www.fordcollegehq.com/redirect.fc?link=cars.crown.victoria
  [5]: http://www.fordcollegehq.com/redirect.fc?link=cars.freestar
  [6]: http://www.fordcollegehq.com/redirect.fc?link=cars.freestyle
- [7]: http://devinreams.com/wp-content/uploads/2006/08/ford1.jpg
+ [7]: https://devin.reams.me/wp-content/uploads/2006/08/ford1.jpg

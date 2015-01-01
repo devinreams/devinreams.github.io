@@ -13,7 +13,7 @@ tags:
 ---
 Since everyone who reads this will likely be finding [happiness at a gym][1] now I think it&#8217;s only fair I prepare [another etiquette][2] guide for those of us new to athletic clubs, locker rooms, and gyms in general.
 
-<img src="http://devinreams.com/wp-content/uploads/2006/11/bikes.jpg" align="center" />
+<img src="https://devin.reams.me/wp-content/uploads/2006/11/bikes.jpg" align="center" />
 
 Without further ado, the following should be observed whilst working out at the gym:
 

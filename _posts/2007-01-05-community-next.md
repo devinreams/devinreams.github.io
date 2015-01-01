@@ -11,7 +11,7 @@ tags:
   - People
   - Websites
 ---
-[<img src="http://devinreams.com/wp-content/uploads/2007/01/communitynext.jpg" align="center" class="noborder" />][1]
+[<img src="https://devin.reams.me/wp-content/uploads/2007/01/communitynext.jpg" align="center" class="noborder" />][1]
 
 If you&#8217;re looking for an excellent conference to attend this year you&#8217;re pretty lucki you&#8217;re reading this. I&#8217;ve been helping Noah organize [the premiere conference about the present and future of online network and communities][2]. Odds are, if you&#8217;re reading this you&#8217;re familiar with websites like [Facebook][3], [HotorNot][4], and [Threadless][5]. This conference will have speakers and attendees representing each of them (and many more). [Community Next][2] will be held February 10th at Stanford University and the early bird prices is $195 ($20 for a limited number of students). More information and a discount code after the jump&#8230;
 

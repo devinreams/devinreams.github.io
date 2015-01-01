@@ -10,6 +10,6 @@ categories:
 tags:
   - Money
 ---
-<img src="http://devinreams.com/wp-content/uploads/2007/01/bathroom.png" align="center" />
+<img src="https://devin.reams.me/wp-content/uploads/2007/01/bathroom.png" align="center" />
 
 Well, the fun has come to an end. The lifestyle that comes with

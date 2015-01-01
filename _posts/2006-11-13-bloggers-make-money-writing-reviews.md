@@ -13,7 +13,7 @@ tags:
 ---
 How dare they! It&#8217;s true though. We all know the blogosphere is not just used to talk about our cats and day at the mall. Blogs are great ways to communicate. Executives can publish one post and have the entire world up-to-date, companies can talk to its current and potential customers, people can share their ideas and stories with friends and strangers alike. Blogs are powerful and extremely functional&#8211;people are catching on.
 
-<img src="http://devinreams.com/wp-content/uploads/2006/11/money.jpg" align="center" />
+<img src="https://devin.reams.me/wp-content/uploads/2006/11/money.jpg" align="center" />
 
 So, why can&#8217;t some bloggers make money? A lot of people are full-time bloggers (they may prefer to be called journalists, or writers though). Sure, we can drop a few ad links on your website and make a few bucks a day. Does that really compliment what we&#8217;re doing? Hardly. Just like television commercials ineffectiveness: they don&#8217;t compliment the medium nor the content. Relevance is important and a few sites have found a way to solve that problem for bloggers.
 

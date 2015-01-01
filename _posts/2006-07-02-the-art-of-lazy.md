@@ -11,7 +11,7 @@ tags:
   - Personal
 ---
 <div align="center">
-  <img src="http://devinreams.com/wp-content/uploads/2006/07/lazycat.jpg" class="noborder" alt="Napping Cat" />
+  <img src="https://devin.reams.me/wp-content/uploads/2006/07/lazycat.jpg" class="noborder" alt="Napping Cat" />
 </div>
 
 I looked at my website today and thought to myself: &#8220;Dude (that&#8217;s what I refer to myself as), you haven&#8217;t touched your blog in quite some time!&#8221; I quickly retorted, &#8220;Well, so? I drew [a comic yesterday][1]!&#8221;
