@@ -26,8 +26,8 @@ And with that said, I don&#8217;t know why I use Twitter. [Alex][6] and I were c
 
  [1]: https://devin.reams.me/wp/wp-content/uploads/2010/09/Screen-shot-2010-09-16-at-2.29.44-AM.png
  [2]: http://www.readwriteweb.com/archives/twitter_is_not_a_social_network_says_twitter_exec.php
- [3]: http://twitter.com/newtwitter
+ [3]: https://twitter.com/newtwitter
  [4]: http://www.atebits.com/tweetie-mac/
  [5]: http://tweetygotback.com/
  [6]: http://alexking.org
- [7]: http://twitter.com/devinreams
+ [7]: https://twitter.com/devinreams

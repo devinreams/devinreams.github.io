@@ -65,5 +65,5 @@ Style allows for personality and can make a design more human and connect to a v
 Aim to seek evaluation against the stated goals and frame the display and style discussions (reviewing mockups, layout concepts) around the purpose and content defined earlier.
 
  [1]: http://dpm2013.com
- [2]: http://twitter.com/jponch
+ [2]: https://twitter.com/jponch
  [3]: http://dpm2013.com/

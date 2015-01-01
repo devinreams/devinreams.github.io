@@ -38,7 +38,7 @@ Assuming you have a widget-friendly WordPress theme installed, simply do the fol
 
 1.  From the WordPress dashbord, Browse to Appearance > Widgets
 2.  Select the &#8216;Add&#8217; button next to the &#8220;RSS&#8221; widget
-3.  Visit your [Twitter favorites][7] page and determine your personal RSS feed (view the page source if you&#8217;re stuck here; find the <link> tag with http://twitter.com/favorites/*youridhere*.rss)
+3.  Visit your [Twitter favorites][7] page and determine your personal RSS feed (view the page source if you&#8217;re stuck here; find the <link> tag with https://twitter.com/favorites/*youridhere*.rss)
 4.  Insert the favorites feed into your RSS widget, give the widget a title, pick your options, etc.
 5.  Save the widget and save the changes to your sidebar
 
@@ -62,14 +62,14 @@ In theory, the API will include all mentions (any time @devinreams is included i
 
 Ha, this is why they call me a [social media pro][11].
 
- [1]: http://twitter.com/devinreams
+ [1]: https://twitter.com/devinreams
  [2]: http://alexking.org/
  [3]: http://alexking.org/blog/2009/01/29/an-alternative-to-rts-on-twitter
- [4]: http://twitter.com/devinreams/status/1461301788
+ [4]: https://twitter.com/devinreams/status/1461301788
  [5]: http://favrd.textism.com/
  [6]: https://devin.reams.me/
- [7]: http://twitter.com/favorites
+ [7]: https://twitter.com/favorites
  [8]: http://simplepie.org/
  [9]: http://37signals.com/
  [10]: http://search.twitter.com/
- [11]: http://twitter.com/bleikamp/statuses/1423172299
+ [11]: https://twitter.com/bleikamp/statuses/1423172299

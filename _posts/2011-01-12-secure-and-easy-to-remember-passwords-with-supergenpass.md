@@ -61,7 +61,7 @@ Still not convinced? [Drop a line][11] or leave a comment to share your thoughts
 
  [1]: http://www.schwab.com/
  [2]: http://www.amazon.com/
- [3]: http://www.facebook.com/
+ [3]: https://facebook.com/
  [4]: http://www.linkedin.com/
  [5]: http://www.basecamphq.com/
  [6]: http://alexking.org/

@@ -53,7 +53,7 @@ What are your favorites? I&#8217;m sure there are tons out there that I&#8217;ve
 
  [1]: http://www.apple.com/iphone
  [2]: http://www.t-mobile.com
- [3]: http://twitter.com/mg
+ [3]: https://twitter.com/mg
  [4]: http://www.groceryiq.com/groceryiq/index.html
  [5]: http://www.instapaper.com/iphone
  [6]: http://www.instapaper.com/

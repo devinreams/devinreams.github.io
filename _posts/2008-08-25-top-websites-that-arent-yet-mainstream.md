@@ -63,6 +63,6 @@ But then again, only the &#8220;early adopters&#8221; were using these sites:
  [6]: http://www.newsvine.com/
  [7]: http://newsvine.com/
  [8]: http://devinreams.newsvine.com
- [9]: http://www.twitter.com
- [10]: http://www.twitter.com/
- [11]: http://twitter.com/devinreams
+ [9]: https://twitter.com
+ [10]: https://twitter.com/
+ [11]: https://twitter.com/devinreams

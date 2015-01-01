@@ -26,4 +26,4 @@ I think my simplest self-imposed challenge was to: go [entirely paperless at the
 
 These days we all have laptops: they&#8217;re light, portable, and can go anywhere. I&#8217;m fortunate enough to have one for both work and play.
 
- [1]: http://twitter.com/devinreams/statuses/942496075
+ [1]: https://twitter.com/devinreams/statuses/942496075

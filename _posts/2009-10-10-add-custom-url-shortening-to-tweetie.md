@@ -42,7 +42,7 @@ categories:
 ## Setup Tweetie 2 for iPhone to use a custom URL shortener
 
 <div>
-  <span style="font-size: small;"><a href="http://twitter.com/atebits">Loren Brichter</a> has done an great thing for his latest Twitter client (<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=333903271&mt=8">iTunes link</a>): he allows you to have a <a href="http://developer.atebits.com/tweetie-iphone/custom-shortening/">custom URL shortener</a> endpoint defined for use. In other words, every URL you post can be shortened using whatever service you want (including your own).</span>
+  <span style="font-size: small;"><a href="https://twitter.com/atebits">Loren Brichter</a> has done an great thing for his latest Twitter client (<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=333903271&mt=8">iTunes link</a>): he allows you to have a <a href="http://developer.atebits.com/tweetie-iphone/custom-shortening/">custom URL shortener</a> endpoint defined for use. In other words, every URL you post can be shortened using whatever service you want (including your own).</span>
 </div>
 
 <div>

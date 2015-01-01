@@ -59,7 +59,7 @@ From the plethora of information that thousands of users are providing you can q
 <center>
   <dl id="attachment_786" class="wp-caption aligncenter" style="max-width:480px">
     <dt>
-      <a href="http://twitter.com/hunch/status/2078375764"><img src="https://devin.reams.me/wp/wp-content/uploads/2009/06/twitter-hunch-1.png" alt="Liberals are about twice as likely to prefer arugula to iceberg in their salads, but the exact opposite goes for conservatives." title="Hunch correlation" width="480" height="209" class="size-full wp-image-786" /></a>
+      <a href="https://twitter.com/hunch/status/2078375764"><img src="https://devin.reams.me/wp/wp-content/uploads/2009/06/twitter-hunch-1.png" alt="Liberals are about twice as likely to prefer arugula to iceberg in their salads, but the exact opposite goes for conservatives." title="Hunch correlation" width="480" height="209" class="size-full wp-image-786" /></a>
     </dt>
     
     <dd>

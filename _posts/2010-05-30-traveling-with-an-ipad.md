@@ -43,7 +43,7 @@ In short, I will continue to use this as a laptop replacement at conferences or 
 **Did you enjoy this post? You should [recommend me to be listed in the tumblr directory][5]. Thanks!**
 
  [1]: http://www.apple.com/ipad/
- [2]: http://facebook.com/f8
+ [2]: https://facebook.com/f8
  [3]: http://store.apple.com/us/product/MC361ZM/A
  [4]: http://2010.sf.wordcamp.org
  [5]: http://www.tumblr.com/directory/recommend/tech/devinreams

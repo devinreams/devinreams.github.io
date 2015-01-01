@@ -52,8 +52,8 @@ I don&#8217;t fully understand the reasoning, but it seems people want to become
  [6]: http://www.cbs.com/primetime/survivor/
  [7]: http://en.wikipedia.org/wiki/Balloon_boy_hoax
  [8]: http://charliehoehn.com/
- [9]: http://twitter.com/
- [10]: http://twitter.com/ramit
+ [9]: https://twitter.com/
+ [10]: https://twitter.com/ramit
  [11]: http://www.techstars.org
  [12]: http://www.techcrunch.com/
  [13]: http://www.techmeme.com

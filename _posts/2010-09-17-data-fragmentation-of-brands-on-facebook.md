@@ -26,9 +26,9 @@ All of this leads to why you can search for a business, even a small one like &#
 
 Which leaves us with these various web addresses to point people to:
 
-- \[http://www.facebook.com/pages/Crowd-Favorite/154204807926246\](http://www.facebook.com/pages/Crowd-Favorite/154204807926246)  
-- \[http://www.facebook.com/pages/Denver-CO/Crowd-Favorite/378155388161\](http://www.facebook.com/pages/Denver-CO/Crowd-Favorite/378155388161)  
-- \[http://www.facebook.com/pages/Crowd-Favorite/115570975120068\](http://www.facebook.com/pages/Crowd-Favorite/115570975120068)
+- \[https://facebook.com/pages/Crowd-Favorite/154204807926246\](https://facebook.com/pages/Crowd-Favorite/154204807926246)  
+- \[https://facebook.com/pages/Denver-CO/Crowd-Favorite/378155388161\](https://facebook.com/pages/Denver-CO/Crowd-Favorite/378155388161)  
+- \[https://facebook.com/pages/Crowd-Favorite/115570975120068\](https://facebook.com/pages/Crowd-Favorite/115570975120068)
 
 Which, if there&#8217;s no way to associate all of these, a lot of hard work in establishing brands using pages, and encouraging people to &#8220;check in&#8221; is completely useless. As a business, I would want to know who and when people check in to my location. When they visit my &#8220;Place&#8221; they can &#8220;Like&#8221; it and I can start making a deep connection.
 
