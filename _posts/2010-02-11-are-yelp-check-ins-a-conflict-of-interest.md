@@ -34,10 +34,10 @@ So what about when Yelp starts mixing in the [Sales &#038; Special Offers][6] va
 I don&#8217;t know, maybe this is not a major concern to [Yelp][7]. But having chatted with [Alex][8], I&#8217;m sure I&#8217;m not alone in wondering about this. There is arguably some potential for conflicts of interest in the form of preferable treatment and new incentive to visit regularly and write (impartial?) more reviews.
 
  [1]: http://brightkite.com
- [2]: http://foursquare.com
+ [2]: https://foursquare.com
  [3]: http://gowalla.com
  [4]: http://officialblog.yelp.com/2010/01/youre-gonna-want-to-checkout-yelp-for-iphone-v4.html
- [5]: http://foursquare.com/businesses/
+ [5]: https://foursquare.com/businesses/
  [6]: http://www.yelp.com/specialoffers/denver
  [7]: http://yelp.com
  [8]: http://alexking.org
