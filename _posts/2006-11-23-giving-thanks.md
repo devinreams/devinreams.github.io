@@ -34,4 +34,4 @@ In all honesty, I don&#8217;t know why we celebrate Thanksgiving. I think it&#82
 
 **Happy Thanksgiving. Enjoy the time off and if you&#8217;re going shopping on Friday, well, be careful out there.**
 
- [1]: http://devin.reams.me/2006/being-thankful/
+ [1]: https://devin.reams.me/2006/being-thankful/

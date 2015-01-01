@@ -12,5 +12,5 @@ tags:
 ---
 Looks like [Garett][1] [was right][2]!
 
- [1]: http://devin.reams.me/2006/dissecting-gmail/
+ [1]: https://devin.reams.me/2006/dissecting-gmail/
  [2]: http://googleblog.blogspot.com/2006/02/big-mail-on-campus.html

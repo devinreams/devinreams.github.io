@@ -22,6 +22,6 @@ I&#8217;ve actually signed up for [CARGO&#8217;s BootCamp][3] and found plenty o
 
 I think I&#8217;ll start reading the &#8216;food&#8217; section and see what I can do about my diet, too&#8230;
 
- [1]: http://devin.reams.me/schedule/
- [2]: http://devin.reams.me/2006/pip-resolution-book-a-month/
+ [1]: https://devin.reams.me/schedule/
+ [2]: https://devin.reams.me/2006/pip-resolution-book-a-month/
  [3]: http://www.cargomag.com/bootcamp/

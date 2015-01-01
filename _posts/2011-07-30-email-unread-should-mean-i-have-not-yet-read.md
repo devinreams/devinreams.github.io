@@ -9,7 +9,7 @@ categories:
 ---
 I&#8217;ve been trying out the new version of \[Apple Mail\](http://www.apple.com/macosx/whats-new/mail.html) in OS X Lion and it&#8217;s really nice. I would say it&#8217;s 90% of what I want in a native (e.g.: not web-based, like Gmail) email client. One thing \[Alex\](http://alexking.org/) and I noticed was that the new two-column view (view the message alongside the list of messages) forces a new problematic workflow.
 
-<img src="http://devin.reams.me/wp/wp-content/uploads/2011/07/Ju6F.Screen-shot-2011-08-04-at-08-46-29.png" class="aligncenter" alt="Apple Mail in OS X Lion" />
+<img src="https://devin.reams.me/wp/wp-content/uploads/2011/07/Ju6F.Screen-shot-2011-08-04-at-08-46-29.png" class="aligncenter" alt="Apple Mail in OS X Lion" />
 
 \## Two-column view forces unread status
 

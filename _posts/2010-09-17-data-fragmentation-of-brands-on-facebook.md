@@ -16,7 +16,7 @@ Plus, there is now the concept of &#8220;Places&#8221;, yet another type of cont
 All of this leads to why you can search for a business, even a small one like &#8220;Crowd Favorite&#8221; and turn up no less than four separate results:  
 <dl id="attachment_1500" class="wp-caption aligncenter" style="max-width:588px">
   <dt>
-    <a href="http://devin.reams.me/wp/wp-content/uploads/2010/09/Screen-shot-2010-09-17-at-8.36.12-AM.png"><img src="http://devin.reams.me/wp/wp-content/uploads/2010/09/Screen-shot-2010-09-17-at-8.36.12-AM.png" alt="Crowd Favorite fragmentation on Facebook" title="Crowd Favorite fragmentation on Facebook" width="588" height="274" class="size-full wp-image-1500" /></a>
+    <a href="https://devin.reams.me/wp/wp-content/uploads/2010/09/Screen-shot-2010-09-17-at-8.36.12-AM.png"><img src="https://devin.reams.me/wp/wp-content/uploads/2010/09/Screen-shot-2010-09-17-at-8.36.12-AM.png" alt="Crowd Favorite fragmentation on Facebook" title="Crowd Favorite fragmentation on Facebook" width="588" height="274" class="size-full wp-image-1500" /></a>
   </dt>
   
   <dd>

@@ -31,5 +31,5 @@ Facebook is doing a great job **[aggregating my online life][6]** so far and I d
  [2]: https://www.google.com/health/p/
  [3]: http://www.noahbrier.com/archives/2008/05/600k_and_counting.php
  [4]: http://www.brandtags.net/
- [5]: http://devin.reams.me/
+ [5]: https://devin.reams.me/
  [6]: http://blog.facebook.com/blog.php?post=17720842130

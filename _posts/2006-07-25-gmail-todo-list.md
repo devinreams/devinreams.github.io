@@ -33,6 +33,6 @@ Hopefully this was useful to someone, let me know your thoughts or any other sug
 
 **Update 2 (6/28/08): Look into [Remember the Milk][2] as they have a great Firefox plugin to add your todo list to [your Gmail page][3]. I use RTM with my iPhone and Gmail and it&#8217;s a great way to have my todo lists all in one place.**
 
- [1]: http://devin.reams.me/2007/gmail-todo-redux/
+ [1]: https://devin.reams.me/2007/gmail-todo-redux/
  [2]: http://www.rememberthemilk.com/
  [3]: http://www.rememberthemilk.com/services/gmail/

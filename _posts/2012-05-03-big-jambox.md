@@ -12,4 +12,4 @@ categories:
 
 Dang, I have [JAMBOX][1] envy now.
 
- [1]: http://devin.reams.me/2011/my-favorite-gadget-jambox-from-jawbone/
+ [1]: https://devin.reams.me/2011/my-favorite-gadget-jambox-from-jawbone/

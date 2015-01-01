@@ -24,7 +24,7 @@ tags:
 
 I easily annoyed by people on Twitter who &#8216;RT&#8217;, or &#8216;re-tweet&#8217;; they simply post an update that says exactly what someone else says, plus attribution. Frankly, answering the Twitter mantra &#8220;What are you doing?&#8221; with &#8220;this is what someone else smarter, funnier, or more charming is doing&#8221; seems inane. It&#8217;s poetic, though, in the sense that it&#8217;s a quick litmus test for people worth &#8220;following.&#8221; [Alex][2] has always been against this practice and suggested [an alternative to RTs:][3] favorites.
 
-[<img src="http://devin.reams.me/wp/wp-content/uploads/2009/04/twitter-history-2.png" alt="Screenshot: History doesn&#039;t retweet itself" title="Screenshot: History doesn&#039;t retweet itself" width="490" height="119" class="aligncenter size-full wp-image-709" />][4]
+[<img src="https://devin.reams.me/wp/wp-content/uploads/2009/04/twitter-history-2.png" alt="Screenshot: History doesn&#039;t retweet itself" title="Screenshot: History doesn&#039;t retweet itself" width="490" height="119" class="aligncenter size-full wp-image-709" />][4]
 
 There are very few features on Twitter: updates, direct messages, replies, *favorites*, followers, followings. I charge everyone to use the favorites feature more often. In fact, there&#8217;s a site dedicated to finding the real good ones: [favrd][5].
 
@@ -32,7 +32,7 @@ Point being: I&#8217;m a huge proponent of using the little star. I&#8217;ve sta
 
 ## Add Twitter favorites with the WordPress RSS widget
 
-<img src="http://devin.reams.me/wp/wp-content/uploads/2009/04/rss-widget.png" alt="Screenshot: WordPress RSS widget" title="Screenshot: WordPress RSS widget" width="441" height="328" class="aligncenter size-full wp-image-706" />
+<img src="https://devin.reams.me/wp/wp-content/uploads/2009/04/rss-widget.png" alt="Screenshot: WordPress RSS widget" title="Screenshot: WordPress RSS widget" width="441" height="328" class="aligncenter size-full wp-image-706" />
 
 Assuming you have a widget-friendly WordPress theme installed, simply do the following:
 
@@ -50,7 +50,7 @@ I can think of various creative ways for individuals and businesses to use Twitt
 
 For example, if I were a company with customers sending @replies to me telling me how great I was, I may favorite those. I can then use something like [SimplePie][8] to integrate my favorites into my blog as a separate page of testimonials. I know 37signals uses &#8216;buzz&#8217; from Twitter on their site.
 
-[<img src="http://devin.reams.me/wp/wp-content/uploads/2009/04/37signals-twitter.png" alt="Screenshot: 37signals buzz around the web" title="Screenshot: 37signals buzz around the web" width="411" height="304" class="aligncenter size-full wp-image-707" />][9]
+[<img src="https://devin.reams.me/wp/wp-content/uploads/2009/04/37signals-twitter.png" alt="Screenshot: 37signals buzz around the web" title="Screenshot: 37signals buzz around the web" width="411" height="304" class="aligncenter size-full wp-image-707" />][9]
 
 ## Bonus: do the same with @replies
 
@@ -67,7 +67,7 @@ Ha, this is why they call me a [social media pro][11].
  [3]: http://alexking.org/blog/2009/01/29/an-alternative-to-rts-on-twitter
  [4]: http://twitter.com/devinreams/status/1461301788
  [5]: http://favrd.textism.com/
- [6]: http://devin.reams.me/
+ [6]: https://devin.reams.me/
  [7]: http://twitter.com/favorites
  [8]: http://simplepie.org/
  [9]: http://37signals.com/

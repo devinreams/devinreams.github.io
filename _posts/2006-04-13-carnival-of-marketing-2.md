@@ -18,4 +18,4 @@ For example, a few weeks ago I wrote [Market to College Students][2]. I was in t
 So, if you have something you&#8217;d like for me to mention just shoot me an email (devin@reams.me). It&#8217;s really that simple. I look forward to the submissions!
 
  [1]: http://okdork.com/grand-opening-carnival-of-marketing/
- [2]: http://devin.reams.me/2006/market-to-college-students/
+ [2]: https://devin.reams.me/2006/market-to-college-students/

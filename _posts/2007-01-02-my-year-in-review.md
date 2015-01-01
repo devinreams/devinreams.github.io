@@ -50,10 +50,10 @@ Obviously I&#8217;ve got some plans. I&#8217;ve been writing down stuff as I thi
  [3]: http://www.haveamint.com
  [4]: http://www.google.com/search?q=devin&#038;ie=utf-8&#038;oe=utf-8&#038;rls=org.mozilla:en-US:official&#038;client=firefox-a
  [5]: http://www.cpp-db.com/products/firo-b/index.asp
- [6]: http://devin.reams.me/2006/biphasic-sleep-faq/
+ [6]: https://devin.reams.me/2006/biphasic-sleep-faq/
  [7]: http://en.wikipedia.org/wiki/Biphasic_sleep
- [8]: http://devin.reams.me/2006/miss-dewey-sucks/
+ [8]: https://devin.reams.me/2006/miss-dewey-sucks/
  [10]: http://www.cuakpsi.com/
- [11]: http://devin.reams.me/
- [12]: http://devin.reams.me/2006/bookumentaries/
+ [11]: https://devin.reams.me/
+ [12]: https://devin.reams.me/2006/bookumentaries/
  [13]: http://nottoogeeky.com/bloggers-resolutions-and-multiple-blogs/

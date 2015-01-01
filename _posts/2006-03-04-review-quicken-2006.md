@@ -40,7 +40,7 @@ Some things I really like include:
 
 Obviously I&#8217;m enjoying playing around with my new program. I previously wrote about using Money to track your money. After two days I&#8217;d recommend Quicken to anyone out there looking for a very nice personal finance program.
 
- [1]: http://devin.reams.me/2006/savings-accounts/
+ [1]: https://devin.reams.me/2006/savings-accounts/
  [2]: http://www.flickr.com/photos/devdev/107484947/ "Setting Goals"
  [3]: http://www.flickr.com/photos/devdev/107486415/ "Account Bar"
  [4]: http://www.flickr.com/photos/devdev/107484948/ "Quicken Budget"

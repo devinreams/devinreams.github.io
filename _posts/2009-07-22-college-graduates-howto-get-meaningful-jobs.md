@@ -62,6 +62,6 @@ I recommend you check out [Recession-Proof Graduate][2] and [subscribe to Charli
  [5]: http://en.wikipedia.org/wiki/Sunk_costs
  [6]: http://www.coloradostartups.com/
  [7]: http://techstars.org/
- [8]: http://devin.reams.me/the-one-about-the-new-job/
+ [8]: https://devin.reams.me/the-one-about-the-new-job/
  [9]: http://crowdfavorite.com
  [10]: http://feeds.feedburner.com/charliehoehn

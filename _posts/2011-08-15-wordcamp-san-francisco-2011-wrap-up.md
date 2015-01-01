@@ -20,7 +20,7 @@ categories:
 
 <dl id="attachment_2126" class="wp-caption aligncenter" style="max-width:300px">
   <dt>
-    <a href="http://devin.reams.me/2011/wordcamp-san-francisco-2011-wrap-up/20110815-091219-jpg/" rel="attachment wp-att-2126"><img src="http://devin.reams.me/wp-content/uploads/2011/08/20110815-091219-300x224.jpg" alt="" title="WordPress core team" width="300" height="224" class="size-medium wp-image-2126" /></a>
+    <a href="https://devin.reams.me/2011/wordcamp-san-francisco-2011-wrap-up/20110815-091219-jpg/" rel="attachment wp-att-2126"><img src="https://devin.reams.me/wp-content/uploads/2011/08/20110815-091219-300x224.jpg" alt="" title="WordPress core team" width="300" height="224" class="size-medium wp-image-2126" /></a>
   </dt>
   
   <dd>

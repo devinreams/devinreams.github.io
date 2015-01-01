@@ -30,7 +30,7 @@ There&#8217;s my thoughts on how to do social media the right way. Agree / disag
 
  [1]: http://jeremytanner.com/2008/08/be-different/
  [2]: http://twitter.com/devinreams
- [3]: http://devin.reams.me/2007/my-thoughts-on-transparency-honesty/
+ [3]: https://devin.reams.me/2007/my-thoughts-on-transparency-honesty/
  [4]: http://blog.penelopetrunk.com/
  [5]: http://garyvaynerchuk.com
  [6]: http://okdork.com/

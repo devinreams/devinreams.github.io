@@ -55,9 +55,9 @@ Enough said: go buy [I Will Teach You To Be Rich][1]<img src="http://www.assoc-a
 
  [1]: http://www.amazon.com/gp/product/0761147489?ie=UTF8&#038;tag=devinreamscom-20&#038;linkCode=as2&#038;camp=1789&#038;creative=390957&#038;creativeASIN=0761147489
  [2]: http://iwillteachyoutoberich.com/blog/
- [3]: http://devin.reams.me
+ [3]: https://devin.reams.me
  [4]: http://iwillteachyoutoberich.com/
  [5]: http://jonathanotto.com/
  [6]: http://okdork.com
  [7]: http://mint.com/
- [8]: http://devin.reams.me/2009/02/taxes-filed-beware-turbotax/
+ [8]: https://devin.reams.me/2009/02/taxes-filed-beware-turbotax/

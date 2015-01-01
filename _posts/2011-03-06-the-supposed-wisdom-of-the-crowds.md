@@ -7,7 +7,7 @@ categories:
   - Life
   - Personal
 ---
-<img src="http://devin.reams.me/wp/wp-content/uploads/2011/03/rockamring_crowd_968605_o-300x225.jpg" alt="A clever crowd" title="rockamring_crowd_968605_o" width="300" height="225" class="alignright size-medium wp-image-1731" />I enjoy watching people think they&#8217;re smarter than those around them. I don&#8217;t just mean the wise guy in the kick-off meeting or the blowhard in the First Class cabin. I enjoy watching this behavior magnified in large groups. 
+<img src="https://devin.reams.me/wp/wp-content/uploads/2011/03/rockamring_crowd_968605_o-300x225.jpg" alt="A clever crowd" title="rockamring_crowd_968605_o" width="300" height="225" class="alignright size-medium wp-image-1731" />I enjoy watching people think they&#8217;re smarter than those around them. I don&#8217;t just mean the wise guy in the kick-off meeting or the blowhard in the First Class cabin. I enjoy watching this behavior magnified in large groups. 
 
 I see this a lot while skiing. People of all ages, backgrounds, experience levels, and familiarity all come together in a handful of locations:
 

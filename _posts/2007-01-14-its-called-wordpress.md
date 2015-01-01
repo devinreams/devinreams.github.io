@@ -83,7 +83,7 @@ Chorus x2
  [6]: http://en.wikipedia.org/wiki/Content_management_system
  [7]: http://en.wikipedia.org/wiki/Wordpress
  [8]: http://www.wordpress.org/
- [9]: http://devin.reams.me/about/
+ [9]: https://devin.reams.me/about/
  [10]: http://en.wikipedia.org/wiki/Cascading_Style_Sheets
  [12]: http://www.google.com/url?sa=t&#038;ct=res&#038;cd=1&#038;url=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0479884%2F&#038;ei=InKqRb7HEZGygwPJo5HOBg&#038;usg=__cEAiCZlysS84wW-f8SImhZ7pyE0=&#038;sig2=1xt6BK05r7gEOU1nsHesTQ
  [13]: http://en.wikipedia.org/wiki/Unisex_names

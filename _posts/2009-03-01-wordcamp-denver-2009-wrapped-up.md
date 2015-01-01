@@ -22,4 +22,4 @@ Denver has attracted a ton of talent and interesting individuals and I hope [Wor
  [1]: http://alexking.org/
  [2]: http://kizzknows.com/
  [3]: http://denver.wordcamp.org/
- [4]: http://devin.reams.me/
+ [4]: https://devin.reams.me/

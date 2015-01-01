@@ -32,5 +32,5 @@ What are your five daily priorities?
 </div>
 
  [1]: http://en.wikipedia.org/wiki/SMART_(project_management)
- [2]: http://devin.reams.me/2007/keeping-in-touch-isnt-easy/
+ [2]: https://devin.reams.me/2007/keeping-in-touch-isnt-easy/
  [3]: http://lifehacker.com/software/motivation/jerry-seinfelds-productivity-secret-281626.php

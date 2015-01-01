@@ -18,4 +18,4 @@ Back to my thoughts on [WordPress as a &#8220;product or platform&#8221;][4]: it
  [1]: http://simplenote.com
  [2]: http://automattic.com
  [3]: http://ios.wordpress.org
- [4]: http://devin.reams.me/2013/is-wordpress-a-development-platform-or-a-product/
+ [4]: https://devin.reams.me/2013/is-wordpress-a-development-platform-or-a-product/

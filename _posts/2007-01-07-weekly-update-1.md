@@ -39,4 +39,4 @@ It snowed again this week. Not a ton (like the last two) but enough to shut down
  [2]: http://www.flickr.com/photos/devdev/348405885/
  [3]: http://www.coloradosnowblog.com/
  [4]: http://www.meltingpot.com/
- [5]: http://devin.reams.me/2007/community-next/
+ [5]: https://devin.reams.me/2007/community-next/

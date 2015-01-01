@@ -23,7 +23,7 @@ Frankly, Hunch is a great idea and I have no doubt will become another staple of
 <center>
   <dl id="attachment_780" class="wp-caption aligncenter" style="max-width:485px">
     <dt>
-      <a href="http://www.hunch.com/preview/browse-topics/"><img src="http://devin.reams.me/wp/wp-content/uploads/2009/06/hunch-browse-topics1.png" alt="With topics from Electronics to Sports and Fitness, one can make a decision about nearly anything." title="Browse Topics: Hunch" width="485" height="309" class="size-full wp-image-780" /></a>
+      <a href="http://www.hunch.com/preview/browse-topics/"><img src="https://devin.reams.me/wp/wp-content/uploads/2009/06/hunch-browse-topics1.png" alt="With topics from Electronics to Sports and Fitness, one can make a decision about nearly anything." title="Browse Topics: Hunch" width="485" height="309" class="size-full wp-image-780" /></a>
     </dt>
     
     <dd>
@@ -45,7 +45,7 @@ Hunch asks a lot of questions about you. It gains a lot of information not only 
 <center>
   <dl id="attachment_787" class="wp-caption aligncenter" style="max-width:347px">
     <dt>
-      <img src="http://devin.reams.me/wp/wp-content/uploads/2009/06/teach-hunch.png" alt="My previous answer was the same as 48% of respondents. I&#039;m in the minority?" title="Teach Hunch" width="347" height="280" class="size-full wp-image-787" />
+      <img src="https://devin.reams.me/wp/wp-content/uploads/2009/06/teach-hunch.png" alt="My previous answer was the same as 48% of respondents. I&#039;m in the minority?" title="Teach Hunch" width="347" height="280" class="size-full wp-image-787" />
     </dt>
     
     <dd>
@@ -59,7 +59,7 @@ From the plethora of information that thousands of users are providing you can q
 <center>
   <dl id="attachment_786" class="wp-caption aligncenter" style="max-width:480px">
     <dt>
-      <a href="http://twitter.com/hunch/status/2078375764"><img src="http://devin.reams.me/wp/wp-content/uploads/2009/06/twitter-hunch-1.png" alt="Liberals are about twice as likely to prefer arugula to iceberg in their salads, but the exact opposite goes for conservatives." title="Hunch correlation" width="480" height="209" class="size-full wp-image-786" /></a>
+      <a href="http://twitter.com/hunch/status/2078375764"><img src="https://devin.reams.me/wp/wp-content/uploads/2009/06/twitter-hunch-1.png" alt="Liberals are about twice as likely to prefer arugula to iceberg in their salads, but the exact opposite goes for conservatives." title="Hunch correlation" width="480" height="209" class="size-full wp-image-786" /></a>
     </dt>
     
     <dd>

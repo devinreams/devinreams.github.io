@@ -52,9 +52,9 @@ Check out the final result: [Devin Reams Bookmarks][10].
  [2]: http://gnolia.com/
  [3]: http://pinboard.in
  [4]: http://stopdesign.com/archive/2010/03/02/browsable-searchable-archive-of-tweets.html
- [5]: http://devin.reams.me/bookmarks/
+ [5]: https://devin.reams.me/bookmarks/
  [6]: http://www.linkagogo.com/go/Convert/Home
  [7]: http://en.wikipedia.org/wiki/OPML
  [8]: http://pipes.yahoo.com/devinreams/xbeltorss
  [9]: http://wordpress.org/extend/plugins/feedwordpress/
- [10]: http://devin.reams.me/bookmarks
+ [10]: https://devin.reams.me/bookmarks

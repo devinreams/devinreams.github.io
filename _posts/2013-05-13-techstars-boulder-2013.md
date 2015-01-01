@@ -32,5 +32,5 @@ Kudos class of 2013 and best of luck this summer&#8230;
  [4]: http://www.davidgcohen.com
  [5]: http://alexking.org
  [6]: http://crowdfavorite.com/
- [7]: http://devin.reams.me/2013/where-do-you-post-your-job-listings/
+ [7]: https://devin.reams.me/2013/where-do-you-post-your-job-listings/
  [8]: http://elihuu.com

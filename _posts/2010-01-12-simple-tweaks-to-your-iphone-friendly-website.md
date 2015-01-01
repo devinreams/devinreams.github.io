@@ -21,7 +21,7 @@ If you own and operate a website, odds are you have mobile users browsing it. Be
 <center>
   <dl id="attachment_934" class="wp-caption aligncenter" style="max-width:300px">
     <dt>
-      <a href="http://devin.reams.me/wp/wp-content/uploads/2010/01/espn-mobile-exited.png"><img src="http://devin.reams.me/wp/wp-content/uploads/2010/01/espn-mobile-exited-300x208.png" alt="ESPN Mobile vs Standard" title="ESPN Mobile and Standard on Mobile Safari" width="300" height="208" class="size-medium wp-image-934" /></a>
+      <a href="https://devin.reams.me/wp/wp-content/uploads/2010/01/espn-mobile-exited.png"><img src="https://devin.reams.me/wp/wp-content/uploads/2010/01/espn-mobile-exited-300x208.png" alt="ESPN Mobile vs Standard" title="ESPN Mobile and Standard on Mobile Safari" width="300" height="208" class="size-medium wp-image-934" /></a>
     </dt>
     
     <dd>
@@ -41,7 +41,7 @@ So why do most web developers overlook the iPhone&#8217;s Web Clip icon? It&#821
 <center>
   <dl id="attachment_939" class="wp-caption aligncenter" style="max-width:320px">
     <dt>
-      <a href="http://devin.reams.me/wp/wp-content/uploads/2010/01/compare-web-icons.png"><img src="http://devin.reams.me/wp/wp-content/uploads/2010/01/compare-web-icons.png" alt="Web Application icons vs. thumbnails" title="Web Application icons vs. thumbnails" width="320" height="480" class="size-full wp-image-939" /></a>
+      <a href="https://devin.reams.me/wp/wp-content/uploads/2010/01/compare-web-icons.png"><img src="https://devin.reams.me/wp/wp-content/uploads/2010/01/compare-web-icons.png" alt="Web Application icons vs. thumbnails" title="Web Application icons vs. thumbnails" width="320" height="480" class="size-full wp-image-939" /></a>
     </dt>
     
     <dd>
@@ -63,7 +63,7 @@ One of the less-used features available to iPhone Web Application&#8217;s is the
 <center>
   <dl id="attachment_941" class="wp-caption aligncenter" style="max-width:300px">
     <dt>
-      <a href="http://devin.reams.me/wp/wp-content/uploads/2010/01/iphone-fullscreen.png"><img src="http://devin.reams.me/wp/wp-content/uploads/2010/01/iphone-fullscreen-300x208.png" alt="Compare fullscreen vs. standard" title="Compare fullscreen vs. standard" width="300" height="208" class="size-medium wp-image-941" /></a>
+      <a href="https://devin.reams.me/wp/wp-content/uploads/2010/01/iphone-fullscreen.png"><img src="https://devin.reams.me/wp/wp-content/uploads/2010/01/iphone-fullscreen-300x208.png" alt="Compare fullscreen vs. standard" title="Compare fullscreen vs. standard" width="300" height="208" class="size-medium wp-image-941" /></a>
     </dt>
     
     <dd>

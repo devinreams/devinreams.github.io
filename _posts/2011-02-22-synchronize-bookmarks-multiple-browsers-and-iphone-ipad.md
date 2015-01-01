@@ -17,7 +17,7 @@ And by &#8220;bookmarked&#8221; I don&#8217;t mean a funny article about Sarah P
 
 This thing is stupid simple: install the browser-specific plugins, create an account and you&#8217;re done. It runs in the background and I&#8217;ve never noticed it. I&#8217;ve installed Xmarks on my Macbook Air for Chrome, Safari, and Firefox and everything is always up-to-date, no conflicts, no trouble.
 
-[<img src="http://devin.reams.me/wp/wp-content/uploads/2011/02/safari-bookmarks.png" alt="" title="Safari bookmarks" width="509" height="78" class="aligncenter size-full wp-image-1717" />][5]
+[<img src="https://devin.reams.me/wp/wp-content/uploads/2011/02/safari-bookmarks.png" alt="" title="Safari bookmarks" width="509" height="78" class="aligncenter size-full wp-image-1717" />][5]
 
 This is especially handy since I can transition from one browser to the other and use the address bar the same way: type a few characters of a word, select the website I meant, and hit go. This quick, fluid motion is valuable when visiting thousands of websites each and every day. But, here&#8217;s where it gets interesting&#8230;
 
@@ -25,7 +25,7 @@ This is especially handy since I can transition from one browser to the other an
 
 Arguably, the biggest time suck in my life is typing on an iOS device. I&#8217;m fine at the typing, but I use my iPad and iPhone almost exclusively at home. So, it annoys me to no end to try and type in a long website address with two thumbs.
 
-[<img src="http://devin.reams.me/wp/wp-content/uploads/2011/02/ipad-bookmarks.png" alt="" title="iPad Bookmarks" width="548" height="296" class="aligncenter size-full wp-image-1715" />][7]
+[<img src="https://devin.reams.me/wp/wp-content/uploads/2011/02/ipad-bookmarks.png" alt="" title="iPad Bookmarks" width="548" height="296" class="aligncenter size-full wp-image-1715" />][7]
 
 Though, when a website is saved as a bookmark, the address bar will surface it to you immediate as you start typing. Much like any other address bar, this means I can type just a few characters and almost immediately tap to go. No more &#8220;fiacardservices.com&#8221; typos anymore! No more &#8220;google.com/webmasters/tools&#8221; marathon sessions.
 
@@ -39,6 +39,6 @@ Has anyone experimented with anything else?
  [2]: http://www.obdev.at/products/launchbar/index.html
  [3]: http://blog.mozilla.com/blog/2008/04/21/a-little-something-awesome-about-firefox-3/
  [4]: http://www.xmarks.com
- [5]: http://devin.reams.me/wp/wp-content/uploads/2011/02/safari-bookmarks.png
+ [5]: https://devin.reams.me/wp/wp-content/uploads/2011/02/safari-bookmarks.png
  [6]: http://www.me.com/
- [7]: http://devin.reams.me/wp/wp-content/uploads/2011/02/ipad-bookmarks.png
+ [7]: https://devin.reams.me/wp/wp-content/uploads/2011/02/ipad-bookmarks.png

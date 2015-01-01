@@ -16,4 +16,4 @@ I keep seeing a number of preconceptions floating around out there and arguments
     [What competition is WordPress up against?][2]
 
  [1]: http://www.linkedin.com/today/post/article/20130521094917-18642888-class-of-2013-seek-a-journey-to-the-unobvious
- [2]: http://devin.reams.me/2013/what-competition-is-wordpress-up-against/
+ [2]: https://devin.reams.me/2013/what-competition-is-wordpress-up-against/

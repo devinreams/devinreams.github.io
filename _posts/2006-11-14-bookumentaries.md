@@ -26,7 +26,7 @@ Is there something keeping authors from doing this in the first place? Is it sim
 
 What do you think? Do you read a lot? Would you rather watch an hour documentary on something like [The Tipping Point][3] or [The Starfish and the Spider][4] or spend a few hours to read the book? This is something I&#8217;d really like to do and I&#8217;d like to think out-loud about it a bit more&#8230;
 
- [1]: http://devin.reams.me/2006/time-management/
+ [1]: https://devin.reams.me/2006/time-management/
  [2]: http://www.boxofficemojo.com/genres/chart/?id=documentary.htm
  [3]: http://www.amazon.com/Tipping-Point-Little-Things-Difference/dp/0316346624
  [4]: http://www.amazon.com/Starfish-Spider-Unstoppable-Leaderless-Organizations/dp/1591841437
