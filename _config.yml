@@ -12,7 +12,7 @@ version: 1.4
 # Build settings
 markdown: redcarpet
 redcarpet:
-  extensions: ["strikethrough"]
+  extensions: ["strikethrough", "footnotes"]
 permalink: /:year/:title/
 paginate: 10
 paginate_path: "/page/:num/"
