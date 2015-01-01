@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-## Howdy! I&#8217;m Devin and I help with sales operations at [GitHub][1]. I&#8217;m a twenty-something living (working, and playing) in ~~Denver, Colorado~~ Portland, Maine for a few months. I&#8217;ve been known to [ski][2], jog, and brew my own [beer](http://github.com/devinreams/beer/).
+## Howdy! I&#8217;m Devin and I help with sales operations at [GitHub][1]. I&#8217;m a twenty-something living (working, and playing) in ~~Denver, Colorado~~ Portland, Maine for a few months. I&#8217;ve been known to [ski][2], jog, and brew my own [beer](https://github.com/devinreams/beer/).
 
 <a href="http://photos.devin.reams.me/iceland"><img src="/img/devin-and-rachel-iceland.jpg" alt="Devin and Rachel in Iceland" width="100%"></a>
 
@@ -76,10 +76,10 @@ layout: page
  [1]: https://github.com/
  [2]: http://cosnow.com/
  [3]: http://devinandrachel.com
- [4]: http://devin.reams.me/2014/the-end-of-chapter-1-my-fond-farewell-to-crowd-favorite/
+ [4]: /2014/the-end-of-chapter-1-my-fond-farewell-to-crowd-favorite/
  [5]: http://enterprise.github.com/
  [6]: http://leeds.colorado.edu/
  [7]: http://en.wikipedia.org/wiki/Eagle_Scout_(Boy_Scouts_of_America)
- [8]: http://devin.reams.me/2010/would-you-rent-a-computer-for-100month/
- [9]: http://devin.reams.me/2010/traveling-with-an-ipad/
- [10]: http://devin.reams.me/2011/my-favorite-gadget-jambox-from-jawbone/
+ [8]: /2010/would-you-rent-a-computer-for-100month/
+ [9]: /2010/traveling-with-an-ipad/
+ [10]: /2011/my-favorite-gadget-jambox-from-jawbone/
