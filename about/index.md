@@ -45,7 +45,7 @@ layout: page
 
 ### Professional and WordPress
 
-* Organized the inaugural <a href="http://denver.wordcamp.org/">WordCamp Denver</a>< in February 2009 and the subsequent <a href="http://2010.boulder.wordcamp.org/">WordCamp Boulder</a> in July 2010. WordCamps are locally-hosted conferences about <a href="http://wordpress.org/">WordPress</a>.
+* Organized the inaugural <a href="http://denver.wordcamp.org/">WordCamp Denver</a> in February 2009 and the subsequent <a href="http://2010.boulder.wordcamp.org/">WordCamp Boulder</a> in July 2010. WordCamps are locally-hosted conferences about <a href="http://wordpress.org/">WordPress</a>.
 * Wrote the song and lyrics to <a href="https://devin.reams.me/2007/its-called-wordpress/">It&#8217;s Called WordPress</a> and created the accompanying music video (not sure if this is good or not)
 * Helped host and emcee the &#8220;Developer Track&#8221; at <a href="http://2011.sf.wordcamp.org/">WordCamp San Francisco 2011</a>.
 * Discussed how clients should choose a web developer and/or designer on a panel at <a href="http://2011.orlando.wordcamp.org">WordCamp Orlando 2011</a>.
