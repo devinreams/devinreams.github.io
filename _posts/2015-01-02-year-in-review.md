@@ -140,26 +140,55 @@ We spent a day in Chicago, then visited the Niagara Falls, and then [arrived in 
 
 ## October
 
-Monktoberfest conference
+After camping, we settled into our new (temporary) home in Portland and jumped right in to the Monktoberfest conference.
 
-Private concert
+![img_6239](https://cloud.githubusercontent.com/assets/49511/5597671/72a67b06-9274-11e4-96c0-5e51af5b6365.JPG)
 
-Visited family friend in Lubec
+After the conference, we attended a private house concert hosted by Alex.
 
-Goods from the Woods
+![img_6270](https://cloud.githubusercontent.com/assets/49511/5597679/8f3a3ef6-9274-11e4-9bd6-07600eece428.jpg)
+
+We wasted no time in Maine and spent a weekend [visiting a family friend's cabin up north in Lubec](http://photos.devin.reams.me/visiting-bog-brook-cove).
+
+[![img_6394](https://cloud.githubusercontent.com/assets/49511/5597716/515aa322-9275-11e4-82d9-2146b2ff6172.JPG)](http://photos.devin.reams.me/visiting-bog-brook-cove)
+
+Two weekends later, we drove up north again to Oxbow's annual Goods from the Woods brewery event.
+
+![img_6427](https://cloud.githubusercontent.com/assets/49511/5597695/dd030ff0-9274-11e4-8356-8ee4a60f817d.jpg)
 
 ## November
 
-Visited Las Vegas for AWS re:invent conference
+November came and it was back to traveling. I visited Las Vegas for the AWS re:invent conference. I got to "work the booth" for the first time as a GitHub employee. I also got to stay on the very top floor of the Wynn hotel.
 
-Visited Cancun with Rachel's family for Thanksgiving
+![img_6479](https://cloud.githubusercontent.com/assets/49511/5597705/023c6514-9275-11e4-971b-e16a28be027f.jpg)
 
-Chopped down a Christmas tree
+Later in the month, Rachel's family and I all visited Cancun for Thanksgiving (Graciasgiving?). Time on the beach away from work made for a nice relaxing week.
+
+![img_6533](https://cloud.githubusercontent.com/assets/49511/5597712/37ec6d44-9275-11e4-9e18-f1440a316f52.JPG)
+
+We returned from sunny Mexico and headed out into the woods to chop down a Christmas tree together.
+
+![img_6604](https://cloud.githubusercontent.com/assets/49511/5597723/755d3ed8-9275-11e4-9ae7-7d4bf980e6b5.JPG)
 
 ## December
 
-Visited Boston to see the Nutcracker
+We visited Boston for a weekend to see the Nutcracker and then fly back home for the holidays.
 
-Visited Denver to see family and friends
+![img_6641](https://cloud.githubusercontent.com/assets/49511/5597728/976d96e4-9275-11e4-9409-35ad7c103856.jpg)
 
-Rang in 2014 with friends back in Freeport, Maine
+We visited Boston Common as families took advantage of the ice skating rink.
+
+![img_6664](https://cloud.githubusercontent.com/assets/49511/5597735/b944803e-9275-11e4-950a-26894b2ca94f.jpg)
+
+Back in Denver we saw family and friends. We then spent most of the week sick with the flu (poor Rachel).
+
+![img_6724](https://cloud.githubusercontent.com/assets/49511/5597741/d080cdfc-9275-11e4-8a6f-067426d0c592.JPG)
+
+After regaining our health, we flew back to Maine on December 31st and rang in 2014 with our friends back in Freeport.
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/xTVHHTDYBT/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Happy &amp; Merry 2015!</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by MK O&#39;Grady (@girltuesday) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-01-01T06:55:23+00:00">Dec 12, 2014 at 10:55pm PST</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+---
+
+It was a big year and I think 2015 will be even bigger. Here's to more adventures in the coming months!
