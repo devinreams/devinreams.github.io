@@ -47,26 +47,40 @@ Later in the month Rachel and I [visited our friends in Boston and Maine](http:/
 
 [![img_3216](https://cloud.githubusercontent.com/assets/49511/5597260/14988ba0-926d-11e4-99f2-3d43c128170e.JPG)](http://photos.devin.reams.me/iceland)
 
-
 ## April
 
-Visited New Orleans
+In April a big group of us [met up with Alex](http://alexking.org/blog/thread/2014-walkabout) in New Orleans. Corey hired our own band for [our own parade](https://www.youtube.com/watch?v=TnvLT5bzIzs).
 
-Learned about grafitti
+![img_3423](https://cloud.githubusercontent.com/assets/49511/5597316/4d13839e-926e-11e4-8b2d-1a0e390c8807.jpg)
+
+Back in San Francisco, some GitHubbers :octocat: and I [learned all about grafitti and made some of our own](http://photos.devin.reams.me/github-grafitti).
+
+[![img_3492](https://cloud.githubusercontent.com/assets/49511/5597341/c6882f68-926e-11e4-8517-019fc680a041.jpg)](http://photos.devin.reams.me/github-grafitti)
 
 ## May
 
-Celebrated Rachel's birthday at a spa
+Rachel and I celebrated her birthday at a spa in Denver. We spent hour and hours there getting everything and anything done. I even had a pedicure.
 
-Visited Salt Lake City
+![img_3595](https://cloud.githubusercontent.com/assets/49511/5597358/fe3f4bb2-926e-11e4-80b5-497203352ebc.JPG)
 
-Trip to Japan
+We then [visited Rachel's family in Salt Lake City](http://photos.devin.reams.me/visiting-salt-lake-city) and I got to see the Mormon Temple (and dozens of weddings).
+
+[![img_3635](https://cloud.githubusercontent.com/assets/49511/5597365/274868a4-926f-11e4-9805-6e6d8fd1c8b9.jpg)](http://photos.devin.reams.me/visiting-salt-lake-city)
+
+I also had the distinct pleasure of [traveling to Japan](http://photos.devin.reams.me/visiting-tokyo) to meet with GitHub customers and host a few meetup events. I had a great time and hope to visit again soon.
+
+[![img_3810](https://cloud.githubusercontent.com/assets/49511/5597397/9d37d734-926f-11e4-9170-c9d922103ac3.jpg)
+](http://photos.devin.reams.me/visiting-tokyo)
 
 ## June
 
-Summer road trip and camping: Wyoming, South Dakota, Nebraska
+Rachel and I [spent a week in June road tripping and camping through Wyoming, South Dakota, and Nebraska](http://photos.devin.reams.me/2014-summer-road-trip). Neither of us had spent much time in these states and we had some destinations in mind: Devil's Tower, The Black Hills, Mount Rushmore, Crazy Horse, Badlands, De Smet (Little Town on the Prairie), Sioux Falls, Omaha, and Fort Collins. We had a great time seeing sights and listening to lots of podcasts.
 
-Camping at Green Mountain Reservoir
+[![img_4067](https://cloud.githubusercontent.com/assets/49511/5597443/4c3a34c0-9270-11e4-8f79-3203eca2228d.JPG)](http://photos.devin.reams.me/2014-summer-road-trip)
+
+We returned from our road trip and proceeded to go [camping with friends up at Green Mountain Reservoir](http://photos.devin.reams.me/surprise-lake). We also hiked Lake Surprise nearby and had a great time in "our own backyard" in Colorado.
+
+[![img_5556](https://cloud.githubusercontent.com/assets/49511/5597458/8731a7ca-9270-11e4-838c-28a966886a77.jpg)](http://photos.devin.reams.me/surprise-lake)
 
 ## July
 
