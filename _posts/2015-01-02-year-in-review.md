@@ -15,23 +15,38 @@ Looking at each month of 2014...
 
 ## January
 
-Started at GitHub as a Technical Account Manager, spent all month out there
+In January I started my second chapter of my career by [joining GitHub](https://github.com/blog/1748-devin-reams-is-a-githubber) as a Technical Account Manager. I actually spent every week of January flying back and forth between San Francisco and Denver (I had to ski on the weekends!).
 
-Big Beers and Barleywines Festival
+![img_2729](https://cloud.githubusercontent.com/assets/49511/5597129/04105828-926b-11e4-8d08-1688d8b15795.jpg)
+
+January also included my visiting the [Big Beers, Belgians and Barleywines Festival](http://www.bigbeersfestival.com) in Vail which was one of my favorite conferences, not just because it was all about beer, I've ever attended.
+
+![img_2699](https://cloud.githubusercontent.com/assets/49511/5597115/c0e9d358-926a-11e4-864d-7df6d5524903.jpg)
 
 ## February
 
-Skied for Hope on the Slopes
+In February a group of friends and I all worked together to raise money for [Hope on the Slopes](http://hopeontheslopes.net), which has raised more than $4 million dollars for the American Cancer Society since 2003.
 
-Lots of skiing
+![epicmixphoto83271233](https://cloud.githubusercontent.com/assets/49511/5597148/5d56f6b2-926b-11e4-8ab0-32a5f975b4b9.jpg)
+
+I didn't get to ski as much as I would hope in February but I definitely tried to make those two days count for something.
+
+![screen shot 2015-01-02 at 10 42 02 am](https://cloud.githubusercontent.com/assets/49511/5597194/20506b8a-926c-11e4-931a-1773d38bf531.png)
 
 ## March
 
-Bought a Prius
+In March, Rachel and I decided to buy a new car. We picked up a used 2011 Toyota Prius that had only previously been used as a fleet car. We've been really happy having a "new" car with excellent gas mileage for Rachel's daily commutes.
 
-Visited Boston and Maine
+![img_3346](https://cloud.githubusercontent.com/assets/49511/5597205/5cfbd088-926c-11e4-912b-7ac32815418b.jpg)
 
-Trip to Iceland
+Later in the month Rachel and I [visited our friends in Boston and Maine](http://photos.devin.reams.me/st-patricks-day). We decided to throw together a mini-trip on our way out to Iceland.
+
+[![img_2927](https://cloud.githubusercontent.com/assets/49511/5597229/9f24ce9c-926c-11e4-9047-8896f414c7fa.JPG)](http://photos.devin.reams.me/st-patricks-day)
+
+[Visiting Iceland](http://photos.devin.reams.me/iceland) was one of the major highlights of my year. We saw amazing sights, enjoyed road tripping around the island — seeing glaciers, volcanoes, waterfalls, oh my — and learned a lot about the country. Oh, and enjoyed in-water massages!
+
+[![img_3216](https://cloud.githubusercontent.com/assets/49511/5597260/14988ba0-926d-11e4-99f2-3d43c128170e.JPG)](http://photos.devin.reams.me/iceland)
+
 
 ## April
 
