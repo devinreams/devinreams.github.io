@@ -84,31 +84,59 @@ We returned from our road trip and proceeded to go [camping with friends up at G
 
 ## July
 
-Visited Salt Lake City and Idaho
+We made a trip back out to Salt Lake City to see Rachel's family and also made a road trip up to Idaho to see where her parents grew up.
 
-Saw Chihuly at Denver Botanic Gardens (nearly 3 years after wedding)
+![img_5597](https://cloud.githubusercontent.com/assets/49511/5597497/413bf7d8-9271-11e4-99e9-bbaeca2c870a.jpg)
 
-Visited Whistler for GitHub Summit
+Nearly three years after being married at The Denver Botanic Gardens, we returned and saw the [Chihuly glass exhibit](http://photos.devin.reams.me/chihuly-at-denver-botanic-gardens).
+
+[![img_5651](https://cloud.githubusercontent.com/assets/49511/5597515/72808f66-9271-11e4-957c-5c482c697724.JPG)](http://photos.devin.reams.me/chihuly-at-denver-botanic-gardens)
+
+Mid-month, 230 of my colleagues and I visited [Whistler for the 2014 GitHub Summit](http://photos.devin.reams.me/summit-whistler). I had never been up to Whistler before and really enjoyed the sights.
+
+[![img_5659](https://cloud.githubusercontent.com/assets/49511/5597522/a2a26390-9271-11e4-8970-626666f346bb.jpg)](http://photos.devin.reams.me/summit-whistler)
+
+At this point, we started making some changes to our (sales) team at work and I made a horizontal move into a different role.
 
 ## August
 
-Visited Houston for training
+Rachel left her job to work on her MBA degree full-time. So, she joined me on a week trip out to Houston for some training. It was a nice resort so I think Rachel had a great first week "off of work".
 
-Camped near Pagosa Springs and hiked with llamas
+![img_5844](https://cloud.githubusercontent.com/assets/49511/5597540/03f5fe7c-9272-11e4-97aa-331180b2bc20.JPG)
 
-Visited Sonoma (and Lagunitas and Russian River) during Sales Hack House
+We returned home and [spent a weekend camping down near Pagosa Springs](http://photos.devin.reams.me/camping-in-salida). The next morning we woke up and hiked with llamas. This was one of the best "experiences" Rachel could buy with her remaining "corporate points" from work. It was the perfect use of those points.
 
-Rachel and my parents visited SF, we saw a Giants game from the GitHub suite
+![img_5825](https://cloud.githubusercontent.com/assets/49511/5597562/6f39784e-9272-11e4-8e12-086b91231a47.jpg)
+
+I then had the distinct privilege of visiting Sonoma (which included quick stops in to Lagunitas and Russian River breweries) for a "Sales Team Hack House".
+
+![img_5832](https://cloud.githubusercontent.com/assets/49511/5597572/a2ba5f08-9272-11e4-99c0-78f4e3d50376.jpg)
+
+Two weeks later, both Rachel and my parents visited San Francisco while I was out visiting for work. We all got to see a Giants game from the company suite.
+
+![img_5864](https://cloud.githubusercontent.com/assets/49511/5597578/cd178456-9272-11e4-9ee8-a5fbd6933f4b.JPG)
 
 ## September
 
-Trip to Lake Powell on a house boat
+Thanks to the magic of end-of-season deals, a group of friends and I took a [trip to Lake Powell](http://photos.devin.reams.me/lake-powell) and rented a house boat for a couple days. I had a great time and was able to get some quality "off the grid" time.
 
-Trip to Palisade for wine tasting
+![img_5898](https://cloud.githubusercontent.com/assets/49511/5597597/0d04abf2-9273-11e4-8ac4-17431e46d66f.jpg)
 
-Visited SF with Rachel to run the Ragnar Relay through wine country
+Rachel and and a friend and I then took a trip up to Palisade for some regional wine tasting. Having done tastings in California, we confirmed Colorado was a bit more quaint and quiet. We rented a cheap Airbnb and rode around town on bikes. It was a nice getaway weekend.
 
-Packed up and drove across the country to temporarily move to Portland, Maine
+![img_5957](https://cloud.githubusercontent.com/assets/49511/5597611/4820c388-9273-11e4-8ed4-209d0678deb5.jpg)
+
+Rachel and I then traveld back to San Francisco to run in [Ragnar Relay](https://www.ragnarrelay.com/race/napavalley) through wine country. We had 12 team members run 30 hours over nearly 200 miles that weekend.
+
+![img_6009](https://cloud.githubusercontent.com/assets/49511/5597626/a670811c-9273-11e4-991c-d3aaf6815807.jpg)
+
+After a day of rest we flew back home, packed up our worldly possessions and a day later started [our drive across the country towards Portland, Maine](http://photos.devin.reams.me/driving-to-maine).
+
+[![img_6039](https://cloud.githubusercontent.com/assets/49511/5597638/e76bfe3a-9273-11e4-9075-a8acd5e10a6f.jpg)](http://photos.devin.reams.me/driving-to-maine)
+
+We spent a day in Chicago, then visited the Niagara Falls, and then [arrived in upstate Maine to spend the weekend camping with friends](http://photos.devin.reams.me/camping-at-mount-blue).
+
+[![img_6166](https://cloud.githubusercontent.com/assets/49511/5597654/2a5e314a-9274-11e4-88a6-8914400e6483.JPG)](http://photos.devin.reams.me/camping-at-mount-blue)
 
 ## October
 
