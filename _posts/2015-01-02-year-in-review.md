@@ -5,6 +5,14 @@ permalink: "/2015/2014-year-in-review/"
 published: true
 ---
 
+When looking back on the past year I've realized what a fun, crazy, busy and privileged life I lead in 2014. I consider myself very lucky to have the experiences and opportunities I've had: [I started working for GitHub](https://devin.reams.me/2014/chapter-2-github/), Rachel and I enjoyed some great trips together, and we temporarily [moved across the country from Denver to Portland, Maine](https://devin.reams.me/2014/photos-driving-to-maine/)...
+
+This graph shows [my contributions](https://github.com/devinreams) on GitHub.com (Pull Requests, issues opened, and commits) which is where I spent most of my working hours this year. It's fun to see the gaps in activity as the absence of activity tells as much a story as the activities themselves.
+
+![contribution-graph](https://cloud.githubusercontent.com/assets/49511/5596986/9212c6cc-9268-11e4-9e90-199f57c50641.png)
+
+Looking at each month of 2014...
+
 ## January
 
 Started at GitHub as a Technical Account Manager, spent all month out there
