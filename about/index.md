@@ -4,18 +4,18 @@ layout: page
 ---
 
 
-## Howdy! I&#8217;m Devin and I help with sales operations at [GitHub](https://github.com/). I&#8217;m a twenty-something living (working, and playing) in ~~Denver, Colorado~~ Portland, Maine for a few months. I&#8217;ve been known to [ski](http://cosnow.com/), jog, and brew my own [beer](https://github.com/devinreams/beer/).
+### Howdy! I'm Devin and I help with sales operations at [GitHub](https://github.com/). I'm a twenty-something living (working, and playing) in ~~Denver, Colorado~~ Portland, Maine for a few months. I've been known to [ski](http://cosnow.com/), [jog](http://runkeeper.com/profile?username=devinreams), and brew my own [beer](https://github.com/devinreams/beer/).
 
 <a href="http://photos.devin.reams.me/iceland"><img src="/img/devin-and-rachel-iceland.jpg" alt="Devin and Rachel in Iceland" width="100%"></a>
 
 ## Quick Facts
 
-*   I&#8217;m [married to my best friend](http://devinandrachel.com), Rachel.
-*   I help with sales and business operations at [GitHub](https://github.com/about/).
-*   I previously helped manage things at [Crowd Favorite](/2014/the-end-of-chapter-1-my-fond-farewell-to-crowd-favorite/).
-*   I grew up in Colorado, [studied here](http://leeds.colorado.edu/), and see us sticking around here.
-*   I love to [ski][2], camp, and hike. I&#8217;ve been known to play golf on occasion.
-*   I&#8217;m an Eagle Scout (and I thought I would be a park ranger when I grew up).
+- I'm [married to my best friend](http://devinandrachel.com), Rachel.
+- I help with sales and business operations at [GitHub](https://github.com/about/).
+- I previously helped manage things at [Crowd Favorite](/2014/the-end-of-chapter-1-my-fond-farewell-to-crowd-favorite/).
+- I grew up in Colorado, [studied here](http://leeds.colorado.edu/), and see us sticking around here.
+- I love to [ski](http://cosnow.com/), camp, and hike. I've been known to play golf on occasion.
+- I'm an Eagle Scout (and I thought I would be a park ranger when I grew up).
 
 ## Contact
 
@@ -30,24 +30,24 @@ layout: page
 
 ###  Gadgets
 
-*   [MacBook Air](/2010/would-you-rent-a-computer-for-100month/), (11-inch, Mid 2013)
-*   iPhone 6 (Silver)
-*   [iPad mini 2](/2010/traveling-with-an-ipad/) (2013)
-*   [JAMBOX](/2011/my-favorite-gadget-jambox-from-jawbone/)
-*   Sonos (in 4 rooms)
-*   Apple TV
-*   Kindle Paperwhite
-*   PlayStation 3
-*   Nintendo Wii
-*   Synology DS213j
+- [MacBook Air](/2010/would-you-rent-a-computer-for-100month/), (11-inch, Mid 2013)
+- iPhone 6 (Silver)
+- [iPad mini 2](/2010/traveling-with-an-ipad/) (2013)
+- [JAMBOX](/2011/my-favorite-gadget-jambox-from-jawbone/)
+- Sonos (in 4 rooms)
+- Apple TV
+- Kindle Paperwhite
+- PlayStation 3
+- Nintendo Wii
+- Synology DS213j
 
 ### Software
 
-*   [Atom](http://atom.io/) for text editing
-*   [Safari](https://www.apple.com/safari/) for web browsing at work and home
-*   [GitHub](https://github.com/) for collaboration
-*   [Gmail](https://mail.google.com/) for work and personal email
-*   [Slack](https://slack.com) for personal chat
+- [Atom](http://atom.io/) for text editing
+- [Safari](https://www.apple.com/safari/) for web browsing at work and home
+- [GitHub](https://github.com/) for collaboration
+- [Gmail](https://mail.google.com/) for work and personal email
+- [Slack](https://slack.com) for personal chat
 
 ## Highlights
 
