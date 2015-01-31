@@ -4,27 +4,36 @@ layout: page
 ---
 
 
-## Howdy! I&#8217;m Devin and I help with sales operations at [GitHub][1]. I&#8217;m a twenty-something living (working, and playing) in ~~Denver, Colorado~~ Portland, Maine for a few months. I&#8217;ve been known to [ski][2], jog, and brew my own [beer](https://github.com/devinreams/beer/).
+## Howdy! I&#8217;m Devin and I help with sales operations at [GitHub](https://github.com/). I&#8217;m a twenty-something living (working, and playing) in ~~Denver, Colorado~~ Portland, Maine for a few months. I&#8217;ve been known to [ski](http://cosnow.com/), jog, and brew my own [beer](https://github.com/devinreams/beer/).
 
 <a href="http://photos.devin.reams.me/iceland"><img src="/img/devin-and-rachel-iceland.jpg" alt="Devin and Rachel in Iceland" width="100%"></a>
 
 ## Quick Facts
 
-*   I&#8217;m [married to my best friend][3], Rachel.
-*   I help with sales and business operations at [GitHub][5].
-*   I previously helped manage things at [Crowd Favorite][4].
-*   I grew up in Colorado, [studied here][6], and see us sticking around here.
+*   I&#8217;m [married to my best friend](http://devinandrachel.com), Rachel.
+*   I help with sales and business operations at [GitHub](https://github.com/about/).
+*   I previously helped manage things at [Crowd Favorite](/2014/the-end-of-chapter-1-my-fond-farewell-to-crowd-favorite/).
+*   I grew up in Colorado, [studied here](http://leeds.colorado.edu/), and see us sticking around here.
 *   I love to [ski][2], camp, and hike. I&#8217;ve been known to play golf on occasion.
-*   I&#8217;m an [Eagle Scout][7] (and I thought I would be a park ranger when I grew up).
+*   I&#8217;m an Eagle Scout (and I thought I would be a park ranger when I grew up).
+
+## Contact
+
+- [GitHub](https://github.com/devinreams)
+- [Twitter](https://twitter.com/devinreams)
+- [Facebook](https://facebook.com/devinreams)
+- [Foursqure](https://foursquare.com/devinreams)
+- [Untappd](https://untappd.com/user/devinreams)
+- [Email](mailto:devin@reams.me)
 
 ## Setup
 
 ###  Gadgets
 
-*   [MacBook Air][8], (11-inch, Mid 2013)
+*   [MacBook Air](/2010/would-you-rent-a-computer-for-100month/), (11-inch, Mid 2013)
 *   iPhone 6 (Silver)
-*   [iPad mini 2][9] (2013)
-*   [JAMBOX][10]
+*   [iPad mini 2](/2010/traveling-with-an-ipad/) (2013)
+*   [JAMBOX](/2011/my-favorite-gadget-jambox-from-jawbone/)
 *   Sonos (in 4 rooms)
 *   Apple TV
 *   Kindle Paperwhite
@@ -34,12 +43,11 @@ layout: page
 
 ### Software
 
-*   Atom for text editing
-*   Chrome for web browsing at work
-*   GitHub for collaboration
-*   Gmail for work and personal email
-*   Safari for personal web browsing
-*   Slack for personal chat
+*   [Atom](http://atom.io/) for text editing
+*   [Safari](https://www.apple.com/safari/) for web browsing at work and home
+*   [GitHub](https://github.com/) for collaboration
+*   [Gmail](https://mail.google.com/) for work and personal email
+*   [Slack](https://slack.com) for personal chat
 
 ## Highlights
 
@@ -70,14 +78,3 @@ layout: page
 * Volunteered as an <a href="http://www.dmoz.org/public/profile?editor=devdev">Editor</a> of the Open Directory Project. I worked up to three third-level categories (most proud: Regional: Europe: Spain) through countless hours of work after school.
 * Contributed as a technical writer to the <a href="http://www.unrealircd.com">Unreal IRC daemon</a> a very long time ago. Was credited with early contributions to version 3.2 betas.
 * Volunteered as an editor for Jeremy Wright&#8217;s book, <a href="http://www.blogmarketingbook.com/">Blog Marketing</a>.
-
- [1]: https://github.com/
- [2]: http://cosnow.com/
- [3]: http://devinandrachel.com
- [4]: /2014/the-end-of-chapter-1-my-fond-farewell-to-crowd-favorite/
- [5]: http://enterprise.github.com/
- [6]: http://leeds.colorado.edu/
- [7]: http://en.wikipedia.org/wiki/Eagle_Scout_(Boy_Scouts_of_America)
- [8]: /2010/would-you-rent-a-computer-for-100month/
- [9]: /2010/traveling-with-an-ipad/
- [10]: /2011/my-favorite-gadget-jambox-from-jawbone/
