@@ -122,11 +122,11 @@ Thanks to the magic of end-of-season deals, a group of friends and I took a [tri
 
 ![img_5898](https://cloud.githubusercontent.com/assets/49511/5597597/0d04abf2-9273-11e4-8ac4-17431e46d66f.jpg)
 
-Rachel and and a friend and I then took a trip up to Palisade for some regional wine tasting. Having done tastings in California, we confirmed Colorado was a bit more quaint and quiet. We rented a cheap Airbnb and rode around town on bikes. It was a nice getaway weekend.
+Rachel and a friend and I then took a trip up to Palisade for some regional wine tasting. Having done tastings in California, we confirmed Colorado was a bit more quaint and quiet. We rented a cheap Airbnb and rode around town on bikes. It was a nice getaway weekend.
 
 ![img_5957](https://cloud.githubusercontent.com/assets/49511/5597611/4820c388-9273-11e4-8ed4-209d0678deb5.jpg)
 
-Rachel and I then traveld back to San Francisco to run in [Ragnar Relay](https://www.ragnarrelay.com/race/napavalley) through wine country. We had 12 team members run 30 hours over nearly 200 miles that weekend.
+Rachel and I then traveled back to San Francisco to run in [Ragnar Relay](https://www.ragnarrelay.com/race/napavalley) through wine country. We had 12 team members run 30 hours over nearly 200 miles that weekend.
 
 ![img_6009](https://cloud.githubusercontent.com/assets/49511/5597626/a670811c-9273-11e4-991c-d3aaf6815807.jpg)
 
