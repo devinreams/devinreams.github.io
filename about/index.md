@@ -3,8 +3,7 @@ title: About
 layout: page
 ---
 
-
-### Howdy! I'm Devin and I help with sales operations at [GitHub](https://github.com/). I'm a twenty-something living (working, and playing) in ~~Denver, Colorado~~ Portland, Maine for a few months. I've been known to [ski](http://cosnow.com/), [jog](http://runkeeper.com/profile?username=devinreams), and brew my own [beer](https://github.com/devinreams/beer/).
+### Howdy! I'm Devin and I help with sales operations at [GitHub](https://github.com/). I'm a twenty-something living (working, and playing) in Denver, Colorado. I've been known to [ski](http://cosnow.com/), [jog](http://runkeeper.com/profile?username=devinreams), and brew my own [beer](https://github.com/devinreams/beer/).
 
 <a href="http://photos.devin.reams.me/iceland"><img src="/img/devin-and-rachel-iceland.jpg" alt="Devin and Rachel in Iceland" width="100%"></a>
 
@@ -13,9 +12,10 @@ layout: page
 - I'm [married to my best friend](http://devinandrachel.com), Rachel.
 - I help with sales and business operations at [GitHub](https://github.com/about/).
 - I previously helped manage things at [Crowd Favorite](/2014/the-end-of-chapter-1-my-fond-farewell-to-crowd-favorite/).
-- I grew up in Colorado, [studied here](http://leeds.colorado.edu/), and see us sticking around here.
+- I grew up in Colorado, [studied here](http://leeds.colorado.edu/), and imagine us sticking around here. Though, I really like traveling and visiting new places.
 - I love to [ski](http://cosnow.com/), camp, and hike. I've been known to play golf on occasion.
-- I'm an Eagle Scout (and I thought I would be a park ranger when I grew up).
+
+<img src="https://camo.githubusercontent.com/00f741879cce185cc3c8283b4190da6785849416/687474703a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f626c6f672f323031332f68697265732f646576696e2d7265616d732e676966">
 
 ## Contact
 
