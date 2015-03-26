@@ -9,7 +9,7 @@ Six months ago I [joined](https://github.com/blog/1748-devin-reams-is-a-githubbe
 
 ### What is GitHub?
 
-<div style="float:right"><img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="250px"></div>GitHub's goal is to help individuals and organizations build better software, together. We do this by providing tools that enable teams to collaborate quickly and easily, and produce higher-quality results than possible with other tools and philosophies. We use GitHub to build GitHub.
+<div style="float:right"><img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="250"></div>GitHub's goal is to help individuals and organizations build better software, together. We do this by providing tools that enable teams to collaborate quickly and easily, and produce higher-quality results than possible with other tools and philosophies. We use GitHub to build GitHub.
 
 Our roots are based in the open source community but we also understand very large organizations (and their workflows, needs, challenges, benefits, etc.).
 
