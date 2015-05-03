@@ -16,9 +16,8 @@ title: Home
   {% if post.layout == "link" %}
     <h1 class="post-title">
       <a href="{{ post.link }}" title="External link to {{ post.title }}">{{ post.title }}</a>&nbsp;→
+      <small style="float:right"><a href="{{ post.url }}">¶</a></small>
     </h1>
-
-    <small style="float:right"><a href="{{ post.url }}">¶</a></small>
 
     {{ post.content }}
 
