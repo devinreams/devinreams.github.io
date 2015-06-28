@@ -3,26 +3,26 @@ title: Lessons learned moving away from home
 layout: post
 ---
 
-We spent six months in Portland, Maine this past fall and winter. We had two opportunities ([driving our east](driving-to-maine) and [driving back home](/driving-home-from-maine)) to see a lot of the country we hadn't before. We made the most of a [very snowy winter](/winter-in-maine) and [kept running](/running-around-portland), skiing, and hiking.
+[Rachel](http://rstephens.me) and I packed up and spent six months in Portland, Maine this past fall and winter. In case you missed it: we had two opportunities to see a lot of the country we hadn't before ([driving our east](driving-to-maine) and [driving back home](/driving-home-from-maine)). We also made the most of a [very snowy winter](/winter-in-maine) and [kept running](/running-around-portland), skiing, and hiking.
 
-Friends (and family) would usually ask a variation on the same few questions: Are you moving for work? Had you been there before? Why would you want to be on the east coast in the winter? Are you coming back? Did you sell your house? Well, why did you move, then?
+Friends (and family) would usually ask a variation on the same few questions: Are you moving because of work? Had you been there before? Are you crazy spending a winter on the east coast? Are you coming back? Did you sell your house? ... Well, why did you go, then?
 
 No. Yes. Yes. Yes. No. Just because.
 
 ---
 
-Both Rachel and I grew up in Colorado and had never spent much time any further than an hour away from our childhood homes. Sure, we've both traveled all over, but never fully adjusted and become a "local" anywhere outside of the Denver area.
+Both Rachel and I grew up in Colorado and hadn't spent much time any further than an hour away from our childhood homes. Sure, we've both traveled all over, but never fully immersed ourselves and become "locals" outside of the Denver area.
 
-Rachel recently left her job and shifted to focusing on her MBA full-time and I [changed careers](/2014/chapter-2-github/) affording us both the ability to pick up and live somewhere else. And knowing our friend @cfg was moving to Maine from Boston to put down roots: we invited ourselves to help him move in at the end of the summer. :house:
+Since Rachel left her job to focus on her MBA studies full-time and I [changed careers](/2014/chapter-2-github/) this afforded us the ability to pick up and live somewhere else with very little "tieing us down". And knowing our friend @cfg was moving to Maine from Boston to put down roots: we invited ourselves to help him move in at the end of the summer. :house:
 
-Our "little adventure" as we like to call it was intentioanlly meant to:
+Our "little adventure" as we like to call it was intentionally meant to:
 
 - spend an extended period of time away from home
 - experience a different (but friendly and familiar) town
 - reset our comfortable routines
 - simplify our lives
 
-We were successful and learned a lot about ourselves and our lives. I'll try to summarize our groundbreaking realizations as follows:
+We were successful and learned a lot about ourselves (and our lives). I'll try to summarize our groundbreaking realizations as follows:
 
 1. Relationships are life
 2. Try new things, remain curious
@@ -33,7 +33,7 @@ Riveting, right?
 
 ## Relationships are life
 
-Being in Maine meant we were both physically far from our families for extended periods. I failed to appreciate the ability to stop and visit with Rachel's parents or my own. Being nearby makes that easy and the time spent together is invaluable.
+Being in Maine meant we were both physically far from our families for extended periods. I failed to appreciate the ability to stop and visit with Rachel's parents or my own at the drop of a hat. Being nearby makes that easy and the time spent together is invaluable.
 
 Since being back, my Dad and I have a standing weekly coffee meeting to catch up. Rachel and I also visit at least one of our families almost every weekend. I could probably do a better job calling mom more often.
 
@@ -47,10 +47,10 @@ Trying new things hopefully also comes with learning new things ... and I love t
 
 It took some time and effort but we eventually felt like we started to get to know a lot of little bits of Portland and weave those stories together:
 
-- how things work different: like which streets you can park on, how snow plowing works when you get two feet in a weekend, where does it go? where do all the cars go?
-- how things are interconnected: like the family that owns three restaurants in town and how they are all similar but unique.
-- some history: like how the industries in Maine are shifting, the role of government in business, why you pay for city-provided recycling and trash bags.
-- new people: like the owner-managers at the restaurant down the street, the old man who started driving Uber and pointed out the house he was born in just down the block from ours, and the friendly staff at the local breweries that love to chat about how great Colorado is (right?).
+- how things work different: like which streets you can park on and where the seven feet of snow goes after being plowed.
+- how things are interconnected: like the family that owns three restaurants in town and how they are all a little unique.
+- some history: like how the industries in Maine are changing and why you pay for city-provided recycling and trash bags.
+- new people: like the old man who started driving Uber X and pointed out the house he was born in just down the block from ours and the friendly staff at the local brewery that love to chat about how great Colorado is (right?).
 
 Since everything (store, restaurant) was brand new to me, I spent more time trying to figure out the story behind it. I realized I was starting to lose that curiosity back home: our own neighborhood was changing but I hadn't paid attention to the specifics around how or why. We also have new restaurants in town but I wasn't taking any time to learn more about the chefs and their backgrounds like I was in Portland. Since being home I've rebooted my curiosity of the things around us.
 
@@ -60,7 +60,7 @@ We arrived in Maine with just the items we could fit in our Prius. A subsection 
 
 Sure, some days I might'ved missed my fancy desk chair, or two-headed shower, or coffee grinder, or night stand with the cute lamp, or those fancy brown shoes I only sometimes wear. But it didn't matter. There are other chairs. I could still wash my hair and drink good coffee. Life was fine and nothing was truly "missing" from it.
 
-We all hear this and know this: less is more, material comfort isn't everything. After returning home we 'purged' a lot of clothing and "things" from our life. This refreshed perspective also us a few weeks ago when our basement (primarily living space, master bedroom, etc.) flooded. Nothing was truly 'lost', life is fine.
+We all hear this and know this: less is more, material comfort isn't everything. After returning home we purged lots of clothing and "things" from our life. This refreshed perspective also us a few weeks ago when our basement (primary living space) flooded. Nothing was truly 'lost', life is fine.
 
 ## Don't work too much
 
@@ -72,4 +72,4 @@ Since being home, I've contintually reconsidered how to do more with less, say '
 
 ---
 
-**There are no new lessons in anything described above. Most of us have heard and know these things. But, taking the time to "reset" and intentionally get out of our comfort zone helped us come back and realize these things we already knew and make sure our behavior supported them.**
+**There are no new lessons in anything described above. Most of us have heard and know these things. But, taking the time to "reset" and intentionally get out of our comfort zone helped us come back and realize these things we already knew and make sure our behavior matched them.**
