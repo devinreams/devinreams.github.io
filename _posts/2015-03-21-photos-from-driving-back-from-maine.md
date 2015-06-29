@@ -1,7 +1,7 @@
 ---
 title: Driving home to Colorado from Maine
 layout: link
-link: "http://photos.devin.reams.me/driving-home-from-maine"
+link: "https://photos.devin.reams.me/driving-home-from-maine"
 ---
 
 As Maine started to thaw out and the seven-foot snow pile melted down to three, Rachel and I packed our Prius :car: and aimed for Colorado.
@@ -32,4 +32,4 @@ Some highlights included:
 - eating delicious BBQ in Kansas City :meat_on_bone:
 
 
-We had a great time and made it back home to Denver in six (short?) days. Check out [our photos from driving home across the country](http://photos.devin.reams.me/driving-home-from-maine) over at [Exposure](https://exposure.co/).
+We had a great time and made it back home to Denver in six (short?) days. Check out [our photos from driving home across the country](https://photos.devin.reams.me/driving-home-from-maine) over at [Exposure](https://exposure.co/).
