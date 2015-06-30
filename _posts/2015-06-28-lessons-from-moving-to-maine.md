@@ -52,7 +52,7 @@ It took some time and effort but we eventually felt like we started to get to kn
 - some history: like how the industries in Maine are changing and why you pay for city-provided recycling and trash bags.
 - new people: like the old man who started driving Uber X and pointed out the house he was born in just down the block from ours and the friendly staff at the local brewery that love to chat about how great Colorado is (right?).
 
-Since everything (store, restaurant) was brand new to me, I spent more time trying to figure out the story behind it. I realized I was starting to lose that curiosity back home: our own neighborhood was changing but I hadn't paid attention to the specifics around how or why. We also have new restaurants in town but I wasn't taking any time to learn more about the chefs and their backgrounds like I was in Portland. Since being home I've rebooted my curiosity of the things around us.
+Since everything (stores, restaurants) was brand new to me, I spent more time trying to figure out the story behind it. I realized I was starting to lose that curiosity back home: our own neighborhood was changing but I hadn't paid attention to the specifics around how or why. We also have new restaurants in town but I wasn't taking any time to learn more about the chefs and their backgrounds like I was in Portland. Since being home I've rebooted my curiosity of the things around us.
 
 ## Less is more
 
@@ -60,7 +60,7 @@ We arrived in Maine with just the items we could fit in our Prius. A subsection 
 
 Sure, some days I might'ved missed my fancy desk chair, or two-headed shower, or coffee grinder, or night stand with the cute lamp, or those fancy brown shoes I only sometimes wear. But it didn't matter. There are other chairs. I could still wash my hair and drink good coffee. Life was fine and nothing was truly "missing" from it.
 
-We all hear this and know this: less is more, material comfort isn't everything. After returning home we purged lots of clothing and "things" from our life. This refreshed perspective also us a few weeks ago when our basement (primary living space) flooded. Nothing was truly 'lost', life is fine.
+We all hear this and know this: less is more, material comfort isn't everything. After returning home we purged lots of clothing and "things" from our life. This refreshed perspective also helped us a few weeks ago when our basement (primary living space) flooded. Nothing was truly 'lost', life is fine.
 
 ## Don't work too much
 
