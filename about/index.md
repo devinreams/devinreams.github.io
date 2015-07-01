@@ -34,7 +34,7 @@ layout: page
 - iPhone 6 (Silver)
 - [iPad mini 2](/2010/traveling-with-an-ipad/) (2013)
 - [JAMBOX](/2011/my-favorite-gadget-jambox-from-jawbone/)
-- Sonos (in 4 rooms)
+- Sonos (in 6 rooms)
 - Apple TV
 - Kindle Paperwhite
 - PlayStation 3
