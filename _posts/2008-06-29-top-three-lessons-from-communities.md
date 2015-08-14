@@ -30,7 +30,7 @@ I&#8217;ve seen, first hand, the challenges faced when trying to get a group of 
 *   [AKPsi][11] &#8211; offline, but 50+ college students with an interest in business (VP/President)
 *   Two other college clubs &#8211; again, offline but a good look at how people interact
 
-And I&#8217;ve done tons of observation of popular online groups ([FlyerTalk][12], [Zen Habits][13], [Get Rich Slowly][14], [I Will Teach You To Be Rich][15]). Here are my top three lessons learned.
+And I&#8217;ve done tons of observation of popular online groups ([FlyerTalk][12], [Zen Habits][13], Get Rich Slowly, [I Will Teach You To Be Rich][15]). Here are my top three lessons learned.
 
 ## Existing community must already be strong
 
@@ -73,7 +73,6 @@ CommunityNext had a ton of people show up and a lot of it was due to key figures
  [11]: http://www.cuakpsi.com/
  [12]: http://www.flyertalk.com
  [13]: http://www.zenhabits.net
- [14]: http://www.getrichslowly.org
  [15]: http://www.iwillteachyoutoberich.com
  [16]: http://www.barcamp.org
  [17]: http://www.entrepreneur27.org/archive/interview-with-hiten-shah-of-acs-and-crazy-egg/
