@@ -3,7 +3,7 @@ title: Lessons learned moving away from home
 layout: post
 ---
 
-[Rachel](http://rstephens.me) and I packed up and spent six months in Portland, Maine this past fall and winter. In case you missed it: we had two opportunities to see a lot of the country we hadn't before ([driving our east](/2014/photos-driving-to-maine/) and [driving back home](/2015/photos-from-driving-back-from-maine/)). We also made the most of a [very snowy winter](/2015/winter-in-maine/) and [kept running](/2015/running-around-portland-maine/), skiing, and hiking.
+[Rachel](http://rstephens.me) and I packed up and spent six months in Portland, Maine this past fall and winter. In case you missed it: we had two opportunities to see a lot of the country we hadn't before ([driving out east](/2014/photos-driving-to-maine/) and [driving back home](/2015/photos-from-driving-back-from-maine/)). We also made the most of a [very snowy winter](/2015/winter-in-maine/) and [kept running](/2015/running-around-portland-maine/), skiing, and hiking.
 
 Friends (and family) would usually ask a variation on the same few questions: Are you moving because of work? Had you been there before? Are you crazy spending a winter on the east coast? Are you coming back? Did you sell your house? ... Well, why did you go, then?
 
