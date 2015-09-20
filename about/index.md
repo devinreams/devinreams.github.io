@@ -13,7 +13,7 @@ layout: page
 - I help with sales and business operations at [GitHub](https://github.com/about/).
 - I previously helped manage things at [Crowd Favorite](/2014/the-end-of-chapter-1-my-fond-farewell-to-crowd-favorite/).
 - I grew up in Colorado, [studied here](http://leeds.colorado.edu/), and imagine us sticking around here. Though, I really like traveling and visiting new places.
-- I love to [ski](http://cosnow.com/), camp, and hike. I've been known to play golf on occasion.
+- I love to [ski](http://cosnow.com/), jog, camp, and hike. I've been known to play golf on occasion.
 - I brew my own beer...
 
 <img src="https://camo.githubusercontent.com/00f741879cce185cc3c8283b4190da6785849416/687474703a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f626c6f672f323031332f68697265732f646576696e2d7265616d732e676966" width="100%">
