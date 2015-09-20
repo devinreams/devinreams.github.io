@@ -169,7 +169,7 @@ h1, h2, h3, h4, h5, h6 {
   float: right;
 }
 .sidebar-nav-item {
-  padding: .2rem .65rem;
+  padding: .2rem .4rem;
   border-bottom: 3px solid #eee;
   color: #fff;
 }
