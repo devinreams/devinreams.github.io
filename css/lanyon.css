@@ -51,6 +51,9 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -.025rem;
 }
 
+.mega-octicon {
+  margin-left: .2em;
+}
 
 /*
  * Wrapper
@@ -176,10 +179,23 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar-nav {
   display: inline-block;
   float: right;
+  margin-top: .3rem;
 }
 .sidebar-nav-item {
-  padding: .2rem .4rem;
-  border-bottom: 3px solid #eee;
+  padding: 0 .3rem;
+}
+.sidebar-nav-item .octicon {
+  display: none;
+}
+.sidebar-nav-item .octicon:after {
+  content: ' ';
+}
+@media (min-width: 30rem) {
+  .sidebar-nav-item .octicon {
+    display: inline;
+  }
+}
+.sidebar-nav-item a {
   color: #fff;
 }
 .sidebar-nav-item.active,
