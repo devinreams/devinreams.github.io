@@ -4,23 +4,28 @@ title: Home
 ---
 
 <div class="intro">
-  <p>
-    <a href="/about/"><img src="/img/devin-white-310x180.jpg" alt="Devin Reams profile photo"></a>
-  </p>
+  <p><a href="/about/"><img src="/img/devin-white-310x180.jpg" alt="Devin Reams profile photo"></a></p>
   {{ site.intro | markdownify }}
 </div>
+
+<ul class="social">
+  <li><a href="https://github.com/devinreams" target="_blank"><span class="octicon octicon-mark-github"></span> GitHub</a></li>
+  <li><a href="https://twitter.com/devinreams" target="_blank"><span class="octicon octicon-mark-twitter"></span> Twitter</a></li>
+  <li><a href="https://facebook.com/devinreams" target="_blank"><span class="octicon octicon-mark-facebook"></span> Facebook</a></li>
+  <li><a href="https://foursquare.com/devinreams" target="_blank"><span class="octicon octicon-location"></span> Foursquare</a></li>
+  <li><a href="mailto:devin@reams.me"><span class="octicon octicon-mail"></span> Email</a></li>
+</ul>
 
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post {{ post.layout }}">
+
   {% if post.layout == "link" %}
+    <a href="{{ post.url }}" style="float:right"><span class="octicon octicon-link"></span></a>
     <h1 class="post-title">
-      <a href="{{ post.link }}" title="External link to {{ post.title }}">{{ post.title }}</a>&nbsp;→
-      <small style="float:right"><a href="{{ post.url }}">¶</a></small>
+      <a href="{{ post.link }}" title="External link to {{ post.title }}">{{ post.title }} <span class="octicon octicon-link-external"></span></a>
     </h1>
-
     {{ post.content }}
-
   {% else %}
     <h1 class="post-title">
       <a href="{{ post.url }}">
@@ -30,6 +35,7 @@ title: Home
     <span class="post-date">{{ post.date | date: "%A, %B %-d, %Y" }}</span>
     <p>{{ post.excerpt | markdownify }}</p>
   {% endif %}
+
   </div>
   {% endfor %}
 </div>
