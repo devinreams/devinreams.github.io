@@ -13,14 +13,13 @@ title: Home
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post {{ post.layout }}">
+
   {% if post.layout == "link" %}
+    <a href="{{ post.url }}" style="float:right"><span class="octicon octicon-link"></span></a>
     <h1 class="post-title">
-      <a href="{{ post.link }}" title="External link to {{ post.title }}">{{ post.title }}</a>&nbsp;→
-      <small style="float:right"><a href="{{ post.url }}">¶</a></small>
+      <a href="{{ post.link }}" title="External link to {{ post.title }}">{{ post.title }} <span class="octicon octicon-link-external"></span></a>
     </h1>
-
     {{ post.content }}
-
   {% else %}
     <h1 class="post-title">
       <a href="{{ post.url }}">
@@ -30,6 +29,7 @@ title: Home
     <span class="post-date">{{ post.date | date: "%A, %B %-d, %Y" }}</span>
     <p>{{ post.excerpt | markdownify }}</p>
   {% endif %}
+
   </div>
   {% endfor %}
 </div>
