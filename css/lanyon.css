@@ -112,7 +112,7 @@ h1, h2, h3, h4, h5, h6 {
  */
 
  .footer {
-   font-size: .65em
+   font-size: .75em
  }
  .footer p {
    margin: .25em
@@ -279,13 +279,6 @@ a.sidebar-nav-item:focus {
 
 .page,
 .post {
-  margin-bottom: 4em;
-}
-
-p.improve {
-  text-align:center;
-  background-color:#eee;
-  padding:0.2em;
   margin-bottom: 4em;
 }
 
