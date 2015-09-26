@@ -8,4 +8,4 @@ This summer we came back to visit Maine with Rachel's family. We spent time at a
 
 And then Rachel and I spent an extra week, just us, visiting with friends down in Portland.
 
-Check out [my photos from our summer vacation in Maine](http://photos.devin.reams.me/winter-in-maine) over at [Exposure](https://exposure.co/).
+Check out [my photos from our summer vacation in Maine](http://photos.devin.reams.me/summer-vacation-in-harpswell) over at [Exposure](https://exposure.co/).
