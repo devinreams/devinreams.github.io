@@ -95,7 +95,7 @@ h1, h2, h3, h4, h5, h6 {
   }
   .intro img {
     float: left;
-    margin: 0 1em;
+    margin: 0 1em 0 0;
     width: 30%;
   }
 }
@@ -145,9 +145,39 @@ h1, h2, h3, h4, h5, h6 {
 }
 .intro {
   font-size: 1em;
-  margin-bottom: 3rem;
   background-color: #efefef;
   padding: 0.5em;
+}
+ul.social {
+  border: 1px #eee solid;
+  list-style: none;
+  text-align: center;
+  padding: .5rem;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+  -webkit-margin-start: 0;
+  -webkit-margin-end: 0;
+  -webkit-padding-start: 0;
+}
+ul.social li {
+  display: inline-block;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: .75rem;
+  height: 16px;
+  margin: 0 .75rem;
+}
+  .mega-octicon {
+    margin: 0;
+  }
+ul.social li a {
+  display: block;
+  text-align: center;
+}
+.social a:hover,
+.social a:focus  {
+  text-decoration: none;
+  background-color: rgba(238,238,238,.6);
+  border-color: transparent;
 }
 .masthead-title {
   display: inline-block;
@@ -183,6 +213,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .sidebar-nav-item {
   padding: 0 .3rem;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
 .sidebar-nav-item .octicon {
   display: none;
@@ -202,7 +233,7 @@ h1, h2, h3, h4, h5, h6 {
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: none;
-  background-color: rgba(255,255,255,.1);
+  background-color: rgba(255,255,255,.2);
   border-color: transparent;
 }
 
@@ -302,6 +333,10 @@ a.sidebar-nav-item:focus {
  * page is wrapped in `.page` and is only used on the page layout.
  */
 
+.posts {
+  margin-top: 3rem;
+}
+
 .page,
 .post {
   margin-bottom: 4em;
@@ -379,7 +414,7 @@ a.sidebar-nav-item:focus {
   margin-left: -1rem;
   margin-right: -1rem;
   margin-top: 2rem;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
