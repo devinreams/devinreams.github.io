@@ -35,11 +35,11 @@ He also re-introduced a cultural mechanism employed in some organizations to exp
 
 With those two concepts covered — you have to have the latter to effectively allow the former — he introduced his idea of "Just Management". Applying similar principals, we can think about how engineering management could work better.
 
-Local rationality suggests that people want to do a good job. They don't want to make mistakes or do something wrong (usually). So why do managers get frustrated when a task is completed unsatisfactorily, later than expected, differently than expected?
+Local rationality suggests that people want to do a good job. They don't want to make mistakes or do something wrong (usually). So why do folks get frustrated when a task is completed unsatisfactorily, later than expected, or differently than expected?
 
 People make decisions based on the goals, understanding of the situation, and focus of attention *at that time*.
 
-In many cases, it's a manager's responsibility to help manage the above and align their team's local rationality.
+In many cases, it's a *manager's* responsibility to help *manage* the above and align their team's local rationality.
 
 Am I worried about money and they're optimizing for time? Do they want to build the final product and I'm only expecting a draft? Am I asking for a lot and they're delivering not enough?
 
