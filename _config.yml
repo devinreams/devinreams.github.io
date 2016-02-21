@@ -7,12 +7,9 @@ intro: "Hi! I'm [Devin Reams](/about/) and I help with sales operations at [GitH
 
 email: devin@reams.me
 url: "https://devin.reams.me"
-version: 2.2.2
+version: 2.2.3
 
 # Build settings
-markdown: redcarpet
-redcarpet:
-  extensions: ["strikethrough", "footnotes"]
 permalink: /:year/:title/
 paginate: 10
 paginate_path: "/page/:num/"
