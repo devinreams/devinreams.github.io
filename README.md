@@ -1,5 +1,4 @@
-[devinreams.github.io](https://devinreams.github.io) aka [devin.reams.me](https://devin.reams.me/)
-====================
+# [devinreams.github.io](https://devinreams.github.io) aka [devin.reams.me](https://devin.reams.me/)
 
 This is the Git repository for my personal website, including:
 
