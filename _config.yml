@@ -7,7 +7,7 @@ intro: "Hi! I'm [Devin](/about/) and I help with business systems at [GitHub](ht
 
 email: devin@reams.me
 url: "https://devin.reams.me"
-version: 2.2.4
+version: 2.3.0
 
 # Build settings
 permalink: /:year/:title/
