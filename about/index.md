@@ -5,7 +5,7 @@ layout: page
 
 ### Howdy! I'm Devin and I help with sales operations at [GitHub](https://github.com/). I'm a twenty-something living (working, and playing) in Denver, Colorado. I've been known to [ski](http://cosnow.com/), [jog](http://runkeeper.com/profile?username=devinreams), and brew my own [beer](https://github.com/devinreams/beer/).
 
-<a href="http://photos.devin.reams.me/winter-in-maine"><img src="/img/devin-and-rachel-maine.jpg" alt="Devin and Rachel in Maine" width="100%"></a>
+<img src="/img/devin-and-rachel-maine.jpg" alt="Devin and Rachel in Maine" width="100%">
 
 ## Quick Facts
 

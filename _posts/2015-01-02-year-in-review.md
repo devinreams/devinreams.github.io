@@ -39,13 +39,13 @@ In March, Rachel and I decided to buy a new car. We picked up a used 2011 Toyota
 
 ![img_3346](https://cloud.githubusercontent.com/assets/49511/5597205/5cfbd088-926c-11e4-912b-7ac32815418b.jpg)
 
-Later in the month Rachel and I [visited our friends in Boston and Maine](http://photos.devin.reams.me/st-patricks-day). We decided to throw together a mini-trip on our way out to Iceland.
+Later in the month Rachel and I visited our friends in Boston and Maine. We decided to throw together a mini-trip on our way out to Iceland.
 
-[![img_2927](https://cloud.githubusercontent.com/assets/49511/5597229/9f24ce9c-926c-11e4-9047-8896f414c7fa.JPG)](http://photos.devin.reams.me/st-patricks-day)
+![img_2927](https://cloud.githubusercontent.com/assets/49511/5597229/9f24ce9c-926c-11e4-9047-8896f414c7fa.JPG)
 
-[Visiting Iceland](http://photos.devin.reams.me/iceland) was one of the major highlights of my year. We saw amazing sights, enjoyed road tripping around the island — seeing glaciers, volcanoes, waterfalls, oh my — and learned a lot about the country. Oh, and enjoyed in-water massages!
+Visiting Iceland was one of the major highlights of my year. We saw amazing sights, enjoyed road tripping around the island — seeing glaciers, volcanoes, waterfalls, oh my — and learned a lot about the country. Oh, and enjoyed in-water massages!
 
-[![img_3216](https://cloud.githubusercontent.com/assets/49511/5597260/14988ba0-926d-11e4-99f2-3d43c128170e.JPG)](http://photos.devin.reams.me/iceland)
+![img_3216](https://cloud.githubusercontent.com/assets/49511/5597260/14988ba0-926d-11e4-99f2-3d43c128170e.JPG)
 
 ## April
 
@@ -53,9 +53,9 @@ In April a big group of us [met up with Alex](http://alexking.org/blog/thread/20
 
 ![img_3423](https://cloud.githubusercontent.com/assets/49511/5597316/4d13839e-926e-11e4-8b2d-1a0e390c8807.jpg)
 
-Back in San Francisco, some GitHubbers :octocat: and I [learned all about grafitti and made some of our own](http://photos.devin.reams.me/github-grafitti).
+Back in San Francisco, some GitHubbers :octocat: and I learned all about grafitti and made some of our own.
 
-[![img_3492](https://cloud.githubusercontent.com/assets/49511/5597341/c6882f68-926e-11e4-8517-019fc680a041.jpg)](http://photos.devin.reams.me/github-grafitti)
+![img_3492](https://cloud.githubusercontent.com/assets/49511/5597341/c6882f68-926e-11e4-8517-019fc680a041.jpg)
 
 ## May
 
@@ -63,24 +63,23 @@ Rachel and I celebrated her birthday at a spa in Denver. We spent hour and hours
 
 ![img_3595](https://cloud.githubusercontent.com/assets/49511/5597358/fe3f4bb2-926e-11e4-80b5-497203352ebc.JPG)
 
-We then [visited Rachel's family in Salt Lake City](http://photos.devin.reams.me/visiting-salt-lake-city) and I got to see the Mormon Temple (and dozens of weddings).
+We then visited Rachel's family in Salt Lake City and I got to see the Mormon Temple (and dozens of weddings).
 
-[![img_3635](https://cloud.githubusercontent.com/assets/49511/5597365/274868a4-926f-11e4-9805-6e6d8fd1c8b9.jpg)](http://photos.devin.reams.me/visiting-salt-lake-city)
+![img_3635](https://cloud.githubusercontent.com/assets/49511/5597365/274868a4-926f-11e4-9805-6e6d8fd1c8b9.jpg)
 
-I also had the distinct pleasure of [traveling to Japan](http://photos.devin.reams.me/visiting-tokyo) to meet with GitHub customers and host a few meetup events. I had a great time and hope to visit again soon.
+I also had the distinct pleasure of traveling to Japan to meet with GitHub customers and host a few meetup events. I had a great time and hope to visit again soon.
 
-[![img_3810](https://cloud.githubusercontent.com/assets/49511/5597397/9d37d734-926f-11e4-9170-c9d922103ac3.jpg)
-](http://photos.devin.reams.me/visiting-tokyo)
+![img_3810](https://cloud.githubusercontent.com/assets/49511/5597397/9d37d734-926f-11e4-9170-c9d922103ac3.jpg)
 
 ## June
 
-Rachel and I [spent a week in June road tripping and camping through Wyoming, South Dakota, and Nebraska](http://photos.devin.reams.me/2014-summer-road-trip). Neither of us had spent much time in these states and we had some destinations in mind: Devil's Tower, The Black Hills, Mount Rushmore, Crazy Horse, Badlands, De Smet (Little Town on the Prairie), Sioux Falls, Omaha, and Fort Collins. We had a great time seeing sights and listening to lots of podcasts.
+Rachel and I spent a week in June road tripping and camping through Wyoming, South Dakota, and Nebraska. Neither of us had spent much time in these states and we had some destinations in mind: Devil's Tower, The Black Hills, Mount Rushmore, Crazy Horse, Badlands, De Smet (Little Town on the Prairie), Sioux Falls, Omaha, and Fort Collins. We had a great time seeing sights and listening to lots of podcasts.
 
-[![img_4067](https://cloud.githubusercontent.com/assets/49511/5597443/4c3a34c0-9270-11e4-8f79-3203eca2228d.JPG)](http://photos.devin.reams.me/2014-summer-road-trip)
+![img_4067](https://cloud.githubusercontent.com/assets/49511/5597443/4c3a34c0-9270-11e4-8f79-3203eca2228d.JPG)
 
-We returned from our road trip and proceeded to go [camping with friends up at Green Mountain Reservoir](http://photos.devin.reams.me/surprise-lake). We also hiked Lake Surprise nearby and had a great time in "our own backyard" in Colorado.
+We returned from our road trip and proceeded to go camping with friends up at Green Mountain Reservoir. We also hiked Lake Surprise nearby and had a great time in "our own backyard" in Colorado.
 
-[![img_5556](https://cloud.githubusercontent.com/assets/49511/5597458/8731a7ca-9270-11e4-838c-28a966886a77.jpg)](http://photos.devin.reams.me/surprise-lake)
+![img_5556](https://cloud.githubusercontent.com/assets/49511/5597458/8731a7ca-9270-11e4-838c-28a966886a77.jpg)
 
 ## July
 
@@ -88,13 +87,13 @@ We made a trip back out to Salt Lake City to see Rachel's family and also made a
 
 ![img_5597](https://cloud.githubusercontent.com/assets/49511/5597497/413bf7d8-9271-11e4-99e9-bbaeca2c870a.jpg)
 
-Nearly three years after being married at The Denver Botanic Gardens, we returned and saw the [Chihuly glass exhibit](http://photos.devin.reams.me/chihuly-at-denver-botanic-gardens).
+Nearly three years after being married at The Denver Botanic Gardens, we returned and saw the Chihuly glass exhibit.
 
-[![img_5651](https://cloud.githubusercontent.com/assets/49511/5597515/72808f66-9271-11e4-957c-5c482c697724.JPG)](http://photos.devin.reams.me/chihuly-at-denver-botanic-gardens)
+![img_5651](https://cloud.githubusercontent.com/assets/49511/5597515/72808f66-9271-11e4-957c-5c482c697724.JPG)
 
-Mid-month, 230 of my colleagues and I visited [Whistler for the 2014 GitHub Summit](http://photos.devin.reams.me/summit-whistler). I had never been up to Whistler before and really enjoyed the sights.
+Mid-month, 230 of my colleagues and I visited Whistler for the 2014 GitHub Summit. I had never been up to Whistler before and really enjoyed the sights.
 
-[![img_5659](https://cloud.githubusercontent.com/assets/49511/5597522/a2a26390-9271-11e4-8970-626666f346bb.jpg)](http://photos.devin.reams.me/summit-whistler)
+![img_5659](https://cloud.githubusercontent.com/assets/49511/5597522/a2a26390-9271-11e4-8970-626666f346bb.jpg)
 
 At this point, we started making some changes to our (sales) team at work and I made a horizontal move into a different role.
 
@@ -104,7 +103,7 @@ Rachel left her job to work on her MBA degree full-time. So, she joined me on a 
 
 ![img_5844](https://cloud.githubusercontent.com/assets/49511/5597540/03f5fe7c-9272-11e4-97aa-331180b2bc20.JPG)
 
-We returned home and [spent a weekend camping down near Pagosa Springs](http://photos.devin.reams.me/camping-in-salida). The next morning we woke up and hiked with llamas. This was one of the best "experiences" Rachel could buy with her remaining "corporate points" from work. It was the perfect use of those points.
+We returned home and spent a weekend camping down near Pagosa Springs. The next morning we woke up and hiked with llamas. This was one of the best "experiences" Rachel could buy with her remaining "corporate points" from work. It was the perfect use of those points.
 
 ![img_5825](https://cloud.githubusercontent.com/assets/49511/5597562/6f39784e-9272-11e4-8e12-086b91231a47.jpg)
 
@@ -118,7 +117,7 @@ Two weeks later, both Rachel and my parents visited San Francisco while I was ou
 
 ## September
 
-Thanks to the magic of end-of-season deals, a group of friends and I took a [trip to Lake Powell](http://photos.devin.reams.me/lake-powell) and rented a house boat for a couple days. I had a great time and was able to get some quality "off the grid" time.
+Thanks to the magic of end-of-season deals, a group of friends and I took a trip to Lake Powell and rented a house boat for a couple days. I had a great time and was able to get some quality "off the grid" time.
 
 ![img_5898](https://cloud.githubusercontent.com/assets/49511/5597597/0d04abf2-9273-11e4-8ac4-17431e46d66f.jpg)
 
@@ -130,13 +129,13 @@ Rachel and I then traveled back to San Francisco to run in [Ragnar Relay](https:
 
 ![img_6009](https://cloud.githubusercontent.com/assets/49511/5597626/a670811c-9273-11e4-991c-d3aaf6815807.jpg)
 
-After a day of rest we flew back home, packed up our worldly possessions and a day later started [our drive across the country towards Portland, Maine](http://photos.devin.reams.me/driving-to-maine).
+After a day of rest we flew back home, packed up our worldly possessions and a day later started our drive across the country towards Portland, Maine.
 
-[![img_6039](https://cloud.githubusercontent.com/assets/49511/5597638/e76bfe3a-9273-11e4-9075-a8acd5e10a6f.jpg)](http://photos.devin.reams.me/driving-to-maine)
+![img_6039](https://cloud.githubusercontent.com/assets/49511/5597638/e76bfe3a-9273-11e4-9075-a8acd5e10a6f.jpg)
 
-We spent a day in Chicago, then visited the Niagara Falls, and then [arrived in upstate Maine to spend the weekend camping with friends](http://photos.devin.reams.me/camping-at-mount-blue).
+We spent a day in Chicago, then visited the Niagara Falls, and then arrived in upstate Maine to spend the weekend camping with friends.
 
-[![img_6166](https://cloud.githubusercontent.com/assets/49511/5597654/2a5e314a-9274-11e4-88a6-8914400e6483.JPG)](http://photos.devin.reams.me/camping-at-mount-blue)
+![img_6166](https://cloud.githubusercontent.com/assets/49511/5597654/2a5e314a-9274-11e4-88a6-8914400e6483.JPG)
 
 ## October
 
@@ -148,9 +147,9 @@ After the conference, we attended a private house concert hosted by Alex.
 
 ![img_6270](https://cloud.githubusercontent.com/assets/49511/5597679/8f3a3ef6-9274-11e4-9bd6-07600eece428.jpg)
 
-We wasted no time in Maine and spent a weekend [visiting a family friend's cabin up north in Lubec](http://photos.devin.reams.me/visiting-bog-brook-cove).
+We wasted no time in Maine and spent a weekend visiting a family friend's cabin up north in Lubec.
 
-[![img_6394](https://cloud.githubusercontent.com/assets/49511/5597716/515aa322-9275-11e4-82d9-2146b2ff6172.JPG)](http://photos.devin.reams.me/visiting-bog-brook-cove)
+![img_6394](https://cloud.githubusercontent.com/assets/49511/5597716/515aa322-9275-11e4-82d9-2146b2ff6172.JPG)
 
 Two weekends later, we drove up north again to Oxbow's annual Goods from the Woods brewery event.
 
