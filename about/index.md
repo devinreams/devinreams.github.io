@@ -31,7 +31,7 @@ layout: page
 
 ###  Gadgets
 
-- [MacBook Air](/2010/would-you-rent-a-computer-for-100month/), (11-inch, Mid 2013)
+- MacBook Pro (13-inch, Late 2016, Four Thunderbolt 3 Ports)
 - iPhone 6S (Silver)
 - [iPad mini 2](/2010/traveling-with-an-ipad/) (2013)
 - [JAMBOX](/2011/my-favorite-gadget-jambox-from-jawbone/)
