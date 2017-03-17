@@ -6,7 +6,7 @@ Many years later I'm officially becoming a Mozillian and joining the [mission of
 
 ---
 
-I'm not the only one who struggles to maintain hundreds of unique, complex passwords across multiple sites. Let alone know which sites have recently been hacked and where my password needs to be changed. These problems only begin to scratch the surface of what we all need...
+I'm not the only one who struggles to maintain hundreds of unique, complex passwords across multiple sites. On top of that, I don't know which sites have recently been hacked and where my password needs to be changed. These problems only begin to scratch the surface of what we all need solved...
 
 As the internet becomes more complex and our lives more dependent on it: security and identity are going to be extremely important and I'd love to help be a part of building this stuff (better).
 
