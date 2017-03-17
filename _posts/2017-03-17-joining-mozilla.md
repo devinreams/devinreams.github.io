@@ -1,6 +1,6 @@
 I'm excited to announce I'm joining Mozilla in April to help manage an engineering team!
 
-<center><img src="../img/moz-logo-one-color-black-rgb.png" alt="mozilla logo"></center>
+<center><img src="/img/moz-logo-one-color-black-rgb.png" alt="mozilla logo"></center>
 
 I think my history with Mozilla technically begins with [Netscape Navigator](https://en.wikipedia.org/wiki/Netscape_Navigator) (the basis to the [Firefox web browser](https://en.wikipedia.org/wiki/Firefox)) in the late 90's. Later on I became a volunteer editor of (now Aol's) soon-to-be-retired [dmoz](https://en.wikipedia.org/wiki/DMOZ) (website directory) helping maintain high-level topics under the nickname [devdev](http://www.dmoz.org/public/profile?editor=devdev).
 
