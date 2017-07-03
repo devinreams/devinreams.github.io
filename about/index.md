@@ -40,6 +40,7 @@ layout: page
 - Kindle Paperwhite
 - PlayStation 3
 - Nintendo Wii
+- Nintendo Switch
 - Synology DS213j
 
 ### Software
