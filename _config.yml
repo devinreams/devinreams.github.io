@@ -14,7 +14,7 @@ permalink: /:year/:title/
 paginate: 10
 paginate_path: "/page/:num/"
 
-gems:
+plugins:
 - jekyll-mentions
 - jemoji
 - jekyll-redirect-from
