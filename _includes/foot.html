@@ -4,11 +4,7 @@
 
   <p class="improve">
 		My website is <a href="http://en.wikipedia.org/wiki/Open_source">open source</a>.
-	  {% if paginator.page > 1 %}
-	   Please <a href="https://github.com/devinreams/devinreams.github.io/">help improve it</a> on GitHub.
-	  {% else %}
-	    Please <a href="https://github.com/devinreams/devinreams.github.io/edit/master/{{ page.path }}">help improve this page</a> on GitHub.
-	  {% endif %}
+    Please {% github_edit_link "help improve this page" %} on GitHub.
 	</p>
 
 	<p>
