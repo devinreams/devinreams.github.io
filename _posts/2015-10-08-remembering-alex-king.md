@@ -3,7 +3,7 @@ title: Remembering Alex King
 layout: post
 ---
 
-_The following is the rememberance I shared with everyone at Alex's Celebration of Life service (about his life in Denver) on October 8th, 2015._
+_The following is the remembrance I shared with everyone at Alex's Celebration of Life service (about his life in Denver) on October 8th, 2015._
 
 I can't remember where I came across this phrase, but you've probably heard it before: *think globally, act locally.*
 
