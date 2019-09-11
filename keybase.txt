@@ -6,45 +6,47 @@ I hereby claim:
 
   * I am an admin of https://devin.reams.me
   * I am devinreams (https://keybase.io/devinreams) on keybase.
-  * I have a public key ASAtHvxPQcCC-wRvWuv4FUqLrdXEoltnmmQIrlrektwYKwo
+  * I have a public key ASBP28HKUbEZq4onRa71XmckEw-2B2RrOZXhEbiPgjvPkwo
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "0101ed0dfc805c75c18a97bc01be74de05d989c2a7ecded5c242c83cd47a2af6efa60a",
-            "host": "keybase.io",
-            "kid": "01202d1efc4f41c082fb046f5aebf8154a8badd5c4a25b679a6408ae5ade92dc182b0a",
-            "uid": "d2d44e3f445ad7f5f0dbe9ddda4e4619",
-            "username": "devinreams"
-        },
-        "service": {
-            "hostname": "devin.reams.me",
-            "protocol": "https:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "01204fdbc1ca51b119ab8a2745aef55e6724130fb607646b3995e111b88f823bcf930a",
+      "host": "keybase.io",
+      "kid": "01204fdbc1ca51b119ab8a2745aef55e6724130fb607646b3995e111b88f823bcf930a",
+      "uid": "d2d44e3f445ad7f5f0dbe9ddda4e4619",
+      "username": "devinreams"
     },
-    "client": {
-        "name": "keybase.io go client",
-        "version": "1.0.12"
-    },
-    "ctime": 1456083346,
-    "expire_in": 504576000,
     "merkle_root": {
-        "ctime": 1456083327,
-        "hash": "2bcf1e5833d08af24e7b5c74fa749edc79d27de033bb128588d6c43d5d0b0a10a3456902585792415c6abc897a67dd587468e9594be5f30979a667deae3a3a4f",
-        "seqno": 391679
+      "ctime": 1568218607,
+      "hash": "9b741450146683b41baca0b8ce44d0a3e19af4f1a49223d10c2057abd923467a95c61f5360de8e523c1a2807c72be0435479c9be4e02aa256d2aa477e3868d55",
+      "hash_meta": "235047a0795edceea02ff363d155b06ab5bcc01a9c4ade73080b724c3e8cd15f",
+      "seqno": 6758014
     },
-    "prev": "b672aa27c3ea6bff34d07f766396bbf00e7ebf83b744c602758a4db6d4b2635f",
-    "seqno": 9,
-    "tag": "signature"
+    "service": {
+      "entropy": "8mnnrm2EcRoZ9ouds93Jk6PQ",
+      "hostname": "devin.reams.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568218628,
+  "expire_in": 504576000,
+  "prev": "e27d1050fbc14503808a8f1bc76c48d1a79fc4f235fa49f26c7b3f4e2e611b8f",
+  "seqno": 38,
+  "tag": "signature"
 }
 
 which yields the signature:
 
-g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLR78T0HAgvsEb1rr+BVKi63VxKJbZ5pkCK5a3pLcGCsKp3BheWxvYWTFAvh7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZWQwZGZjODA1Yzc1YzE4YTk3YmMwMWJlNzRkZTA1ZDk4OWMyYTdlY2RlZDVjMjQyYzgzY2Q0N2EyYWY2ZWZhNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMmQxZWZjNGY0MWMwODJmYjA0NmY1YWViZjgxNTRhOGJhZGQ1YzRhMjViNjc5YTY0MDhhZTVhZGU5MmRjMTgyYjBhIiwidWlkIjoiZDJkNDRlM2Y0NDVhZDdmNWYwZGJlOWRkZGE0ZTQ2MTkiLCJ1c2VybmFtZSI6ImRldmlucmVhbXMifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImRldmluLnJlYW1zLm1lIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTIifSwiY3RpbWUiOjE0NTYwODMzNDYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ1NjA4MzMyNywiaGFzaCI6IjJiY2YxZTU4MzNkMDhhZjI0ZTdiNWM3NGZhNzQ5ZWRjNzlkMjdkZTAzM2JiMTI4NTg4ZDZjNDNkNWQwYjBhMTBhMzQ1NjkwMjU4NTc5MjQxNWM2YWJjODk3YTY3ZGQ1ODc0NjhlOTU5NGJlNWYzMDk3OWE2NjdkZWFlM2EzYTRmIiwic2Vxbm8iOjM5MTY3OX0sInByZXYiOiJiNjcyYWEyN2MzZWE2YmZmMzRkMDdmNzY2Mzk2YmJmMDBlN2ViZjgzYjc0NGM2MDI3NThhNGRiNmQ0YjI2MzVmIiwic2Vxbm8iOjksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA6ejQjHLnBrx/3YAF5bMg/Lv4MXlQ1cDTx152adTQBmCtqtXIdeM0CygGkK2frvMtH95EOzJj0kkziE7RuhmtD6hzaWdfdHlwZSCjdGFnzQICp3ZlcnNpb24B
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgT9vBylGxGauKJ0Wu9V5nJBMPtgdkazmV4RG4j4I7z5MKp3BheWxvYWTESpcCJsQg4n0QUPvBRQOAio8bx2xI0aefxPI1+knybHs/Ti5hG4/EIB6b1hDd96p7YMJn6K7PMpNoBm1xSK5ZZN6ajHpipTb5AgHCo3NpZ8RA4P+k86nObfgDmwUl8pdk08AGJPo84CBsDSkSY6QjJCSJcH60ipf15LmnCK0vOe7OREJQvuT3FETQJDhyaEXeCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMR1dMQ7ibu2Ehpe0LhtT0+70eI40tUNblEuJmwqC9FYo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -52,4 +54,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/devinreams
 
 ==================================================================
-
