@@ -32,16 +32,13 @@ layout: page
 
 ###  Gadgets
 
-- MacBook Pro (13-inch, Late 2016, Four Thunderbolt 3 Ports)
-- iPhone 6S (Silver)
-- [iPad mini 2](/2010/traveling-with-an-ipad/) (2013)
-- Sonos (in 6 rooms)
+- MacBook Pro (13-inch, 2019)
+- iPhone XS (Silver)
+- [iPad Pro](/2010/traveling-with-an-ipad/) (2019)
+- Sonos
 - Apple TV
 - Kindle Paperwhite
-- PlayStation 3
-- Nintendo Wii
 - Nintendo Switch
-- Synology DS213j
 
 ### Software
 
