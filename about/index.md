@@ -10,31 +10,31 @@ layout: page
 ## Quick Facts
 
 - I'm [married to my best friend](http://devinandrachel.com), Rachel.
-- I'm helping [Mozilla](https://mozilla.com/) engineers build a password manager.
-- I previously helped manage sales and business operations at [GitHub](https://github.com/about/).
+- I help manage engineering teams at [Mozilla](https://mozilla.com/).
+- I previously helped manage sales and business systems and operations at [GitHub](https://github.com/about/).
 - Before that, I helped manage consulting projects at [Crowd Favorite](/2014/the-end-of-chapter-1-my-fond-farewell-to-crowd-favorite/).
-- I grew up in Colorado, [studied here](http://leeds.colorado.edu/), and imagine us sticking around here. Though, I really like traveling and visiting new places.
-- I love to [ski](http://cosnow.com/), camp, and hike.
-- I brew my own beer...
+- I grew up in Colorado, [studied here](http://leeds.colorado.edu/), and plan to stay here. Though, we really like traveling and visiting new places.
+- I love to [ski](http://cosnow.com/), snowshoe, camp, and hike.
+- I occasionally brew my own beer...
 
 <img src="/img/devinreams-githubber.gif" alt="Devin brews beer at GitHub" width="100%">
 
 ## Contact
 
-- [GitHub](https://github.com/devinreams)
 - [Twitter](https://twitter.com/devinreams)
 - [Facebook](https://facebook.com/devinreams)
 - [Foursquare](https://foursquare.com/devinreams)
+- [GitHub](https://github.com/devinreams)
 - [Untappd](https://untappd.com/user/devinreams)
 - [Email](mailto:devin@reams.me)
 
 ## Setup
 
-###  Gadgets
+### Gadgets
 
 - MacBook Pro (13-inch, 2019)
-- iPhone XS (Silver)
-- [iPad Pro](/2010/traveling-with-an-ipad/) (2019)
+- iPhone 12 Pro (Silver)
+- [iPad Air 4](/2010/traveling-with-an-ipad/) (2020)
 - Sonos
 - Apple TV
 - Kindle Paperwhite
