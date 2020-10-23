@@ -65,6 +65,23 @@ body {
       -ms-text-size-adjust: 100%;
 }
 
+@media (prefers-color-scheme: dark) {
+  /* defaults to dark theme */
+  body {
+    color: #b1b1b1;
+    background-color: #222;
+  }
+  .intro {
+    background-color: #333;
+  }
+  ul.social {
+    border: 1px #333 solid;
+  }
+  .theme-base-08 .container .post p a {
+    color: #eee;
+  }
+}
+
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
   color: #268bd2;
