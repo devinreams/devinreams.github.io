@@ -1,3 +1,22 @@
 @import (inline) "poole.css";
 @import (inline) "syntax.css";
 @import (inline) "lanyon.css";
+
+@media (prefers-color-scheme: dark) {
+  /* defaults to dark theme */
+  body {
+    color: #b1b1b1;
+    background-color: #222;
+  }
+  .intro {
+    background-color: #333;
+  }
+  ul.social {
+    border: 1px #333 solid;
+  }
+  .theme-base-08 .container .post p a,
+  .page-title, .post-title, .post-title a,
+  h1, h2, h3, h4, h5, h6 {
+    color: #eee;
+  }
+}
