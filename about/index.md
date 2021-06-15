@@ -3,17 +3,18 @@ title: About
 layout: page
 ---
 
-### Howdy! I'm Devin and I work at [Mozilla](https://mozilla.com/). I live (work, and play) in Denver, Colorado. I've been known to [ski](http://cosnow.com/) and brew my own [beer](https://github.com/devinreams/beer/).
+### Howdy! I'm Devin and I work at [Smartsheet](https://smartsheet.com/). I live (work, and play) in Denver, Colorado. I've been known to [ski](http://cosnow.com/) and brew my own [beer](https://github.com/devinreams/beer/).
 
 <img src="/img/devin-and-rachel-maine.jpg" alt="Devin and Rachel in Maine" width="100%">
 
 ## Quick Facts
 
 - I'm [married to my best friend](http://devinandrachel.com), Rachel.
-- I help manage engineering teams at [Mozilla](https://mozilla.com/).
-- I previously helped manage sales and business systems and operations at [GitHub](https://github.com/about/).
-- Before that, I helped manage consulting projects at [Crowd Favorite](/2014/the-end-of-chapter-1-my-fond-farewell-to-crowd-favorite/).
-- I grew up in Colorado, [studied here](http://leeds.colorado.edu/), and plan to stay here. Though, we really like traveling and visiting new places.
+- I manage a mobile engineering team at [Smartsheet](https://smartsheet.com/)
+- I previously helped lead a number of engineering teams at [Mozilla](https://mozilla.com/).
+- I also helped manage sales and business systems and operations at [GitHub](https://github.com/about/).
+- I also helped manage consulting projects at [Crowd Favorite](/2014/the-end-of-chapter-1-my-fond-farewell-to-crowd-favorite/).
+- I grew up in Colorado, [studied here](http://leeds.colorado.edu/), and plan to stay here. Though, we like traveling and visiting new places.
 - I love to [ski](http://cosnow.com/), snowshoe, camp, and hike.
 - I occasionally brew my own beer...
 
@@ -23,7 +24,6 @@ layout: page
 
 - [Twitter](https://twitter.com/devinreams)
 - [Facebook](https://facebook.com/devinreams)
-- [Foursquare](https://foursquare.com/devinreams)
 - [GitHub](https://github.com/devinreams)
 - [Untappd](https://untappd.com/user/devinreams)
 - [Email](mailto:devin@reams.me)
@@ -32,9 +32,9 @@ layout: page
 
 ### Gadgets
 
-- MacBook Pro (13-inch, 2019)
-- iPhone 12 Pro (Silver)
+- MacBook Pro (16-inch, 2019)
 - [iPad Air 4](/2010/traveling-with-an-ipad/) (2020)
+- iPhone 12 Pro (Silver)
 - Sonos
 - Apple TV
 - Kindle Paperwhite
@@ -42,8 +42,8 @@ layout: page
 
 ### Software
 
-- [Atom](http://atom.io/) for text editing
-- [Firefox](https://www.firefox.com/) for web browsing at work and home
+- [Atom](http://atom.io/) for light coding and text editing
+- [Firefox](https://www.firefox.com/) for web work and browsing
 - [GitHub](https://github.com/) for collaboration
 - [Gmail](https://mail.google.com/) for work and personal email
 - [Slack](https://slack.com) for work and personal chat
