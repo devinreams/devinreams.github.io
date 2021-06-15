@@ -9,7 +9,7 @@ layout: page
 
 ## Quick Facts
 
-- I'm [married to my best friend](http://devinandrachel.com), Rachel.
+- I'm [married to my best friend](https://redmonk.com/rstephens/), Rachel and we have two cute kids.
 - I manage a mobile engineering team at [Smartsheet](https://smartsheet.com/)
 - I previously helped lead a number of engineering teams at [Mozilla](https://mozilla.com/).
 - I also helped manage sales and business systems and operations at [GitHub](https://github.com/about/).
