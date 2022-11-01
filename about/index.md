@@ -3,15 +3,15 @@ title: About
 layout: page
 ---
 
-### Howdy! I'm Devin and I work at [Smartsheet](https://smartsheet.com/). I live (work, and play) in Denver, Colorado. I've been known to [ski](http://cosnow.com/) and brew my own [beer](https://github.com/devinreams/beer/).
+### Howdy! I'm Devin. I live (work, and play) in Denver, Colorado. I've been known to [ski](http://cosnow.com/) and brew my own [beer](https://github.com/devinreams/beer/).
 
 <img src="/img/devin-and-rachel-maine.jpg" alt="Devin and Rachel in Maine" width="100%">
 
 ## Quick Facts
 
 - I'm [married to my best friend](https://redmonk.com/rstephens/), Rachel and we have two cute kids.
-- I manage a mobile engineering team at [Smartsheet](https://smartsheet.com/)
-- I previously helped lead a number of engineering teams at [Mozilla](https://mozilla.com/).
+- I previously led mobile engineering at [Smartsheet](https://smartsheet.com/).
+- I also helped lead a number of engineering teams at [Mozilla](https://mozilla.com/).
 - I also helped manage sales and business systems and operations at [GitHub](https://github.com/about/).
 - I also helped manage consulting projects at [Crowd Favorite](/2014/the-end-of-chapter-1-my-fond-farewell-to-crowd-favorite/).
 - I grew up in Colorado, [studied here](http://leeds.colorado.edu/), and plan to stay here. Though, we like traveling and visiting new places.
@@ -32,9 +32,7 @@ layout: page
 
 ### Gadgets
 
-- MacBook Pro (16-inch, 2019)
-- [iPad Air 4](/2010/traveling-with-an-ipad/) (2020)
-- iPhone 12 Pro (Silver)
+- iPhone 14 Pro (Silver)
 - Sonos
 - Apple TV
 - Kindle Paperwhite
