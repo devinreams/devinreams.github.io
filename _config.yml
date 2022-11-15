@@ -7,7 +7,7 @@ intro: "Hi! I'm [Devin](/about/). I'm sensibly impulsive, consistently non-commi
 
 email: devin@reams.me
 url: "https://devin.reams.me"
-version: 2.6
+version: 2.6.1
 
 # Build settings
 permalink: /:year/:title/
