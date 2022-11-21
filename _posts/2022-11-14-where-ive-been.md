@@ -5,7 +5,7 @@ layout: post
 
 In March 2017 [I joined Mozilla](/2017/joining-mozilla/) and proceeded to have a busy four years...
 
-I can't possible reflect on it all but I:
+I can't possibly reflect on it all but I:
 - helped build a team that launched a mobile companion app to Firefox for password management (Lockbox then Lockwise)
 - coached and transitioned two lead engineers to become full-time people managers
 - was promoted to Senior Engineering Manager
@@ -25,7 +25,7 @@ And as a leader responsible for a variety of different product and business area
 
 I also wanted to make sure our **processess** effectively supported the things we wanted to do: everything from weekly routines to quality control and decision making should be no more and no less than what was required.
 
-*This is now one of my core frameworks for my own prioritization and time management: People. Plan. Process.*
+*This is now one of my core frameworks for my own prioritization and time management: People. Plan. Process. Where am I most needed, where is my time being spent, is it the correct balance?*
 
 ---
 
@@ -40,6 +40,8 @@ I wasn't successful at everything. And I know I let some people down at times. B
 After some reflection, mostly while feeding and playing with my kids during parental leave in early 2021, I realized I had drifted away from the technology...
 
 ---
+
+## Smartsheet
 
 In May 2021 I was presented an awesome opportunity to help lead the bigger-but-growing, established-yet-dynamic mobile engineering team at Smartsheet. I had a lot of fun taking what I knew and quickly re-applying it:
 - jumping into an old product and helping the team make new and big things happen (Mobile Offline Forms)
