@@ -10,7 +10,8 @@ layout: page
 ## Quick Facts
 
 - I'm [married to my best friend](https://redmonk.com/rstephens/), Rachel and we have two cute kids.
-- I previously led mobile engineering at [Smartsheet](https://smartsheet.com/).
+- I'm the CTO of the Denver-based startup [ToMarket](/2023/going-tomarket).
+- I previously led mobile engineering at [Smartsheet](/2022/where-ive-been/).
 - I also helped lead a number of engineering teams at [Mozilla](https://mozilla.com/).
 - I also helped manage sales and business systems and operations at [GitHub](https://github.com/about/).
 - I also helped manage consulting projects at [Crowd Favorite](/2014/the-end-of-chapter-1-my-fond-farewell-to-crowd-favorite/).
@@ -22,26 +23,35 @@ layout: page
 
 ## Contact
 
-- [Twitter](https://twitter.com/devinreams)
-- [Facebook](https://facebook.com/devinreams)
-- [GitHub](https://github.com/devinreams)
-- [Untappd](https://untappd.com/user/devinreams)
-- [Email](mailto:devin@reams.me)
+<ul>
+    <li><a rel="me" href="https://github.com/devinreams" target="_blank"><span class="octicon octicon-mark-github"></span> GitHub</a></li>
+    <li><a rel="me" href="https://twitter.com/devinreams" target="_blank"><span class="octicon octicon-comment"></span> Twitter</a></li>
+    <li><a rel="me" href="https://hachyderm.io/@devinreams" target="_blank"><span class="octicon octicon-globe"></span> Mastodon</a></li>
+    <li><a rel="me" href="https://instagram.com/devinreams" target="_blank"><span class="octicon octicon-device-camera"></span> Instagram</a></li>
+    <li><a rel="me" href="https://facebook.com/devinreams" target="_blank"><span class="octicon octicon-thumbsup"></span> Facebook</a></li>
+    <li><a rel="me" href="mailto:devin@reams.me"><span class="octicon octicon-mail"></span> Email</a></li>
+</ul>
 
 ## Setup
 
 ### Gadgets
 
+- MacBook Air M2, 2022 (Midnight)
 - iPhone 14 Pro (Silver)
+- Apple Watch
+- eero
 - Sonos
-- Apple TV
+- Apple TV 4K
+- LG OLED
 - Kindle Paperwhite
 - Nintendo Switch
+- Peloton Bike
 
 ### Software
 
-- [Atom](http://atom.io/) for light coding and text editing
-- [Firefox](https://www.firefox.com/) for web work and browsing
+- [Code](https://code.visualstudio.com/) for light coding and text editing
+- [Firefox](https://www.firefox.com/) and Safari for web work and browsing
 - [GitHub](https://github.com/) for collaboration
-- [Gmail](https://mail.google.com/) for work and personal email
-- [Slack](https://slack.com) for work and personal chat
+- [Hemingway App](https://hemingwayapp.com) for clearer writing (I hope?)
+- [Linode](https://www.linode.com/lp/refer/?r=86bb1f0074fddd6de5fb72629a1330b3098bf43c) for web hosting
+- [CoPilot](https://copilot.money/link/Zqqh9hsYU8U1KJCP7) for personal finance and account management
