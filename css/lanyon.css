@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
   .intro img {
     float: left;
     margin: 0 1em 0 0;
-    width: 200px;
+    width: 25%;
   }
 }
 @media (min-width: 56rem) {

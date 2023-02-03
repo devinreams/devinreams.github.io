@@ -16,11 +16,6 @@ This includes a few features:
 - XML [sitemap](https://devin.reams.me/sitemap.xml)
 - Atom [feed](https://devin.reams.me/feed.xml) (redirected from `/feed/`)
 
-### Modify and Compile Styles
-
-- edit the css source files
-- `lessc -clean-css styles.min.less styles.min.css`
-
 ### License
 
 All original (posts) content devin.reams.me is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/) attributable to [Devin Reams](https://devin.reams.me/).
