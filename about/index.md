@@ -10,7 +10,7 @@ layout: page
 ## Quick Facts
 
 - I'm [married to my best friend](https://redmonk.com/rstephens/), Rachel and we have two cute kids.
-- I'm the CTO of the Denver-based startup [ToMarket](/2023/going-tomarket).
+- I was CTO of the Denver-based startup [ToMarket](/2023/going-tomarket) for [five months](/2020/the-fun-in-fundraising/).
 - I previously led mobile engineering at [Smartsheet](/2022/where-ive-been/).
 - I also helped lead a number of engineering teams at [Mozilla](https://mozilla.com/).
 - I also helped manage sales and business systems and operations at [GitHub](https://github.com/about/).
