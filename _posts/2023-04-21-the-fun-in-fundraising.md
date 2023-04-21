@@ -1,5 +1,5 @@
 ---
-title: Putting the "Fun" in Fundraising
+title: Putting the Fun in Fundraising
 layout: post
 ---
 
