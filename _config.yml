@@ -2,12 +2,12 @@
 name: Devin Reams
 title: Devin Reams
 sub-title: ""
-description: "Personal website of Devin Reams, software engineering leader."
-intro: "Hi! I'm [Devin](/about/). I'm sensibly impulsive, consistently non-committal, and passionately impartial. I'm a software engineering leader living in Denver, Colorado."
+description: "Personal website of Devin Reams, technologist in Colorado."
+intro: "Hi! I'm [Devin](/about/). I'm sensibly impulsive, consistently non-committal, and passionately impartial. I'm a technologist living in Denver, Colorado."
 
 email: devin@reams.me
 url: "https://devin.reams.me"
-version: 2.7.4
+version: 2.7.5
 
 # Build settings
 permalink: /:year/:title/

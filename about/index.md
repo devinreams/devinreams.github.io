@@ -26,7 +26,7 @@ layout: page
 <ul>
     <li><a rel="me" href="https://github.com/devinreams" target="_blank"><span class="octicon octicon-mark-github"></span> GitHub</a></li>
     <li><a rel="me" href="https://twitter.com/devinreams" target="_blank"><span class="octicon octicon-comment"></span> Twitter</a></li>
-    <li><a rel="me" href="https://hachyderm.io/@devinreams" target="_blank"><span class="octicon octicon-globe"></span> Mastodon</a></li>
+    <li><a rel="me" href="https://snowmastodon.social/@devinreams" target="_blank"><span class="octicon octicon-globe"></span> Mastodon</a></li>
     <li><a rel="me" href="https://instagram.com/devinreams" target="_blank"><span class="octicon octicon-device-camera"></span> Instagram</a></li>
     <li><a rel="me" href="https://facebook.com/devinreams" target="_blank"><span class="octicon octicon-thumbsup"></span> Facebook</a></li>
     <li><a rel="me" href="mailto:devin@reams.me"><span class="octicon octicon-mail"></span> Email</a></li>
