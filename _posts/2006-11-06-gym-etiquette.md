@@ -13,7 +13,7 @@ tags:
 ---
 Since everyone who reads this will likely be finding [happiness at a gym][1] now I think it&#8217;s only fair I prepare [another etiquette][2] guide for those of us new to athletic clubs, locker rooms, and gyms in general.
 
-<img src="https://devin.reams.me/wp-content/uploads/2006/11/bikes.jpg" align="center" />
+<img src="https://devin.rea.ms/wp-content/uploads/2006/11/bikes.jpg" align="center" />
 
 Without further ado, the following should be observed whilst working out at the gym:
 
@@ -43,5 +43,5 @@ We all know that running water can be pretty loud, especially when more than one
 
 These are just some of the fundamental tips. Having read this you should have no trouble at the gym now. Any other suggestions? Leave them in the comments&#8230;
 
- [1]: https://devin.reams.me/2006/exercise-equals-happiness/
- [2]: https://devin.reams.me/2006/college-etiquette/
+ [1]: https://devin.rea.ms/2006/exercise-equals-happiness/
+ [2]: https://devin.rea.ms/2006/college-etiquette/

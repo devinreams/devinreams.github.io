@@ -18,7 +18,7 @@ That&#8217;s right. What month did we just finish? September. We&#8217;re interv
 
 <tr valign="top">
   <td>
-    <img src="https://devin.reams.me/wp-content/uploads/2006/10/Slide5.thumbnail.JPG" />
+    <img src="https://devin.rea.ms/wp-content/uploads/2006/10/Slide5.thumbnail.JPG" />
   </td>
   
   <td>
@@ -33,7 +33,7 @@ That&#8217;s right. What month did we just finish? September. We&#8217;re interv
     <p>
       Additionally, you should know about the company, the position, and maybe even the people interviewing you. This seems common sense but if you want to demonstrate your desire to work for this company make sure you do your homework.</td> </tr> </table> <table width=100%> <tr valign="top">
         <td>
-          <img src="https://devin.reams.me/wp-content/uploads/2006/10/Slide6.thumbnail.JPG" />
+          <img src="https://devin.rea.ms/wp-content/uploads/2006/10/Slide6.thumbnail.JPG" />
         </td>
         
         <td>
@@ -48,7 +48,7 @@ That&#8217;s right. What month did we just finish? September. We&#8217;re interv
           <p>
             I&#8217;ve interviewed with some of the big four public accounting firms and they all have you do the same thing: go to a social event before you go to the office, interview with a bunch of different people, sit in on presentations about the company and then go to lunch. There is no secret to this: they&#8217;re really trying to find out who you are. Culture is a big thing (even between the big 4, they differ) and this is the time to recognize that. They&#8217;re not just taking you to lunch to feed you, they want to see how you interact outside the office.</td> </tr> </table> <table width=100%> <tr valign="top">
               <td>
-                <img src="https://devin.reams.me/wp-content/uploads/2006/10/Slide7.thumbnail.JPG" />
+                <img src="https://devin.rea.ms/wp-content/uploads/2006/10/Slide7.thumbnail.JPG" />
               </td>
               
               <td>
@@ -63,7 +63,7 @@ That&#8217;s right. What month did we just finish? September. We&#8217;re interv
                 <p>
                   Just make sure you&#8217;re not long winded. Brevity is the soul of wit.</td> </tr> </table> <table width=100%> <tr valign="top">
                     <td>
-                      <img src="https://devin.reams.me/wp-content/uploads/2006/10/Slide8.thumbnail.JPG" />
+                      <img src="https://devin.rea.ms/wp-content/uploads/2006/10/Slide8.thumbnail.JPG" />
                     </td>
                     
                     <td>
@@ -74,7 +74,7 @@ That&#8217;s right. What month did we just finish? September. We&#8217;re interv
                       <p>
                         Want to know how to ruin a great opportunity? Answer the following question: what is it about your peers that annoys you the most? Trap question. How about: what was the one thing you hated most about your previous boss? Yikes. Sure, these are probably the questions you can answer the best, right? Don&#8217;t do it! If you&#8217;re talking about how incompetent your last employer was why would I want to bring that upon myself? Why do we want someone on our team who has no problems finding faults in co-workers? In the interview, try hard to find and answer but come up short. Stay positive like: I guess I get along with people pretty well!</td> </tr> </table> <table width=100%> <tr valign="top">
                           <td>
-                            <img src="https://devin.reams.me/wp-content/uploads/2006/10/Slide9.thumbnail.JPG" />
+                            <img src="https://devin.rea.ms/wp-content/uploads/2006/10/Slide9.thumbnail.JPG" />
                           </td>
                           
                           <td>
@@ -84,7 +84,7 @@ That&#8217;s right. What month did we just finish? September. We&#8217;re interv
                             
                             <p>
                               This goes back to my first point. If you go into an interview and you don&#8217;t know what people think about you, you don&#8217;t know what your biggest strengths are, how are you going to be able to convince the person on the other side of the desk? Take some time to talk to peers, friends, co-workers, family and friends. Find out what they&#8217;d say about you and, of course, ask for the specifics.</td> </tr> </table> <p>
-                                Hopefully these help. I was approached by a few people and they said that having been to a few interviews these all make a lot of sense. So, as <a href="https://devin.reams.me/quotes/">Sam</a> put it:
+                                Hopefully these help. I was approached by a few people and they said that having been to a few interviews these all make a lot of sense. So, as <a href="https://devin.rea.ms/quotes/">Sam</a> put it:
                               </p>
                               
                               <blockquote>

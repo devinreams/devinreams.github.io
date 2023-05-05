@@ -16,7 +16,7 @@ The business-minded folks over at AT&T have yet again gone out of their way to t
 
 Then&#8230; then today I received a terribly annoying spam text message:
 
-<img src="https://devin.reams.me/wp-content/uploads/2012/04/IMG_1554-340x510.png" alt="" title="Spam Text Message" width="340" height="510" class="aligncenter size-medium-img wp-image-4218" />
+<img src="https://devin.rea.ms/wp-content/uploads/2012/04/IMG_1554-340x510.png" alt="" title="Spam Text Message" width="340" height="510" class="aligncenter size-medium-img wp-image-4218" />
 
 After searching DuckDuckGo and Google, AT&T&#8217;s own customer forums come up (with people helping each other out), after [their official FAQ page][1].
 
@@ -24,7 +24,7 @@ Thus, if I were to rely entirely on AT&T through its official support channels I
 
 <dl id="attachment_4219" class="wp-caption aligncenter" style="max-width:510px">
   <dt>
-    <a href="https://devin.reams.me/wp-content/uploads/2012/04/ATT-IRU-Wireless-Block-spam-text-messages-on-your-wireless-phone.png"><img src="https://devin.reams.me/wp-content/uploads/2012/04/ATT-IRU-Wireless-Block-spam-text-messages-on-your-wireless-phone-510x479.png" alt="" title="AT&T Wireless: Block spam text messages on your wireless phone" width="510" height="479" class="size-medium-img wp-image-4219" /></a>
+    <a href="https://devin.rea.ms/wp-content/uploads/2012/04/ATT-IRU-Wireless-Block-spam-text-messages-on-your-wireless-phone.png"><img src="https://devin.rea.ms/wp-content/uploads/2012/04/ATT-IRU-Wireless-Block-spam-text-messages-on-your-wireless-phone-510x479.png" alt="" title="AT&T Wireless: Block spam text messages on your wireless phone" width="510" height="479" class="size-medium-img wp-image-4219" /></a>
   </dt>
   
   <dd>

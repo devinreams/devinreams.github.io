@@ -21,7 +21,7 @@ That question is probably too hard to answer today.. maybe instead the point I w
 Without this kind of concrete direction, I feel that the project could experience severe cognitive dissonance and the [product-platform][5] chasm will only grow wider.
 
  [1]: http://wordpress.org/
- [2]: https://devin.reams.me/2013/what-competition-is-wordpress-up-against/
+ [2]: https://devin.rea.ms/2013/what-competition-is-wordpress-up-against/
  [3]: http://alexking.org/
  [4]: http://crowdfavorite.com/
  [5]: http://alexking.org/blog/2010/05/17/wordpress-platform-or-product

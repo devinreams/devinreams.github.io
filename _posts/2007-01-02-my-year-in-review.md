@@ -3,7 +3,7 @@ title: My Year in Review
 layout: post
 permalink: /2007/my-year-in-review/
 ---
-<img src="https://devin.reams.me/wp-content/uploads/2007/01/calendar.jpg" align="center" />
+<img src="https://devin.rea.ms/wp-content/uploads/2007/01/calendar.jpg" align="center" />
 
 The year has come to an end. A lot went on for me. I&#8217;ve landed a job after college, worked seven jobs at once, helped run a professional fraternity of over 130 people, joined 9rules, left b5media, met new people, learned new things. It&#8217;s been fun.
 
@@ -50,10 +50,10 @@ Obviously I&#8217;ve got some plans. I&#8217;ve been writing down stuff as I thi
  [3]: http://www.haveamint.com
  [4]: http://www.google.com/search?q=devin&#038;ie=utf-8&#038;oe=utf-8&#038;rls=org.mozilla:en-US:official&#038;client=firefox-a
  [5]: http://www.cpp-db.com/products/firo-b/index.asp
- [6]: https://devin.reams.me/2006/biphasic-sleep-faq/
+ [6]: https://devin.rea.ms/2006/biphasic-sleep-faq/
  [7]: http://en.wikipedia.org/wiki/Biphasic_sleep
- [8]: https://devin.reams.me/2006/miss-dewey-sucks/
+ [8]: https://devin.rea.ms/2006/miss-dewey-sucks/
  [10]: http://www.cuakpsi.com/
- [11]: https://devin.reams.me/
- [12]: https://devin.reams.me/2006/bookumentaries/
+ [11]: https://devin.rea.ms/
+ [12]: https://devin.rea.ms/2006/bookumentaries/
  [13]: http://nottoogeeky.com/bloggers-resolutions-and-multiple-blogs/

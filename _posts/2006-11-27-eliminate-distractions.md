@@ -11,7 +11,7 @@ tags:
   - Noteworthy
   - Personal
 ---
-<img src="https://devin.reams.me/wp-content/uploads/2006/11/distractions.png" align="center" />
+<img src="https://devin.rea.ms/wp-content/uploads/2006/11/distractions.png" align="center" />
 
 Since Thanksgiving break is over I figured now would be an appropriate time to talk about being productive (thanks, [Glenn][1]). Personally, I just spent a week watching movies, finishing seasons 2 and 3 of Lost, skiing, and napping. Unfortunately there are three weeks of school left before I can remain in this state of laziness.
 

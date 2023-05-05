@@ -24,5 +24,5 @@ Shortly following [our ceremony at the Denver Botanic Gardens][1] we went to [MC
 
 [geolocation]
 
- [1]: https://devin.reams.me/2011/the-wedding-ceremony/
+ [1]: https://devin.rea.ms/2011/the-wedding-ceremony/
  [2]: http://www.mcadenver.org/

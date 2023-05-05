@@ -15,7 +15,7 @@ tags:
 I want to talk about marketing production quality and how [Miss Dewey][1] lacks it. If you haven&#8217;t seen this site yet, it&#8217;s basically a search engine with a saucy librarian standing there being snarky and clever on occasion. If you don&#8217;t get around to typing in a search she&#8217;ll try to get your attention.
 
 <p align="center">
-  <img src="https://devin.reams.me/wp-content/uploads/2006/10/untitled.JPG" class="noborder" />
+  <img src="https://devin.rea.ms/wp-content/uploads/2006/10/untitled.JPG" class="noborder" />
 </p>
 
 Quite annoying, really.
@@ -51,6 +51,6 @@ This surprises me: after some quick research the company behind this site is [EV
 But, overall, it&#8217;s lame. Daniel, if you&#8217;re listening, provide some insight, please?
 
  [1]: http://www.msdewey.com/
- [2]: https://devin.reams.me/2006/9rules-rocks/
+ [2]: https://devin.rea.ms/2006/9rules-rocks/
  [3]: http://www.evb.com/
  [4]: http://2007.sxsw.com/

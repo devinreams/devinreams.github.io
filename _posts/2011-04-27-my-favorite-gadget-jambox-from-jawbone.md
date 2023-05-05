@@ -21,7 +21,7 @@ categories:
 ---
 I&#8217;ve been using the [JAMBOX from Jambone][1] since January and it&#8217;s become one of my favorite gadgets that I didn&#8217;t know I needed until I started using it.
 
-<img src="https://devin.reams.me/wp/wp-content/uploads/2011/04/Screen-Shot-2011-04-27-at-9.02.47-AM-300x118.png" alt="" title="Red JAMBOX" width="300" height="118" class="aligncenter size-medium wp-image-1899" />
+<img src="https://devin.rea.ms/wp/wp-content/uploads/2011/04/Screen-Shot-2011-04-27-at-9.02.47-AM-300x118.png" alt="" title="Red JAMBOX" width="300" height="118" class="aligncenter size-medium wp-image-1899" />
 
 ### What is JAMBOX
 

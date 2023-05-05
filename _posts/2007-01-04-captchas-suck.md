@@ -11,7 +11,7 @@ tags:
   - Noteworthy
   - Rants
 ---
-<img src="https://devin.reams.me/wp-content/uploads/2007/01/captcha.jpg" align="center" />
+<img src="https://devin.rea.ms/wp-content/uploads/2007/01/captcha.jpg" align="center" />
 
 I think my &#8216;captcha&#8217; batting average is 300 right now. [Captchas][1] are what we call those annoying boxes at the end of a form, or before you download a file. They show you a jumble of letters and numbers and you have to enter what it is. Apparently this is to circumvent non-human interaction with websites. In other words, to make sure no scripts, bots, or programs are automatically stealing all the concert tickets. Well, so far, I&#8217;m not getting any tickets either..
 

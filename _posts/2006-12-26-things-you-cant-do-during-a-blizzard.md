@@ -10,7 +10,7 @@ categories:
 tags:
   - Personal
 ---
-<img src="https://devin.reams.me/wp-content/uploads/2006/12/snowtrees.jpg" align="center" />
+<img src="https://devin.rea.ms/wp-content/uploads/2006/12/snowtrees.jpg" align="center" />
 
 With a lot of snow comes a lot of fun, obviously. By the same token, you become quite limited in what you can do. Having a blizzard half a week before Christmas sure makes things tricky. Here&#8217;s my list of the top five things you *can&#8217;t* do during a blizzard.
 

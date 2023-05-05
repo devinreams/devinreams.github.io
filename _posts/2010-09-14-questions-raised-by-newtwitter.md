@@ -9,7 +9,7 @@ categories:
   - Internet
   - Social Media
 ---
-[<img src="https://devin.reams.me/wp/wp-content/uploads/2010/09/Screen-shot-2010-09-16-at-2.29.44-AM.png" alt="" title="New Twitter" width="606" height="323" class="aligncenter size-full wp-image-1485" />][1]
+[<img src="https://devin.rea.ms/wp/wp-content/uploads/2010/09/Screen-shot-2010-09-16-at-2.29.44-AM.png" alt="" title="New Twitter" width="606" height="323" class="aligncenter size-full wp-image-1485" />][1]
 
 Twitter, the [non-social network][2] social network has announced a new web interface. 
 
@@ -24,7 +24,7 @@ Some initial observations and questions:
 
 And with that said, I don&#8217;t know why I use Twitter. [Alex][6] and I were chatting and I&#8217;ve come to the realization I get nearly no value from it. Perhaps that speaks to the people I follow. It&#8217;s not that they aren&#8217;t great people, I just don&#8217;t like their online personalities. Instead of the typical nerd values you expect to see from the people you know in person (quiet, smart, witty, polite) you get the vices (self-importance, loud, benign). I&#8217;m the first to admit I look at my profile and realize, I don&#8217;t think I would [follow me][7].
 
- [1]: https://devin.reams.me/wp/wp-content/uploads/2010/09/Screen-shot-2010-09-16-at-2.29.44-AM.png
+ [1]: https://devin.rea.ms/wp/wp-content/uploads/2010/09/Screen-shot-2010-09-16-at-2.29.44-AM.png
  [2]: http://www.readwriteweb.com/archives/twitter_is_not_a_social_network_says_twitter_exec.php
  [3]: https://twitter.com/newtwitter
  [4]: http://www.atebits.com/tweetie-mac/

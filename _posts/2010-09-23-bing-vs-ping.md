@@ -9,7 +9,7 @@ categories:
   - Business
   - Internet
 ---
-[<img src="https://devin.reams.me/wp/wp-content/uploads/2010/09/Screen-shot-2010-09-23-at-7.38.56-AM.png" alt="" title="Ping" width="471" height="177" class="aligncenter size-full wp-image-1538" />][1]
+[<img src="https://devin.rea.ms/wp/wp-content/uploads/2010/09/Screen-shot-2010-09-23-at-7.38.56-AM.png" alt="" title="Ping" width="471" height="177" class="aligncenter size-full wp-image-1538" />][1]
 
 I heard a commercial on \[Pandora\](http://pandora.com) last night that made me do a double take. I&#8217;ll paraphrase:
 
@@ -23,4 +23,4 @@ Of course, Bing is Microsoft&#8217;s search-engine-do-everything answer to Googl
 
 Perhaps Microsoft&#8217;s Bing is getting itself into the business of brand confusion. Maybe they&#8217;re trying to piggy back on the instant popularity of Apple&#8217;s Ping. Or perhaps it&#8217;s just a coincidence. Either way, I found it curious&#8230;
 
- [1]: https://devin.reams.me/wp/wp-content/uploads/2010/09/Screen-shot-2010-09-23-at-7.38.56-AM.png
+ [1]: https://devin.rea.ms/wp/wp-content/uploads/2010/09/Screen-shot-2010-09-23-at-7.38.56-AM.png

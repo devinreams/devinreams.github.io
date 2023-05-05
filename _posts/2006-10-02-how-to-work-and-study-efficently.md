@@ -13,4 +13,4 @@ But, how do you make the best use of your time?
 
 Sure, it sounds pretty straight-forward, you probably even know how what prioritizing means. The real question being: do you really practice it? It&#8217;s our nature to just do the easiest tasks first because it&#8217;s most rewarding. I admit it, we&#8217;ve become dependent on instant gratification. But, I
 
- [1]: https://devin.reams.me/2006/time-management/
+ [1]: https://devin.rea.ms/2006/time-management/

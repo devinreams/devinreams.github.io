@@ -10,7 +10,7 @@ categories:
 tags:
   - Weekly Update
 ---
-<img src="https://devin.reams.me/wp-content/uploads/2007/01/bowling.jpg" align="center" />
+<img src="https://devin.rea.ms/wp-content/uploads/2007/01/bowling.jpg" align="center" />
 
 As always, Sunday is the day I sit down and recap the latest in the life of Devin. Not because I think you&#8217;re interested but because it might be neat to look back in a year and see what it was I found &#8220;fun&#8221; and &#8220;interesting&#8221;. With that said&#8230;
 

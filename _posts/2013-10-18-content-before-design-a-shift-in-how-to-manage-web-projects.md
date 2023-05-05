@@ -43,4 +43,4 @@ I&#8217;d also recommend comparing and contrasting this thinking to the [traditi
  [3]: http://www.stephaniehay.com/writing-content-before-designing/
  [4]: http://stephaniehay.com/
  [5]: https://docs.google.com/a/crowdfave.org/document/d/1gRGnOzueQ4XlxwfxLCwh2U_U_o6J8ysKKZuIL_uRZVs/edit
- [6]: https://devin.reams.me/2013/reviewing-the-design-process-for-project-managers/
+ [6]: https://devin.rea.ms/2013/reviewing-the-design-process-for-project-managers/

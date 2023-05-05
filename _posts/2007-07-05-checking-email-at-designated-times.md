@@ -39,7 +39,7 @@ I&#8217;ve started doing this myself and I&#8217;ve realized the world won&#8217
 </ol>
 
 <p>
-  These regular intervals line up with everyone else&#8217;s day, right? You can focus on your <a href="https://devin.reams.me/2007/creating-a-daily-agenda/">major tasks of the day</a> and take care of email when you&#8217;re good and ready.
+  These regular intervals line up with everyone else&#8217;s day, right? You can focus on your <a href="https://devin.rea.ms/2007/creating-a-daily-agenda/">major tasks of the day</a> and take care of email when you&#8217;re good and ready.
 </p>
 
 <p>

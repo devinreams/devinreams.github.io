@@ -17,7 +17,7 @@ tags:
   </p>
   
   <p>
-    <img src="https://devin.reams.me/wp-content/uploads/2006/08/lincolnmemorial.jpg" class="noborder" />
+    <img src="https://devin.rea.ms/wp-content/uploads/2006/08/lincolnmemorial.jpg" class="noborder" />
   </p>
   
   <p>
@@ -51,7 +51,7 @@ tags:
   </p>
   
   <p>
-    <img src="https://devin.reams.me/wp-content/uploads/2006/08/capitol.jpg" class="noborder" />
+    <img src="https://devin.rea.ms/wp-content/uploads/2006/08/capitol.jpg" class="noborder" />
   </p>
   
   <h2>
@@ -77,7 +77,7 @@ tags:
   </p>
   
   <p>
-    <img src="https://devin.reams.me/wp-content/uploads/2006/08/flag.jpg" class="noborder" />
+    <img src="https://devin.rea.ms/wp-content/uploads/2006/08/flag.jpg" class="noborder" />
   </p>
   
   <h2>

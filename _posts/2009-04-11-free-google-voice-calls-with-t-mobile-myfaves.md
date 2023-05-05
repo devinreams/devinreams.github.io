@@ -33,15 +33,15 @@ But it gets better. I rarely, if ever, am forced to use our daytime minutes than
 
 ## Add your Google Voice number as a Fave
 
-<img src="https://devin.reams.me/wp/wp-content/uploads/2009/04/fave5.png" alt="fave5" title="fave5" width="415" height="367" class="aligncenter size-full wp-image-761" />
+<img src="https://devin.rea.ms/wp/wp-content/uploads/2009/04/fave5.png" alt="fave5" title="fave5" width="415" height="367" class="aligncenter size-full wp-image-761" />
 
 It&#8217;s not crazy, you *do* want your own phone number as a contact. Once you add your number to your MyFaves you can receive and make calls from/to that number with no charge. But first, make sure you set your incoming calls to display your Google Voice number instead of the caller&#8217;s number (so the calls appear from your MyFave contact):
 
-<img src="https://devin.reams.me/wp/wp-content/uploads/2009/05/voice-caller-id.png" alt="Google Voice Set Caller ID" title="Google Voice Set Caller ID" width="547" height="296" class="aligncenter size-full wp-image-768" />
+<img src="https://devin.rea.ms/wp/wp-content/uploads/2009/05/voice-caller-id.png" alt="Google Voice Set Caller ID" title="Google Voice Set Caller ID" width="547" height="296" class="aligncenter size-full wp-image-768" />
 
 Why is this awesome? You never use your minutes and have more than one way to complete a call:
 
-<img src="https://devin.reams.me/wp/wp-content/uploads/2009/04/png" alt="Google Voice call" title="Google Voice call" width="285" height="352" class="aligncenter size-full wp-image-759" />
+<img src="https://devin.rea.ms/wp/wp-content/uploads/2009/04/png" alt="Google Voice call" title="Google Voice call" width="285" height="352" class="aligncenter size-full wp-image-759" />
 
 1.  **Call your number, dial a number:** though not very practical, when you dial your Google Voice number from one of your existing phones (added to your Voice account) you are then prompted to listen to voicemail OR press 2 to dial a call. You can then dial a number and, while you&#8217;re still on the line, Google Voice will connect the call (unlimited talk time!). Keep in mind, the receiver will see the incoming call coming from your Google Voice number.
 2.  **Use the web service:** your Google Voice contacts are the same as those in your Gmail account. If you sync your phone&#8217;s contacts with your Google Contacts then this is a seamless integration. All of your friends&#8217; phone numbers appear in the Google Voice dashboard and you can click to call them. You are then called (the incoming number is your Google Voice) and your friend is connected. Again, since the call was from your Voice number, no charge!

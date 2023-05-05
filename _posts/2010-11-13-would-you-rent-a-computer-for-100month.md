@@ -12,7 +12,7 @@ categories:
 ---
 Since the most recent MacBook Air was announced, like any self-respecting nerd, I&#8217;ve been running some numbers.
 
-[<img src="https://devin.reams.me/wp/wp-content/uploads/2010/11/macbook-air.jpg" alt="" title="macbook-air" width="550" height="92" class="aligncenter size-full wp-image-1579" />][1]
+[<img src="https://devin.rea.ms/wp/wp-content/uploads/2010/11/macbook-air.jpg" alt="" title="macbook-air" width="550" height="92" class="aligncenter size-full wp-image-1579" />][1]
 
 ### The Past
 
@@ -88,6 +88,6 @@ Would you pay $100 per month to rent your personal computer?
 
 (If you hadn&#8217;t realized already, this is my round-about way of convincing myself its okay to buy a new, expensive, and potentially unnecessary gadget. Ha!)
 
- [1]: https://devin.reams.me/wp/wp-content/uploads/2010/11/macbook-air.jpg
+ [1]: https://devin.rea.ms/wp/wp-content/uploads/2010/11/macbook-air.jpg
  [2]: http://www.apple.com/macbookair/
  [3]: http://www.msnbc.msn.com/id/29796962/ns/technology_and_science-tech_and_gadgets

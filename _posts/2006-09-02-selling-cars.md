@@ -12,5 +12,5 @@ tags:
 ---
 Hi [Ford][1], take note: Jeep has done an infinately better job of marketing to students. [This Facebook group][2] is so simple. Nicely done.
 
- [1]: https://devin.reams.me/2006/ford-cant-sell-to-students/
+ [1]: https://devin.rea.ms/2006/ford-cant-sell-to-students/
  [2]: http://www.flickr.com/photos/devdev/231922627/

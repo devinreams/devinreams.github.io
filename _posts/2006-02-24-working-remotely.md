@@ -12,4 +12,4 @@ tags:
 ---
 Next week I&#8217;m going to try [working from home][1]. It&#8217;ll be interesting to see how productive I can truly be&#8230;
 
- [1]: https://devin.reams.me/2006/working-from-home/
+ [1]: https://devin.rea.ms/2006/working-from-home/

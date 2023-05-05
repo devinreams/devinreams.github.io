@@ -22,5 +22,5 @@ Related: [What competition is WordPress up against?][4]
 
  [1]: http://www.chrisbrogan.com/medium/
  [2]: http://chrisyeh.blogspot.com/2007/02/grand-unified-theorem-of-blogging.html
- [3]: https://devin.reams.me/2007/blogging-audiences-and-feedback/
- [4]: https://devin.reams.me/2013/what-competition-is-wordpress-up-against/
+ [3]: https://devin.rea.ms/2007/blogging-audiences-and-feedback/
+ [4]: https://devin.rea.ms/2013/what-competition-is-wordpress-up-against/

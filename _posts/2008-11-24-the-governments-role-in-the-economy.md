@@ -34,7 +34,7 @@ The politics behind the bailouts are sticky and the plan&#8217;s effectiveness i
 
 Also, those who are further interested may want to follow NPR&#8217;s [Planet Money podcast][5] for a more in-depth look at many of the underlying issues.
 
- [1]: https://devin.reams.me/2008/stock-market-misconceptions/
+ [1]: https://devin.rea.ms/2008/stock-market-misconceptions/
  [2]: http://en.wikipedia.org/wiki/Reserve_requirements
  [3]: http://www.thisamericanlife.org/Radio_Episode.aspx?episode=365
  [4]: http://money.cnn.com/2008/11/25/news/economy/where_bailout_stands/?postversion=2008112513

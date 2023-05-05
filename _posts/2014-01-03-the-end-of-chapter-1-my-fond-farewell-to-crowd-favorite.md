@@ -59,7 +59,7 @@ I&#8217;m excited because I know there are great things coming for both myself a
 [9]: http://velomedia.com
 [10]: http://crowdfavorite.com/blog/2013/11/crowd-favorite-and-velomedia/
 [11]: http://crowdfavorite.com/blog/
-[12]: https://devin.reams.me/
+[12]: https://devin.rea.ms/
 [13]: http://linkedin.com/in/devinreams
 [14]: http://crowdfavorite.com/
 

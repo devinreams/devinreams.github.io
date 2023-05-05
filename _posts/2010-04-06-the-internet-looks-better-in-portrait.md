@@ -15,7 +15,7 @@ Previously, I would work with a laptop and an attached LCD monitor on my desk. I
 
 <dl id="attachment_1095" class="wp-caption aligncenter" style="max-width:480px">
   <dt>
-    <a href="https://devin.reams.me/wp/wp-content/uploads/2010/04/p_1024_768_2ACA2507-B426-43CD-ABCF-CCC23A3CC810.jpeg"><img src="https://devin.reams.me/wp/wp-content/uploads/2010/04/p_1024_768_2ACA2507-B426-43CD-ABCF-CCC23A3CC810.jpeg" alt="" title="Adobe Flash" width="480" height="640" class="size-full wp-image-1095" /></a>
+    <a href="https://devin.rea.ms/wp/wp-content/uploads/2010/04/p_1024_768_2ACA2507-B426-43CD-ABCF-CCC23A3CC810.jpeg"><img src="https://devin.rea.ms/wp/wp-content/uploads/2010/04/p_1024_768_2ACA2507-B426-43CD-ABCF-CCC23A3CC810.jpeg" alt="" title="Adobe Flash" width="480" height="640" class="size-full wp-image-1095" /></a>
   </dt>
   
   <dd>

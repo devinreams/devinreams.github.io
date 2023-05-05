@@ -11,7 +11,7 @@ tags:
   - Noteworthy
   - Personal
 ---
-<img src="https://devin.reams.me/wp-content/uploads/2006/12/five.jpg" align="center" />
+<img src="https://devin.rea.ms/wp-content/uploads/2006/12/five.jpg" align="center" />
 
 Well, it&#8217;s finally happened, [Glenn Wolsey][1] and [Ralph Dagza][2] &#8216;tagged&#8217; me in the &#8220;Things you don&#8217;t know about me&#8221; meme. I think this one can be fun if I put some thought into it. After some time I&#8217;ve come up with the following. Friends new and old may all surprised by my personal trivia.
 

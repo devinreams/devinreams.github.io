@@ -10,4 +10,4 @@ Here&#8217;s some [photos from the inaugural Monktoberfest in 2011][3].
 
  [1]: http://monktoberfest.com
  [2]: http://monktoberfest2013.eventbrite.com
- [3]: https://devin.reams.me/2011/monktobefest-in-portland-me/
+ [3]: https://devin.rea.ms/2011/monktobefest-in-portland-me/

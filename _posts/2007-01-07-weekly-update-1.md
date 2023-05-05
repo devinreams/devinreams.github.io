@@ -11,7 +11,7 @@ tags:
   - Personal
   - Weekly Update
 ---
-<img src="https://devin.reams.me/wp-content/uploads/2007/01/mountainrange.jpg" align="center" />
+<img src="https://devin.rea.ms/wp-content/uploads/2007/01/mountainrange.jpg" align="center" />
 
 This week I begin my year&#8217;s worth of updates on me, myself and I. It only makes sense given the site is called Devin Reams dot com, right? This should be a pretty interesting goal slash resolution to keep. Tune in to see how I stretch my life to seem exciting and eventful.
 
@@ -39,4 +39,4 @@ It snowed again this week. Not a ton (like the last two) but enough to shut down
  [2]: http://www.flickr.com/photos/devdev/348405885/
  [3]: http://www.coloradosnowblog.com/
  [4]: http://www.meltingpot.com/
- [5]: https://devin.reams.me/2007/community-next/
+ [5]: https://devin.rea.ms/2007/community-next/

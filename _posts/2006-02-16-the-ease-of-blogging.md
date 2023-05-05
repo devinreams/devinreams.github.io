@@ -40,6 +40,6 @@ Other personal bloggers, such as myself, frequently emote ([MySpace sucks][5], [
  [2]: http://www.engadget.com/
  [3]: http://www.avalonstar.com/
  [4]: http://www.paulstamatiou.com/
- [5]: https://devin.reams.me/2006/myspace-ads-suck/
- [6]: https://devin.reams.me/2006/msn-search-and-win/
+ [5]: https://devin.rea.ms/2006/myspace-ads-suck/
+ [6]: https://devin.rea.ms/2006/msn-search-and-win/
  [7]: http://www.problogger.net/

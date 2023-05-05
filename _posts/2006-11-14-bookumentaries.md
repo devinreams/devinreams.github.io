@@ -12,7 +12,7 @@ tags:
 ---
 I enjoy reading, it truly expands my knowledge base and introduces me to so many great new ideas. In turn, I enjoy sharing them and talking with others about them. But recently I&#8217;ve struggled to find time to read. As [mentioned before][1], I manage my time pretty closely; I fill every hour of my schedule. Unfortunately, work and school take up nearly all of my time lately. When can I find time to read?
 
-<img src="https://devin.reams.me/wp-content/uploads/2006/11/books.jpg" align="center" />
+<img src="https://devin.rea.ms/wp-content/uploads/2006/11/books.jpg" align="center" />
 
 <!--more-->
 
@@ -26,7 +26,7 @@ Is there something keeping authors from doing this in the first place? Is it sim
 
 What do you think? Do you read a lot? Would you rather watch an hour documentary on something like [The Tipping Point][3] or [The Starfish and the Spider][4] or spend a few hours to read the book? This is something I&#8217;d really like to do and I&#8217;d like to think out-loud about it a bit more&#8230;
 
- [1]: https://devin.reams.me/2006/time-management/
+ [1]: https://devin.rea.ms/2006/time-management/
  [2]: http://www.boxofficemojo.com/genres/chart/?id=documentary.htm
  [3]: http://www.amazon.com/Tipping-Point-Little-Things-Difference/dp/0316346624
  [4]: http://www.amazon.com/Starfish-Spider-Unstoppable-Leaderless-Organizations/dp/1591841437

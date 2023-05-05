@@ -8,7 +8,7 @@ categories:
 ---
 I added a &#8220;screen is locked&#8221; message (new to \[OS X Lion\](http://www.apple.com/macosx/) under System Preferences > Security &#038; Privacy) to my laptop since I&#8217;m traveling. It says:
 
-<a href="https://devin.reams.me/2011/my-lock-screen-message-on-os-x-lion/photo-8/" rel="attachment wp-att-2168"><img src="https://devin.reams.me/wp/wp-content/uploads/2011/08/photo1-e1313683185890-224x300.jpg" alt="" title="OS X Lion &quot;locked screen&quot; message" width="224" height="300" class="aligncenter size-medium wp-image-2168" /></a>
+<a href="https://devin.rea.ms/2011/my-lock-screen-message-on-os-x-lion/photo-8/" rel="attachment wp-att-2168"><img src="https://devin.rea.ms/wp/wp-content/uploads/2011/08/photo1-e1313683185890-224x300.jpg" alt="" title="OS X Lion &quot;locked screen&quot; message" width="224" height="300" class="aligncenter size-medium wp-image-2168" /></a>
 
 > &#8220;Hard Drive is encrypted. If found, please contact 303-835-3512&#8243;
 

@@ -40,5 +40,5 @@ The greatest engineers are not necessarily the greatest project managers. A lot 
 But most of all, it&#8217;s fun to come together and chat with friends (new and old) and talk about how things are going, where things are headed, where we&#8217;ve all been, and trade notes on personal and professional subjects alike. Here&#8217;s to another great WordCamp San Francisco.
 
  [1]: http://wordpress.tv/2013/07/29/matt-mullenweg-state-of-the-word-2013/
- [2]: https://devin.reams.me/2013/what-competition-is-wordpress-up-against/
+ [2]: https://devin.rea.ms/2013/what-competition-is-wordpress-up-against/
  [3]: http://wordpress.tv/2013/07/28/mark-jaquith-confident-commits-delightful-deploys-2/

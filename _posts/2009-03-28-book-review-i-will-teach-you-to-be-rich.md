@@ -60,4 +60,4 @@ Enough said: go buy [I Will Teach You To Be Rich][1]<img src="http://www.assoc-a
  [5]: http://jonathanotto.com/
  [6]: http://okdork.com
  [7]: http://mint.com/
- [8]: https://devin.reams.me/2009/02/taxes-filed-beware-turbotax/
+ [8]: https://devin.rea.ms/2009/02/taxes-filed-beware-turbotax/

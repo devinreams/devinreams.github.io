@@ -14,4 +14,4 @@ Um, hi everyone. I&#8217;ve been using these &#8216;hosted applications&#8217; f
 
  [1]: http://gmail.google.com/hosted/devinreams.com
  [2]: http://www.google.com/calendar/hosted/devinreams.com/render
- [3]: https://devin.reams.me/
+ [3]: https://devin.rea.ms/

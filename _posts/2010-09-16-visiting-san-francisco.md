@@ -14,7 +14,7 @@ Beyond the typical attractions (Fisherman&#8217;s Wharf) we had a chance to expl
 <div class='gallery'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://devin.reams.me/2010/visiting-san-francisco/img_0041/'><img width="150" height="150" src="https://devin.reams.me/wp-content/uploads/2010/09/IMG_0041-150x150.jpg" class="attachment-thumbnail" alt="Fisherman&#039;s Wharf" /></a>
+      <a href='https://devin.rea.ms/2010/visiting-san-francisco/img_0041/'><img width="150" height="150" src="https://devin.rea.ms/wp-content/uploads/2010/09/IMG_0041-150x150.jpg" class="attachment-thumbnail" alt="Fisherman&#039;s Wharf" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>
@@ -24,7 +24,7 @@ Beyond the typical attractions (Fisherman&#8217;s Wharf) we had a chance to expl
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://devin.reams.me/2010/visiting-san-francisco/img_0077/'><img width="150" height="150" src="https://devin.reams.me/wp-content/uploads/2010/09/IMG_0077-150x150.jpg" class="attachment-thumbnail" alt="Exploratorium Museum" /></a>
+      <a href='https://devin.rea.ms/2010/visiting-san-francisco/img_0077/'><img width="150" height="150" src="https://devin.rea.ms/wp-content/uploads/2010/09/IMG_0077-150x150.jpg" class="attachment-thumbnail" alt="Exploratorium Museum" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>
@@ -34,13 +34,13 @@ Beyond the typical attractions (Fisherman&#8217;s Wharf) we had a chance to expl
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://devin.reams.me/2010/visiting-san-francisco/img_0079/'><img width="150" height="150" src="https://devin.reams.me/wp-content/uploads/2010/09/IMG_0079-150x150.jpg" class="attachment-thumbnail" alt="Devin&#039;s mirrored reflection" /></a>
+      <a href='https://devin.rea.ms/2010/visiting-san-francisco/img_0079/'><img width="150" height="150" src="https://devin.rea.ms/wp-content/uploads/2010/09/IMG_0079-150x150.jpg" class="attachment-thumbnail" alt="Devin&#039;s mirrored reflection" /></a>
     </dt>
   </dl>
   
   <br style="clear: both" /><dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://devin.reams.me/2010/visiting-san-francisco/img_0094/'><img width="150" height="150" src="https://devin.reams.me/wp-content/uploads/2010/09/IMG_0094-150x150.jpg" class="attachment-thumbnail" alt="Golden Gate Park" /></a>
+      <a href='https://devin.rea.ms/2010/visiting-san-francisco/img_0094/'><img width="150" height="150" src="https://devin.rea.ms/wp-content/uploads/2010/09/IMG_0094-150x150.jpg" class="attachment-thumbnail" alt="Golden Gate Park" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>
@@ -50,19 +50,19 @@ Beyond the typical attractions (Fisherman&#8217;s Wharf) we had a chance to expl
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://devin.reams.me/2010/visiting-san-francisco/img_0098/'><img width="150" height="150" src="https://devin.reams.me/wp-content/uploads/2010/09/IMG_0098-150x150.jpg" class="attachment-thumbnail" alt="Golden Gate Park bridge" /></a>
+      <a href='https://devin.rea.ms/2010/visiting-san-francisco/img_0098/'><img width="150" height="150" src="https://devin.rea.ms/wp-content/uploads/2010/09/IMG_0098-150x150.jpg" class="attachment-thumbnail" alt="Golden Gate Park bridge" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://devin.reams.me/2010/visiting-san-francisco/img_0099/'><img width="150" height="150" src="https://devin.reams.me/wp-content/uploads/2010/09/IMG_0099-150x150.jpg" class="attachment-thumbnail" alt="Flower in Golden Gate Park" /></a>
+      <a href='https://devin.rea.ms/2010/visiting-san-francisco/img_0099/'><img width="150" height="150" src="https://devin.rea.ms/wp-content/uploads/2010/09/IMG_0099-150x150.jpg" class="attachment-thumbnail" alt="Flower in Golden Gate Park" /></a>
     </dt>
   </dl>
   
   <br style="clear: both" /><dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://devin.reams.me/2010/visiting-san-francisco/img_0124/'><img width="150" height="150" src="https://devin.reams.me/wp-content/uploads/2010/09/IMG_0124-150x150.jpg" class="attachment-thumbnail" alt="Rachel and the Muir Redwoods" /></a>
+      <a href='https://devin.rea.ms/2010/visiting-san-francisco/img_0124/'><img width="150" height="150" src="https://devin.rea.ms/wp-content/uploads/2010/09/IMG_0124-150x150.jpg" class="attachment-thumbnail" alt="Rachel and the Muir Redwoods" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>
@@ -72,7 +72,7 @@ Beyond the typical attractions (Fisherman&#8217;s Wharf) we had a chance to expl
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://devin.reams.me/2010/visiting-san-francisco/img_0140/'><img width="150" height="150" src="https://devin.reams.me/wp-content/uploads/2010/09/IMG_0140-150x150.jpg" class="attachment-thumbnail" alt="Devin and Rachel" /></a>
+      <a href='https://devin.rea.ms/2010/visiting-san-francisco/img_0140/'><img width="150" height="150" src="https://devin.rea.ms/wp-content/uploads/2010/09/IMG_0140-150x150.jpg" class="attachment-thumbnail" alt="Devin and Rachel" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>
@@ -82,7 +82,7 @@ Beyond the typical attractions (Fisherman&#8217;s Wharf) we had a chance to expl
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://devin.reams.me/2010/visiting-san-francisco/img_0145/'><img width="150" height="150" src="https://devin.reams.me/wp-content/uploads/2010/09/IMG_0145-150x150.jpg" class="attachment-thumbnail" alt="Muir Woods in perspective" /></a>
+      <a href='https://devin.rea.ms/2010/visiting-san-francisco/img_0145/'><img width="150" height="150" src="https://devin.rea.ms/wp-content/uploads/2010/09/IMG_0145-150x150.jpg" class="attachment-thumbnail" alt="Muir Woods in perspective" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>

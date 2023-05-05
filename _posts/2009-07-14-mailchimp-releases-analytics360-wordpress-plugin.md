@@ -20,7 +20,7 @@ tags:
 At [Crowd Favorite][1], we often have the privilege of working with some very cool [clients][2]. These last few weeks we worked closely with [MailChimp][3] to help release a WordPress plugin called [Analytics360&deg;][4].  
 <dl id="attachment_856" class="wp-caption aligncenter" style="max-width:475px">
   <dt>
-    <a href="http://wordpress.org/extend/plugins/analytics360/"><img src="https://devin.reams.me/wp/wp-content/uploads/2009/07/analytics360-dashboard.png" alt="Dashboard view of the Analytics360 plugin" title="Analytics360 dashboard view" width="475" height="325" class="size-full wp-image-856" /></a>
+    <a href="http://wordpress.org/extend/plugins/analytics360/"><img src="https://devin.rea.ms/wp/wp-content/uploads/2009/07/analytics360-dashboard.png" alt="Dashboard view of the Analytics360 plugin" title="Analytics360 dashboard view" width="475" height="325" class="size-full wp-image-856" /></a>
   </dt>
   
   <dd>

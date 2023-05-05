@@ -10,7 +10,7 @@ categories:
 tags:
   - Weekly Update
 ---
-<img src="https://devin.reams.me/wp-content/uploads/2007/01/colorado.png" align="center" />
+<img src="https://devin.rea.ms/wp-content/uploads/2007/01/colorado.png" align="center" />
 
 Whoops, it&#8217;s already been another week. Here I am to revisit all the excitement that went on last week. With school starting there&#8217;s obviously tons of great stuff to talk about&#8230;
 

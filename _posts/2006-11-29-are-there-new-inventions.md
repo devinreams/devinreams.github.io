@@ -10,7 +10,7 @@ categories:
 tags:
   - Technology
 ---
-<img src="https://devin.reams.me/wp-content/uploads/2006/11/wheel.jpg" align="center" />
+<img src="https://devin.rea.ms/wp-content/uploads/2006/11/wheel.jpg" align="center" />
 
 Apparently YouTube was listed as [Time&#8217;s Top Invention of 2006][1]. As [Nathan][2] so simply explained, YouTube is hardly an invention. In fact, a lot of what we
 

@@ -10,6 +10,6 @@ categories:
 tags:
   - Antiquated
 ---
-<img src="https://devin.reams.me/wp-content/uploads/2006/12/goal.jpg" align="center" />
+<img src="https://devin.rea.ms/wp-content/uploads/2006/12/goal.jpg" align="center" />
 
 I was talking to Ian Ybarra the other day and realized that, although my days and weeks are largely planned out, what about the long term planning? Sure, I can prioritize the little tasks but what about the big picture? Do I know what it is I

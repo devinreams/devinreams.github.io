@@ -12,7 +12,7 @@ tags:
 ---
 This week is one of vacation for some of us in the states. I have the entire week off to rest, relax, and think about what it is I&#8217;m thankful for. Naturally, I wanted to share some of the things I&#8217;ve been thankful for this year; without the following I wouldn&#8217;t be who I am nor where I am today.
 
-<img src="https://devin.reams.me/wp-content/uploads/2006/11/monitors.jpg" align="center" />
+<img src="https://devin.rea.ms/wp-content/uploads/2006/11/monitors.jpg" align="center" />
 
 <!--more-->
 

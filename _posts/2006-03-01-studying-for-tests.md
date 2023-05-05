@@ -29,4 +29,4 @@ In short, spend the time &#8216;studying&#8217; as the semester progresses. Sure
 
 Yes, I&#8217;m on the Dean&#8217;s List. I know I&#8217;m in (at least) the top 7 percent of the school. But that doesn&#8217;t necessairly mean I&#8217;m &#8220;smart&#8221;. You don&#8217;t have to be &#8220;smart&#8221; to succeed&#8230; look at the Fortune 500 CEOs. No, all you have to be is <span style="font-weight: bold">clever</span>.
 
- [1]: https://devin.reams.me/2006/dealing-with-stress-proactive/
+ [1]: https://devin.rea.ms/2006/dealing-with-stress-proactive/

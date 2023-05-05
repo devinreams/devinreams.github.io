@@ -11,7 +11,7 @@ tags:
   - Lifehack
   - Personal
 ---
-I?ve been reading a bunch on stress (given I'm a <a href="https://devin.reams.me/2006/workaholics/">workaholic</a>) and I've done some thinking: I rarely ever feel stressed so I never have to deal with it. I've never understood why this is, though. Maybe I?m stress proof, maybe it?s how I live my life? My question to you is:
+I?ve been reading a bunch on stress (given I'm a <a href="https://devin.rea.ms/2006/workaholics/">workaholic</a>) and I've done some thinking: I rarely ever feel stressed so I never have to deal with it. I've never understood why this is, though. Maybe I?m stress proof, maybe it?s how I live my life? My question to you is:
 
 <strong>How do <em>you</em> deal with stress?</strong>
 

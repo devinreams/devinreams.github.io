@@ -17,7 +17,7 @@ categories:
   - 'Food &amp; Drink'
   - Humor
 ---
-<img src="https://devin.reams.me/wp-content/uploads/2011/12/tim-tebow-150x150.jpg" alt="" title="Tim Tebow praying" width="150" height="150" class="alignleft size-thumbnail wp-image-2923" />If you&#8217;ve watched any football lately you&#8217;d know we and the media all love Tim Tebow and his on-field down-on-one-knee prayers during the games.
+<img src="https://devin.rea.ms/wp-content/uploads/2011/12/tim-tebow-150x150.jpg" alt="" title="Tim Tebow praying" width="150" height="150" class="alignleft size-thumbnail wp-image-2923" />If you&#8217;ve watched any football lately you&#8217;d know we and the media all love Tim Tebow and his on-field down-on-one-knee prayers during the games.
 
 Well, have you heard of the &#8220;Tebow&#8221;ne shot? I hadn&#8217;t either until the other night when we visited a local pub here in Denver (specializing in meats), [Euclid Hall][1], with some friends.
 

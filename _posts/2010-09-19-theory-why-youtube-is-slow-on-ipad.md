@@ -9,7 +9,7 @@ categories:
   - Gadgets
   - Internet
 ---
-<img src="https://devin.reams.me/wp/wp-content/uploads/2010/09/ipad_hometimes.jpg" alt="" title="ipad_hometimes" width="580" height="408" class="aligncenter size-full wp-image-1523" />
+<img src="https://devin.rea.ms/wp/wp-content/uploads/2010/09/ipad_hometimes.jpg" alt="" title="ipad_hometimes" width="580" height="408" class="aligncenter size-full wp-image-1523" />
 
 The iPad appears to have had an issue from day one: videos from YouTube can sometimes take extremely long to buffer and play. As with any inconsistent behavior, you don&#8217;t notice this the 95% of the time when there is no problem. But that 5% will frustrate you to no end. Especially since other devices (laptops, smartphones) can load the same videos blazingly fast on the same network. Plus, other video providers including Vimeo, Hulu, and Netflix have no issue at the same time.
 

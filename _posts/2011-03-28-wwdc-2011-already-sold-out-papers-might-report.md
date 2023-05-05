@@ -15,11 +15,11 @@ Certainly, there are much more important things going on in the world lately. I 
 
 Here&#8217;s a graph I made to try and understand some of the common sources of news I encounter:
 
-[<img src="https://devin.reams.me/wp/wp-content/uploads/2011/03/speed-quality-reporting.png" alt="" title="Speed vs. Quality of Reporting" width="550" height="550" class="aligncenter size-full wp-image-1778" />][4]
+[<img src="https://devin.rea.ms/wp/wp-content/uploads/2011/03/speed-quality-reporting.png" alt="" title="Speed vs. Quality of Reporting" width="550" height="550" class="aligncenter size-full wp-image-1778" />][4]
 
 I&#8217;m not quite sure what to make of all this. But, I realize that timing is just one of many factors in the evolution of journalism: I heard about the WWDC announcement while checking twitter before getting out of bed this morning (long before I even received the announcement email from Apple). Though, I&#8217;ve waited until now to read in-depth stories on nuclear reactors and the Japan earthquakes. This, of course, is despite my ability to have watched, in real-time, a tsunami wave land on the east coast. I don&#8217;t know where to go to strike a good balance
 
  [1]: http://developer.apple.com/wwdc/
  [2]: http://www.nytimes.com/2009/06/21/world/asia/21taliban.html
  [3]: http://www.theatlantic.com/infocus/
- [4]: https://devin.reams.me/wp/wp-content/uploads/2011/03/speed-quality-reporting.png
+ [4]: https://devin.rea.ms/wp/wp-content/uploads/2011/03/speed-quality-reporting.png

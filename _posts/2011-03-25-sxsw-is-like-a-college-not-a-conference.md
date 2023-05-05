@@ -8,7 +8,7 @@ categories:
   - Internet
   - Life
 ---
-[<img src="https://devin.reams.me/wp/wp-content/uploads/2011/03/sxsw2010.jpg" alt="" title="SXSW Interactive 2010" width="600" height="399" class="aligncenter size-full wp-image-1763" />][1]
+[<img src="https://devin.rea.ms/wp/wp-content/uploads/2011/03/sxsw2010.jpg" alt="" title="SXSW Interactive 2010" width="600" height="399" class="aligncenter size-full wp-image-1763" />][1]
 
 Every year in mid-March, the internet becomes filled with criticism around the [South by Southwest Interactive conference][2]. The recurring complaints are largely old-timers stating things aren&#8217;t the way they used to be. I think the discussion should be re-framed, though: Interactive is more like going to university for a week than going to a conference.
 

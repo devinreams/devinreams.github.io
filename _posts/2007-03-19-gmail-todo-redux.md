@@ -23,5 +23,5 @@ It&#8217;s cool because it rhymes. So, you might remember [my very simple GMail 
 
 Just keep in mind it only lists the *unread* items. But, once subscribed you can have a [neat reminder on your desktop like mine][2].
 
- [1]: https://devin.reams.me/2006/gmail-todo-list/
+ [1]: https://devin.rea.ms/2006/gmail-todo-list/
  [2]: http://www.flickr.com/photos/devdev/427665505/

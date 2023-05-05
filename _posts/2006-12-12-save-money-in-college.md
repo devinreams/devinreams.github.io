@@ -12,7 +12,7 @@ tags:
   - Reviews
   - Websites
 ---
-<img src="https://devin.reams.me/wp-content/uploads/2006/12/money.jpg" align="center" />
+<img src="https://devin.rea.ms/wp-content/uploads/2006/12/money.jpg" align="center" />
 
 I&#8217;ve been asked to review ([sponsored][1]) an awesome resource put together by Daniel Kovach of [Scholarships Around the U.S][2]. First off, his site is an amazing place for students to find information on financial aid. He has a lot of opportunities ([Paul][3] won money as a student blogger) and a lot of good information including his guide: [118 Ways to Save Money in College][4].
 

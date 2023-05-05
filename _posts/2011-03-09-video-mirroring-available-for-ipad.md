@@ -7,7 +7,7 @@ categories:
   - Gadgets
   - Internet
 ---
-[<img src="https://devin.reams.me/wp/wp-content/uploads/2011/03/ipad2_facetime-300x160.jpg" alt="" title="iPad 2 with Facetime" width="300" height="160" class="alignright size-medium wp-image-1755" />][1]On the latest episodes of [Hypercritical][2] and [The Talk Show][3], both [John Siracusa][4] and [John Gruber][5], respectively, pondered the latest Apple iPad feature: [video mirroring][6].
+[<img src="https://devin.rea.ms/wp/wp-content/uploads/2011/03/ipad2_facetime-300x160.jpg" alt="" title="iPad 2 with Facetime" width="300" height="160" class="alignright size-medium wp-image-1755" />][1]On the latest episodes of [Hypercritical][2] and [The Talk Show][3], both [John Siracusa][4] and [John Gruber][5], respectively, pondered the latest Apple iPad feature: [video mirroring][6].
 
 In short: video mirroring allows you to hook up an iPad to a cable connector and project exactly what you see on your iPad screen onto another display device; a video projector, television, and external display are all good candidates for video mirroring. This is what you can do with almost any laptop today.
 
@@ -35,7 +35,7 @@ Apple is at Step 1 again: allowing people to watch their television and other su
 
 In short, this will not happen overnight like the Napster days of old. The carpet will be slowly pulled out from everyone&#8217;s feet (perhaps including [Apple&#8217;s own developer relationships][14]). The mirrored display feature is just another subtle step in that direction.
 
- [1]: https://devin.reams.me/wp/wp-content/uploads/2011/03/ipad2_facetime.jpg
+ [1]: https://devin.rea.ms/wp/wp-content/uploads/2011/03/ipad2_facetime.jpg
  [2]: http://5by5.tv/hypercritical/8
  [3]: http://5by5.tv/talkshow/32
  [4]: http://arstechnica.com/staff/fatbits/

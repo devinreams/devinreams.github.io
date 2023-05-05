@@ -36,4 +36,4 @@ Do I still want to be a technology entrepreneur? I don&#8217;t know. I think I&#
 
 It&#8217;ll be fun to look back&#8230; again.
 
- [1]: https://devin.reams.me/2006/do-you-need-long-term-goals/
+ [1]: https://devin.rea.ms/2006/do-you-need-long-term-goals/

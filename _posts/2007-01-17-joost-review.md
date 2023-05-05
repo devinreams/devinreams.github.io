@@ -12,7 +12,7 @@ tags:
   - Software
   - Technology
 ---
-<img src="https://devin.reams.me/wp-content/uploads/2007/01/joost.png" align="center" />
+<img src="https://devin.rea.ms/wp-content/uploads/2007/01/joost.png" align="center" />
 
 I&#8217;ve had the pleasure of testing out a new product (previously named &#8220;The Venice Project&#8221;) that will, perhaps, revolutionize the way we experience &#8220;television&#8221; in the coming years. From the creators of Skype (free online calls) comes [Joost][1] (free online TV). Is it awesome? Yes. Is it in a closed beta? Yes. But will I tell you all the neat things about it? Sure I will&#8230;
 

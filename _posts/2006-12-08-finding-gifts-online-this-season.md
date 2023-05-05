@@ -10,7 +10,7 @@ categories:
 tags:
   - Websites
 ---
-<img src="https://devin.reams.me/wp-content/uploads/2006/12/gifts1.jpg" align="center" />
+<img src="https://devin.rea.ms/wp-content/uploads/2006/12/gifts1.jpg" align="center" />
 
 First, welcome to my new readers. I noticed a [substantial spike in my traffic][1] yesterday when the latest 9rules members were [announced][2]. Thanks to everyone who emailed, messaged, and left their congratulations- I do appreciate it.
 

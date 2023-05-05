@@ -14,4 +14,4 @@ The first two people to use [this link][1] will be able to register a [claimID b
 
  [1]: http://claimid.com/register?key=d01ee6122f8734b5202473d512412ed64b0869a5
  [2]: http://claimid.com/about
- [3]: https://devin.reams.me/about/
+ [3]: https://devin.rea.ms/about/

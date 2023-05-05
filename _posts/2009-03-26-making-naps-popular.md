@@ -33,4 +33,4 @@ My body is, luckily, still used to the 80-90 minute sleep cycles so I can get aw
 
 Two days in and I&#8217;ve hit the ground running. I&#8217;m pretty stoked. If you have any questions and want to try biphasic sleep / naps just leave a comment.
 
- [1]: https://devin.reams.me/2006/biphasic-sleep-faq/
+ [1]: https://devin.rea.ms/2006/biphasic-sleep-faq/

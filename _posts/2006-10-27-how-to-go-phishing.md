@@ -12,7 +12,7 @@ tags:
 ---
 Phishers aren&#8217;t stupid, they&#8217;ve got a pretty good thing going for them: free money. I think we&#8217;re all familiar with how phishing works. Someone sends out hundreds of thousands, if not millions of emails to people posing as a bank, eBay, PayPal, King of Zimbabwe, etc.
 
-<img src="https://devin.reams.me/wp-content/uploads/2006/10/phishing.png" align="center" />
+<img src="https://devin.rea.ms/wp-content/uploads/2006/10/phishing.png" align="center" />
 
 Even if .0001% of the people who get these emails fall for them that&#8217;s a pretty huge return. It doesn&#8217;t cost much to send an email, right? But, as I mentioned the emails are pretty much a shot in the dark. A random email to a random person from a seemingly trusting but often unfamiliar source. Most of us know we don&#8217;t have an account with Bank of America, right? I obviously won&#8217;t even open those emails. So, how do you increase the odds of people opening their emails?
 

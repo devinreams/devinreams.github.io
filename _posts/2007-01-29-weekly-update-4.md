@@ -14,7 +14,7 @@ Last week brought a number of things to keep me busy. [AKPsi][1] began rush even
 
 <!--more-->
 
-<img src="https://devin.reams.me/wp-content/uploads/2007/01/akpsi.png" align="center" />
+<img src="https://devin.rea.ms/wp-content/uploads/2007/01/akpsi.png" align="center" />
 
 ## AKPsi
 

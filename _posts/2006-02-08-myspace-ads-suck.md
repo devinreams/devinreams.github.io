@@ -13,7 +13,7 @@ tags:
 ---
 I was running some numbers today because, well, I hate myspace. Usually I can handle people&#8217;s unique background images and their silly javascript cursors but I hate the crammed, ad-filled look.
 
-<img width="185" height="181" align="right" id="image99" alt="myspace.jpg" src="https://devin.reams.me/wp-content/uploads/2006/05/myspace.jpg" />I took a screenshot of the &#8216;above-the-fold&#8217; view I see on my resolution (1280&#215;1024). I end up seeing almost a perfect 800&#215;800 square. Now as you can see there are two very prominent ads taking up prime visual space on my home page. The top banner is a 730&#215;90 and the second (much more obnoxious) ad is 300&#215;300 in size. Let&#8217;s do some math:
+<img width="185" height="181" align="right" id="image99" alt="myspace.jpg" src="https://devin.rea.ms/wp-content/uploads/2006/05/myspace.jpg" />I took a screenshot of the &#8216;above-the-fold&#8217; view I see on my resolution (1280&#215;1024). I end up seeing almost a perfect 800&#215;800 square. Now as you can see there are two very prominent ads taking up prime visual space on my home page. The top banner is a 730&#215;90 and the second (much more obnoxious) ad is 300&#215;300 in size. Let&#8217;s do some math:
 
 *   Total Pixels: 800 x 800 = 640,000
 *   Banner Ad: 730 x 90 = 65,700
@@ -23,7 +23,7 @@ I was running some numbers today because, well, I hate myspace. Usually I can ha
 
 I thought, &#8216;Wow, 1/4 of the page is dedicated to advertising&#8217;. I tried to think of some way to weight the box ad since it&#8217;s right in front of my face. I wasn&#8217;t successfully clever enough. I started thinking some more and I realized, &#8216;is 24% typical?&#8217;
 
-<img width="224" height="141" align="right" id="image98" alt="google.jpg" src="https://devin.reams.me/wp-content/uploads/2006/05/google.jpg" />Google&#8217;s page does expand to fit the full screen so there may be more total pixels but perhaps a smaller percentage?
+<img width="224" height="141" align="right" id="image98" alt="google.jpg" src="https://devin.rea.ms/wp-content/uploads/2006/05/google.jpg" />Google&#8217;s page does expand to fit the full screen so there may be more total pixels but perhaps a smaller percentage?
 
 *   Total Pixels: 1264 x 800 = 1,012,000
 *   Top Links: 935 x 85 = 79,475

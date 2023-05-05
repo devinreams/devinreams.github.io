@@ -7,7 +7,7 @@ categories:
   - Internet
   - Lifehack
 ---
-<img src="https://devin.reams.me/wp-content/uploads/2012/03/empty-reading-list-full-instapaper-510x244.png" alt="" title="Empty Reading List, full Instapaper" width="510" height="244" class="aligncenter size-medium-img wp-image-3196" />
+<img src="https://devin.rea.ms/wp-content/uploads/2012/03/empty-reading-list-full-instapaper-510x244.png" alt="" title="Empty Reading List, full Instapaper" width="510" height="244" class="aligncenter size-medium-img wp-image-3196" />
 
 If you&#8217;ve ever looked at Safari&#8217;s new &#8220;Reading List&#8221; feature and wondered &#8220;is it good enough to replace [Instapaper][1]?&#8221; or a similar read-it-later service don&#8217;t worry, I&#8217;ve tested it out for you. Four months ago I moved all my articles into Safari (my primary web browser) and stopped using the Instapaper applications to read on my iPad and iPhone. Spoiler alert: I almost complete stopped saving articles to be read and I stopped reading saved articles.
 

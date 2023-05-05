@@ -10,7 +10,7 @@ categories:
 tags:
   - Antiquated
 ---
-<img src="https://devin.reams.me/wp-content/uploads/2006/12/blizzardpic.jpg" align="center" />
+<img src="https://devin.rea.ms/wp-content/uploads/2006/12/blizzardpic.jpg" align="center" />
 
 If you missed it, Denver was hit by a nice little blizzard on Wednesday. My house had over 20 inches of accumulation. Other places around the state had four feet. I&#8217;m just glad the power stayed on- I got a lot accomplished as far as Playstation 2 games is concerned. But, after a few hours in the house it&#8217;s pretty fun to go outside. Here&#8217;s a few ways we kept ourselves occupied.
 

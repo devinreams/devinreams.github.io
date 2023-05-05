@@ -3,7 +3,7 @@ title: Putting the Fun in Fundraising
 layout: post
 ---
 
-It's been five months since [I joined ToMarket](https://devin.reams.me/2023/going-tomarket/) and next week will be my last working with them full-time. It's been a tough year or so for startups and we were not immune to the macroeconomic landscape and headwinds. 
+It's been five months since [I joined ToMarket](https://devin.rea.ms/2023/going-tomarket/) and next week will be my last working with them full-time. It's been a tough year or so for startups and we were not immune to the macroeconomic landscape and headwinds. 
 
 It's hard to raise money in the best of times, but was even harder recently. Gergely Orosz at [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/the-scoop-45) agrees. He shares his analysis and this summed it up for me:
 
