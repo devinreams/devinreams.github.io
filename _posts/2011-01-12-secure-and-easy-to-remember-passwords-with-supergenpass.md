@@ -69,4 +69,4 @@ Still not convinced? [Drop a line][11] or leave a comment to share your thoughts
  [8]: http://crypto.stanford.edu/PwdHash/
  [9]: http://supergenpass.com/customize/
  [10]: http://supergenpass.com/mobile/
- [11]: mailto:devin@reams.me
+ [11]: mailto:devin@rea.ms
