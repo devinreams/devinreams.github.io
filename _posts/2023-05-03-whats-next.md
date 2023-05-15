@@ -19,7 +19,7 @@ I'm faced with an existential question: what do I want to do with my life? I've 
 So what kind of roles or areas do I start to steer towards?
 
 - Product and Software Development: where I've spent most time recently, perhaps through sheer momentum. It's fun to help a team build something.
-- Go-To-Market: I look back fondly on my time in technology companies and helping with pre-sales, customer success, and any customer-facing work with clear business outcomes. It's challenging and rewarding in different ways.
+- Go-To-Market: I look back fondly on my time in technology companies and helping with pre-sales, customer success, and any customer-facing work with clear business outcomes. It's challenging and rewarding work.
 - Consulting: I've had a variety of experiences where I got to jump in and assess someone's needs then do some work to help them get where they want to be. I love helping others and also find it fun to collaborate and come up with a solution or reach some unmet potential.
 
 I've been on a "senior management" trajectory for the past few years but bounced around a bit. My long-term goal is likely executive-level management starting at the "Director" level soon. My exposure and experience to the work have been fun and challenging and I think I'd continue to be good at it. 
