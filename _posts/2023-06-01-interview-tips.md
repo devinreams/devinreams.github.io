@@ -41,7 +41,7 @@ Sometimes you're lucky and a recruiter will walk you through this: "the first in
 
 We often talk about group situations from work, projects, and school with "we did", "we learned" or "we accomplished". This is good when sharing credit but the interview is about you.
 
-Be sure to clearly say "I did" when talking about your actions. Otherwise. when assessing if you have the competency or experience, it may be unclear: did someone on the team decide and this person merely observed it and is explaining it to me? Clearly show your contribution and the (perhaps collective) result.
+Be sure to clearly say "I did" when talking about your actions. Otherwise, when assessing if you have the competency or experience, it may be unclear: did someone else on the team decide and this person observed it? Clearly show your contribution and the (collective?) result.
 
 Remember STAR when giving examples: quickly explain the **S**ituation and **T**ask. Then focus primarily on (_your_) **A**ction. And the (positive) **R**esult.
 
@@ -51,7 +51,7 @@ It's always okay, even appreciated, when you listen to the question, jot it down
 
 Find your example. Think about how you'll respond. And _then_ respond.
 
-There's no need to rush and get to the first thing that comes to mind because you have done the preparation that will likely help you do well at this moment.
+There's no need to rush and get to the first thing that comes to mind! You prepared... which will likely help you do well at this moment.
 
 ---
 
