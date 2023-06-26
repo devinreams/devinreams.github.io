@@ -10,14 +10,15 @@ layout: page
 ## Quick Facts
 
 - I'm [married to my best friend](https://redmonk.com/rstephens/), Rachel and we have two cute kids.
-- I was CTO of the Denver-based startup [ToMarket](/2023/going-tomarket) for [five months](/2023/the-fun-in-fundraising/).
-- I previously led mobile engineering at [Smartsheet](/2022/where-ive-been/).
-- I also helped lead a number of engineering teams at [Mozilla](https://mozilla.com/).
-- I also helped manage sales and business systems and operations at [GitHub](https://github.com/about/).
-- I also helped manage consulting projects at [Crowd Favorite](/2014/the-end-of-chapter-1-my-fond-farewell-to-crowd-favorite/).
 - I grew up in Colorado, [studied here](http://leeds.colorado.edu/), and plan to stay here. Though, we like traveling and visiting new places.
 - I love to [ski](http://cosnow.com/), snowshoe, camp, and hike.
 - I occasionally brew my own beer...
+- *I'm currently looking for [my next career move](https://devin.rea.ms/2023/whats-next/)...*
+- I was head of technology for the Denver-based startup [ToMarket](/2023/going-tomarket) for [five months](/2023/the-fun-in-fundraising/).
+- I also led mobile engineering teams at [Smartsheet](/2022/where-ive-been/).
+- I also helped lead a number of mobile and browser engineering teams at [Mozilla](https://mozilla.com/).
+- I also helped manage sales and business systems and operations at [GitHub](https://github.com/about/).
+- I also helped manage consulting projects at [Crowd Favorite](/2014/the-end-of-chapter-1-my-fond-farewell-to-crowd-favorite/).
 
 <img src="/img/devinreams-githubber.gif" alt="Devin brews beer at GitHub" width="100%">
 
