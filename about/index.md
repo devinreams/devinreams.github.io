@@ -38,9 +38,10 @@ layout: page
 
 ### Gadgets
 
-- MacBook Air M2, 2022 (Midnight)
-- iPhone 14 Pro (Silver)
+- MacBook Air M2 (2022)
+- iPhone 14 Pro
 - Apple Watch
+- Firewalla
 - eero
 - Sonos
 - Apple TV 4K
