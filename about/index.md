@@ -18,12 +18,12 @@ layout: page
 
 ## Career
 
-- **I'm currently looking for [my next career move](https://devin.rea.ms/2023/whats-next/)...**
-- I was head of technology for the Denver-based startup [ToMarket](/2023/going-tomarket) for [five months](/2023/the-fun-in-fundraising/).
-- I also led mobile engineering teams at [Smartsheet](/2022/where-ive-been/).
-- I also helped lead a number of mobile and browser engineering teams at [Mozilla](https://mozilla.com/).
-- I also helped manage sales and business systems and operations at [GitHub](https://github.com/about/).
-- I also helped manage consulting projects at [Crowd Favorite](/2014/the-end-of-chapter-1-my-fond-farewell-to-crowd-favorite/).
+- I'm an engineering manager at [Grafana Labs](https://grafana.com/)
+- I was head of technology for the Denver-based startup [ToMarket](/2023/the-fun-in-fundraising/).
+- I led mobile engineering teams at [Smartsheet](/2022/where-ive-been/).
+- I led a number of mobile and browser engineering teams at [Mozilla](https://mozilla.com/).
+- I managed sales and business systems and operations at [GitHub](https://github.com/about/).
+- I managed consulting projects at [Crowd Favorite](/2014/the-end-of-chapter-1-my-fond-farewell-to-crowd-favorite/).
 
 ## Contact
 
