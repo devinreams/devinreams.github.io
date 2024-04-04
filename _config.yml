@@ -3,11 +3,11 @@ name: Devin Reams
 title: Devin Reams
 sub-title: ""
 description: "Personal website of Devin Reams, technologist in Colorado."
-intro: "Hi! I'm [Devin](/about/). I'm sensibly impulsive, consistently non-committal, and passionately impartial. I'm a technologist living in Denver, Colorado."
+intro: "Howdy! I'm [Devin](/about/). I'm sensibly impulsive, consistently non-committal, and passionately impartial. I'm a technologist living in Denver, Colorado."
 
 email: devin@rea.ms
 url: "https://devin.rea.ms"
-version: 2.7.6
+version: 2.7.7
 
 # Build settings
 permalink: /:year/:title/
