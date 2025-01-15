@@ -20,7 +20,7 @@ layout: page
 
 - I help with revenue operations and technology at [poolside](https://poolside.ai/).
 - I co-led business applications engineering teams at [Grafana Labs](https://grafana.com/)
-- I was head of technology for the Denver-based startup [ToMarket](/2023/the-fun-in-fundraising/).
+- I was briefly the head of technology for the Denver-based startup [ToMarket](/2023/the-fun-in-fundraising/).
 - I co-led mobile engineering teams at [Smartsheet](/2022/where-ive-been/).
 - I led a number of mobile and browser engineering teams at [Mozilla](https://mozilla.com/).
 - I managed sales plus business systems and operations at [GitHub](https://github.com/about/).
@@ -30,32 +30,35 @@ layout: page
 
 <ul>
     <li><a rel="me" href="https://github.com/devinreams" target="_blank"><span class="octicon octicon-mark-github"></span> GitHub</a></li>
-    <li><a rel="me" href="https://snowmastodon.social/@devinreams" target="_blank"><span class="octicon octicon-globe"></span> Mastodon</a></li>
+    <li><a rel="me" href="https://bsky.app/profile/devin.rea.ms" target="_blank"><span class="octicon octicon-globe"></span> Bluesky</a></li>
     <li><a rel="me" href="https://instagram.com/devinreams" target="_blank"><span class="octicon octicon-device-camera"></span> Instagram</a></li>
     <li><a rel="me" href="mailto:devin@rea.ms"><span class="octicon octicon-mail"></span> Email</a></li>
 </ul>
 
 ## Setup
 
-### Gadgets
+### Gadgets & Toys
 
 - MacBook Air M2 (2022)
-- iPhone 14 Pro
+- iPhone 16 Pro
 - Apple Watch
 - Firewalla
 - eero
+- Synology DS220+
 - Sonos
 - Apple TV 4K
 - LG OLED
 - Kindle Paperwhite
 - Nintendo Switch
 - Peloton Bike
+- [Rivian](https://rivian.com/configurations/list?reprCode=DEVIN4036789) R1S (Gen 2)
 
 ### Software
 
-- [Code](https://code.visualstudio.com/) for light coding and text editing
-- [Firefox](https://www.firefox.com/) and Safari for web work and browsing
+- Safari for web work and browsing
+- [Krisp](https://krisp.ai/) for meeting transcriptions and noise cancelation
+- [Visual Studio Code](https://code.visualstudio.com/) for light coding and text editing
 - [GitHub](https://github.com/) for collaboration
-- [Hemingway App](https://hemingwayapp.com) for clearer writing (I hope?)
 - [Linode](https://www.linode.com/lp/refer/?r=86bb1f0074fddd6de5fb72629a1330b3098bf43c) for web hosting
-- [CoPilot](https://copilot.money/link/Zqqh9hsYU8U1KJCP7) for personal finance and account management
+
+_Note: referral links above may give you and/or me some benefit_
