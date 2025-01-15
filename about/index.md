@@ -18,11 +18,12 @@ layout: page
 
 ## Career
 
-- I'm an engineering manager at [Grafana Labs](https://grafana.com/)
+- I help with revenue operations and technology at [poolside](https://poolside.ai/).
+- I co-led business applications engineering teams at [Grafana Labs](https://grafana.com/)
 - I was head of technology for the Denver-based startup [ToMarket](/2023/the-fun-in-fundraising/).
-- I led mobile engineering teams at [Smartsheet](/2022/where-ive-been/).
+- I co-led mobile engineering teams at [Smartsheet](/2022/where-ive-been/).
 - I led a number of mobile and browser engineering teams at [Mozilla](https://mozilla.com/).
-- I managed sales and business systems and operations at [GitHub](https://github.com/about/).
+- I managed sales plus business systems and operations at [GitHub](https://github.com/about/).
 - I managed consulting projects at [Crowd Favorite](/2014/the-end-of-chapter-1-my-fond-farewell-to-crowd-favorite/).
 
 ## Contact
