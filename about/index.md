@@ -29,6 +29,7 @@ layout: page
 ## Contact
 
 <ul>
+    <li><a rel="me" href="https://lnkd.in/devinreams" target="_blank"><span class="octicon octicon-briefcase"></span> LinkedIn</a></li>
     <li><a rel="me" href="https://github.com/devinreams" target="_blank"><span class="octicon octicon-mark-github"></span> GitHub</a></li>
     <li><a rel="me" href="https://bsky.app/profile/devin.rea.ms" target="_blank"><span class="octicon octicon-globe"></span> Bluesky</a></li>
     <li><a rel="me" href="https://instagram.com/devinreams" target="_blank"><span class="octicon octicon-device-camera"></span> Instagram</a></li>
