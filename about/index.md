@@ -43,7 +43,6 @@ layout: page
 - iPhone 16 Pro
 - Apple Watch
 - Firewalla
-- eero
 - Synology DS220+
 - Sonos
 - Apple TV 4K
