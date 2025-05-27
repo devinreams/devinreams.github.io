@@ -22,7 +22,7 @@ layout: page
 - I co-led business applications engineering teams at [Grafana Labs](https://grafana.com/)
 - I was briefly the head of technology for the Denver-based startup [ToMarket](/2023/the-fun-in-fundraising/).
 - I co-led mobile engineering teams at [Smartsheet](/2022/where-ive-been/).
-- I led a number of mobile and browser engineering teams at [Mozilla](https://mozilla.com/).
+- I led a number of mobile and browser engineering teams at [Mozilla](/2017/joining-mozilla/).
 - I managed sales plus business systems and operations at [GitHub](https://github.com/about/).
 - I managed consulting projects at [Crowd Favorite](/2014/the-end-of-chapter-1-my-fond-farewell-to-crowd-favorite/).
 
