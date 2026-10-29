@@ -18,7 +18,8 @@ layout: page
 
 ## Career
 
-- I help with revenue operations and technology at [poolside](https://poolside.ai/).
+- I am a director of technology at [Stable Kernel](https://stablekernel.com/) focused on sales engineering.
+- I helped with revenue operations and technology at [poolside](https://poolside.ai/).
 - I co-led business applications engineering teams at [Grafana Labs](https://grafana.com/)
 - I was briefly the head of technology for the Denver-based startup [ToMarket](/2023/the-fun-in-fundraising/).
 - I co-led mobile engineering teams at [Smartsheet](/2022/where-ive-been/).
@@ -39,8 +40,9 @@ layout: page
 
 ### Gadgets & Toys
 
+- MacBook Pro 16-inch M5 Pro
 - MacBook Air M2 (2022)
-- iPhone 16 Pro
+- iPhone 18 Pro
 - Apple Watch
 - Firewalla
 - Synology DS220+
